@@ -23,7 +23,7 @@ UI_BACKSTORY,Backstory
 UI_FIRST_NAME,First Name
 UI_LAST_NAME,Second Name
 UI_NICKNAME,Nickname
-UI_PERSONALITY,Personalities
+UI_TRAITS,Traits
 UI_MEDICAL_CONDITIONS,Medical Conditions
 UI_NONE,None
 UI_VOCATION,Vocation
@@ -61,15 +61,39 @@ UI_CREW,Crew
 UI_NAME,Name
 UI_MORALE,Morale
 UI_STATUS,Status
-UI_ASSIGNED_ROOM,Assigned Room
-UI_ASSIGNED_ROLE,Assigned Role
-,
-,
-,
-,
-,
-,
-,
+UI_ASSIGNED_ROOM,Assign Room
+UI_ASSIGNED_ROLE,Assign Role
+UI_CONTINUE,Continue
+UI_SAVE_LOAD,Save/Load Menu
+UI_EXIT,Exit
+UI_EXIT_TO_OS,Exit to OS
+UI_CONTINUE,Continue
+UI_GAME_OVER,Game over
+UI_CARGO_CAPACITY,Cargo space capacity
+UI_MONEY,Credits
+UI_RESOURCE,Resource
+UI_YOUR_STOCK,Your Stock
+UI_SELL_PRICE,Sell Price
+UI_SELL,Sell
+UI_PURCHASE,Purchase
+UI_BUY_PRICE,Buy Price
+UI_OTHER_STOCK,Ship Stock
+UI_RESET,Reset
+UI_ACCEPT,Accept
+UI_ADD,Add
+UI_TYPE_NEW_ROLE,Type your new role here
+UI_SHIP_ROLES,Ship roles
+UI_JOBS,Jobs
+UI_SCHEDULE,Schedule
+UI_ADD_REMOVE_ROLES,Add/Remove roles
+UI_ROLE_NAME,Role name
+UI_NUMBER_OF_MEMBERS,# of members
+UI_REMOVE,Remove
+UI_HOTKEY,Hotkey
+UI_HEALTH,Health
+UI_NO_MATS_REQ,No Materials Required
+HINT_ROTATE_LEFT,Rotate left
+HINT_ROTATE_RIGHT,Rotate right
 ,
 ,
 ,
