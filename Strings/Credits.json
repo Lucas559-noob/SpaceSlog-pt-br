@@ -1,5 +1,6 @@
 {
 	"created_by": "Created by",
+	"team": "Team",
 	"music_and_sounds": "Music and Sounds",
 	"art": "Art",
 	"moderators": "Moderators",
@@ -7,6 +8,7 @@
 	"translations": "Translations",
 	"polish": "Polish language",
 	"french": "French language",
+	"ukrainian": "Ukrainian language",
 	"game_engine": "Game Engine",
 	"special_thanks": "Special Thanks",
 	"thanks_for_playing": "Thank you for playing!"

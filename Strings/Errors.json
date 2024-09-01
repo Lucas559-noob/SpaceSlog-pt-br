@@ -11,7 +11,6 @@
     "no_graphics_component_or_texture_path": "Item ({item}) has no valid graphics component or texture path.",
     "textures_dictionary_does_not_contain_texture": "The textures dictionary does not contain texture ({name}).",
     "cannot_find_any_textures": "Cannot find any textures for item ({name}).",
-    "error_in_filename": "{error} in {file_name}.",
     "cannot_load_or_save_entity_incorrect_type": "We cannot save/load this entity because it is not of type Node or Resource.",
     "should_use_method_to_load_vector": "We should be using values_convert to save and load Vector types.",
     "missing_data_from_file": "Missing data ({data}) from file ({file_name}).",
@@ -25,7 +24,7 @@
     "cannot_get_asset": "Cannot get asset {object_id}.",
     "asset_lost_cannot_place_on_facility": "{amount} {asset} lost because we have no where to place them on {facility}.",
     "asset_lost_cannot_place_in_radius": "{amount} {asset} lost because we have no where to place them with a radius of {radius}.",
-    "cannot_spawn_pawn_no_tile": "Trying to spawn a pawn but we have no tile to spawn at. Spawn Cancelled!",
+    "cannot_spawn_pawn_no_tile": "Trying to spawn a pawn but we have no cell to spawn at. Spawn Cancelled!",
     "no_race_info_assigned": "Trying to spawn a pawn with no race information assigned! Please check Pawn_Spawn_Types data.",
     "error_getting_graphics_class": "There was an error getting the graphics class for item ({name}) so setting default. Possibly not set in JSON files.",
     "trying_to_add_fire_out_of_bounds": "Trying to add fire out of map bounds.",
@@ -67,7 +66,7 @@
     "need_power_receiver_and_power_source_components": "You need to have both a PowerReceiver and PowerSource Component for a PowerStorer component to function.",
     "trying_to_set_already_mobile_pawn_mobile": "Trying to set pawn ({name}) mobile that is already mobile",
     "trying_to_set_already_dead_pawn_dead": "Trying to set pawn ({name}) dead that is already dead",
-    "trying_to_set_already_downed_pawn_downed": "Trying to set pawn ({name}) downed that is already downed",
+    "trying_to_set_already_collapsed": "Trying to set an already collapsed pawn ({name}) as collapsed.",
     "trying_to_set_already_incapacitated_pawn_incapacitated": "Trying to set pawn ({name}) incapacitated that is already incapacitated",
     "no_key_for_language": "There is no text key for {language}: {text_needed}"
 }

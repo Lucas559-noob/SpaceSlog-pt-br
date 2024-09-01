@@ -1,15 +1,22 @@
 {
 	"game_difficulty": {
-		"shipbuilder": "Ship Builder",
-		"timid": "Timid",
-		"normal": "Normal",
-		"brutal": "I hate winning",
-		"default_description": "Here you can choose the difficulty of the game. The different options will effect things such as event frequency and difficulty, the amount of generated factions and how powerful or hostile these factions will be.",
-		"shipbuilder_description": "If you want to peacefully build your ship or just explore. Threats will be mostly non-existent and factions will be mostly friendly. You will have more potential trade variation and your pawns will have a permanent mood buff.",
-		"timid_description": "For those that prefer building or exploration and offers a more laid back experience. Events will be less hostile and less frequent. Factions will likely be more friend than foe.",
-		"normal_description": "Ensures the game is played how the designer intended the game to be played. Events will be randomised offering a higher replay value. Things could either go really well or horribly wrong. Faction alignment is random.",
-		"brutal_description": "Only choose this option if you want a real challenge, this is only advised for more experienced players. Events will be more hostile and will occur much more frequently. Factions will be more foe than friend."
+		"shipbuilder": "Ship Builder - The architect",
+		"timid": "Timid - Easy does it",
+		"normal": "Normal - I'm a traditionalist",
+		"brutal": "Brutal - I hate winning",
+		"shipbuilder_description": "If you want to peacefully build your ship or just explore. Threats will be mostly non-existent and factions will be mostly friendly. Your pawns will have a permanent mood buff.",
+		"timid_description": "For those that prefer a more laid back slightly easier experience. Threats will be lower and incidents will be less frequent.",
+		"normal_description": "This offers the standard classic experience. Best suited to those that have played before.",
+		"brutal_description": "Only choose this option if you want a real challenge, this is only advised for more experienced players. Incidents will be more hostile and will occur much more frequently. Factions will be more foe than friend."
 	},
+
+	"game_type": {
+		"progressive": "Harmony - Let's take it slow",
+		"random": "Random - Loves chaos and drama",
+		"progressive_description": "Creates a more harmonious and laid back experience. Here there is still some randomisation but not as much. Incidents will be more calculated and progressive, giving you extra breathing space.",
+		"random_description": "Faction alignment, incidents and various other elements of the game will be much more randomised offering more drama and a higher replay value. Things could either go really well or horribly wrong."
+	},
+
 	"game_settings": {
 		"world_seed_description": "Here you can change the random seed for the current universe. You can then share this seed so others can play the same universe as you.",
 		"randomise_seed_button_hint": "Randomises the current seed.",
@@ -23,6 +30,9 @@
 	"quit_confirm": "Are you sure? If you quit now you will lose any unsaved progress.",
 
 	"skill_required": "Skill required",
+	"fertility": "Fertility",
+	"requires": "Requires",
+	"prefab": "prefab",
 
 	"scenario_default_description": "Choose your story to continue...",
 	"select": "Select",
@@ -65,7 +75,19 @@
 		"health": "How much health this creature has.",
 		"mood": "This creatures current mood.",
 		"atmosphere": "This creatures breathable status.",
-		"gas_tank_level": "How much air the currently equipped gas tank has remaining."
+		"gas_tank_level": "How much air the currently equipped gas tank has remaining.",
+		"facility_label": "of {facility_name}"
+	},
+
+	"object_panel" : {
+		"fuel_type_required": "Current fuel amount.\n\nFuel required: {fuel}.",
+		"air_source": "The amount of gas being produced.",
+		"air_receiver": "The amount of gas receiving.",
+		"stored_air": "The amount of gas currently stored.",
+		"stored_power": "The amount of power currently stored.",
+		"growth_percent": "{growth}% grown",
+		"ready_to_harvest": "Ready to harvest",
+		"mature": "Mature"
 	},
 
 	"morale_panel": {
@@ -84,6 +106,11 @@
 		"blunt_attack": "Total blunt attack.",
 		"cut_defence": "Total cut defence.",
 		"blunt_defence": "Total blunt defence."
+	},
+
+	"crew_panel": {
+		"always_try_wear_spacesuit": "Select to ensure this character will always try and wear a full spacesuit if available.",
+		"allow_removal_of_helmet": "Select to allow this character to remove their helmet whenever possible."
 	},
 
 	"equipment_slots": {
@@ -107,29 +134,26 @@
 	},
 
 	"context" :{
-		"schedule": "schedule",
-		"drop": "drop {name}.",
-		"wear": "wear {name}.",
-		"equip": "equip {name}.",
-		"haul": "haul {name}.",
-		"clean": "clean {name}.",
-		"move": "move here.",
-		"rest": "rest at {name}."
+		"schedule": "schedule"
 	},
 
-	"systems_alarm_button": "Sound the alarm. Red Alert: Everyone get back to the ship!",
+	"systems_alarm_button": "Sound the alarm. Red Alert!",
 	"systems_power_button": "Turn all the ships power on or off.",
+	"black_alert": "Black Alert: Everyone get back to the ship!",
+	"jump_to_high_burn": "Propel to high burn. Warning: Doing so will leave everything in this sector behind.",
+	"drop_from_high_burn": "Drop from high burn. Doing so will leave you vulnerable to your surroundings.\nYou will also need to recharge your burn meter.",
+	"high_burn_meter": "To enter high burn, the ship thrusters have to charge and the cabin within the ship has to pressurise.\nThis is determined by the amount of thrusters currently being powered.\nOnce completed you can enter high burn.\n\nCurrent charge: {current}\nCharge required: {max}",
 	"pause": "Pause",
 	"normal_speed": "1X speed",
 	"fast": "3X speed",
 	"faster": "5X speed",
 
-	"ship_trading_with": "Trading with The {ship_name}",
+	"ship_communicating_with": "Facility: The {ship_name}",
 	"pawn_initiated_trade": "{pawn_name} has initiated trade with a social skill of {skill_level}",
 
 	"no_name_set": "No name set.",
 	"no_description_set": "No description set.",
-	"pawn_amount": "Start with {amount} crew.",
+	"pawn_amount": "{amount} members.",
 
 	"click_to_assign": "Click to assign",
 	"power_button_on": "all on",
@@ -139,14 +163,29 @@
 	"sys_quartermaster_button": "The current quartermaster of this ship.\nClick to assign a new quartermaster.",
 	"sys_red_alert_button" : "Sound the alert!",
 
-	"hint_ship_trading": "Trading requires you to have positive relations,\na Comms console,\nand someone to initiate the trade.",
-	"hint_bribe_ship": "If this ship is hostile,\nbribing them may force them to leave.",
-	"cannot_bribe_ship": "You cannot bribe this ship",
-	"already_bribed": "This ship has already\nbeen bribed",
-	"attempt_to_bribe": "Attempt to bribe this ship\n for {bribe_amount} credits?",
+	"facility_panel": {
+		"faction_info": "{ship_type} of {faction}",
+		"bribe_info": "Bribing a ship could increase your relations with the faction they belong to. If they are hostile and you are successful they may decide to leave rather than take offensive action. Be warned though that a failed bribe attempt could have catastrophic consequences.",
+		"ship_left": "The {ship_name} has left comms range",
+		"no_communication_device": "You need a communication device to initiate communications!",
+		"no_pawn_to_communicate": "There is no one to open communications.",
+		"no_trade_low_relation": "Unable to trade due to low relations!",
+		"no_trade_no_pawn": "There is no one to initiate a trade.",
+		"no_bribe_no_pawn": "There is no one to initiate a bribe.",
+		"no_bribe_no_credits": "You cannot afford to do this!",
+		"bribe_successful": "Your bribe was successful!",
+		"bribe_unsuccessful": "Your bribe was unsuccessful!",
+		"ship_cannot_afford_this": "This trader cannot afford to buy this!",
+		"player_not_enough_credits": "You do not have enough credits to buy this!",
+		"hint_ship_trading": "Trading requires you to have positive relations, a Comms console, and someone to initiate the trade.",
+		"hint_bribe_ship": "If this ship is hostile, bribing them may force them to leave.",
+		"cannot_bribe_ship": "You cannot bribe this ship",
+		"already_bribed": "This ship has already been bribed",
+		"attempt_to_bribe": "You can attempt to bribe this ship for {bribe_amount} credits."
+	},
 
 	"incapable_performing_skill": "Incapable of performing this skill",
-	"level": "Level",
+	"level": "Skill level",
 	"total_experience": "Total experience",
 	"experience_next_level": "Experience for next level",
 
@@ -202,8 +241,7 @@
 	"nothing_to_eat": "Your crew has nothing to eat",
 
 	"history": {
-		"joined_crew": "Joined your crew.",
-		"pawn_died": "Died."
+		"joined_crew": "Joined your crew."
 	},
 
 	"notification": {
@@ -219,19 +257,8 @@
 		"room_breached": "{room_name} has been breached.",
 		"room_destroyed": "{room_name} has been destroyed.",
 		"ran_out_of_fuel": "A {entity} has ran out of fuel.",
-		"ship_left": "The {ship_name} has left comms range",
-		"no_communication_device": "You need a communication device to initiate communications!",
-		"no_trade_low_relation": "Unable to trade due to low relations!",
-		"no_trade_no_pawn": "There is no one to initiate a trade!",
-		"no_bribe_no_pawn": "There is no one to initiate a bribe!",
-		"no_bribe_no_credits": "You do not have enough credits to bribe!",
-		"bribe_successful": "You're bribe was successful!",
-		"bribe_unsuccessful": "You're bribe was unsuccessful!",
 		"red_alert_started": "RED ALERT INITIATED!",
 		"red_alert_finished": "RED ALERT ENDED!",
-		"ship_cannot_afford_this": "This ship cannot afford to buy this!",
-		"player_not_enough_credits": "You do not have enough credits to buy this!",
-		"player_not_enough_cargo_space": "You do not have cargo space to buy this!",
 		"nothing_to_cancel": "There is nothing to cancel here.",
 		"cannot_deconstruct_here": "Cannot deconstruct here.",
 		"unable_to_build_here": "Unable to build here.",
@@ -258,7 +285,13 @@
 		"powering_up": "Powering Up.....",
 		"powering_down": "Powering Down.....",
 		"booting_systems": "Booting Systems.....",
-		"restarting_systems": "Restarting Systems....."
+		"restarting_systems": "Restarting Systems.....",
+		"building_core_data": "Building core data.",
+		"building_module_data": "Building module data.",
+		"building_textures": "Building textures.",
+		"world_grid_ready": "World grid ready.",
+		"loading_game_world": "Loading game world.",
+		"generating_initial_room": "Generating initial room."
 	},
 
 	"relation_text": {
@@ -319,9 +352,20 @@
 	"state_text": {
 		"maintenance": "Performing maintenance",
 		"cleaning": "Cleaning",
-		"dead": "Decaying",
+		"dead": "Dead",
 		"sleeping": "Sleeping",
-		"snoozing": "Snoozing"
+		"snoozing": "Snoozing",
+		"idle": "Idle",
+		"awaiting_orders": "Awaiting orders",
+		"collapsed": "Collapsed"
+	},
+
+	"priority": {
+		"will_not_do_it": "Will not do this task",
+		"low": "Low priority",
+		"medium": "Medium priority",
+		"high": "High priority",
+		"highest": "Top priority"
 	}
 }
 		
