@@ -1,0 +1,166 @@
+{
+    "Build": {
+        "title": "Construct buildings",
+        "description": "Building"
+    },
+    "Deconstruct": {
+        "title": "Deconstruct buildings",
+        "description": "Deconstructing building"
+    },
+    "Mine": {
+        "title": "Mine asteroids",
+        "description": "Mining"
+    },
+    "Refuel": {
+        "title": "Refuel buildings",
+        "description": "Refuelling"
+    },
+    "Eat": {
+        "title": "Eat",
+        "description": "Eating"
+    },
+    "Drink": {
+        "title": "Drink",
+        "description": "Drinking"
+    },
+    "Sleep": {
+        "title": "Sleep",
+        "description": "Sleeping"
+    },
+    "Roam": {
+        "title": "Roam",
+        "description": "Roaming"
+    },
+    "BeatFire": {
+        "title": "Put out fires"
+    },
+    "Clean": {
+        "title": "Clean dirt",
+        "description": "Cleaning"
+    },
+    "SelfTend": {
+        "title": "Self tend"
+    },
+    "RestHeal": {
+        "title": "Rest heal",
+        "description": "Resting in bed until healed."
+    },
+    "Rescue": {
+        "title": "Rescue creatures",
+        "description": "Rescuing collapsed pawn."
+    },
+    "Repair": {
+        "title": "Repair buildings",
+        "description": "Repairing"
+    },
+    "Haul": {
+        "title": "Haul to stockpile",
+        "description": "Hauling"
+    },
+    "HaulObstruction": {
+        "title": "Haul obstruction",
+        "description": "Hauling obstruction"
+    },
+    "HaulToPrefab": {
+        "title": "Haul to construction",
+        "description": "Hauling to prefab"
+    },
+    "HaulToRecipe": {
+        "title": "Haul to recipe",
+        "description": "Hauling to recipe"
+    },
+    "Research": {
+        "title": "Conduct research"
+    },
+    "FindAtmosphere": {
+        "title": "Find safe atmosphere"
+    },
+    "FindSafeTemperature": {
+        "title": "Find safe temperature"
+    },
+    "DoBadMood": {
+        "title": "Do bad mood"
+    },
+    "DoGoodMood": {
+        "title": "Do good mood"
+    },
+    "DoSocial": {
+        "title": "Do social"
+    },
+    "MoveDead": {
+        "title": "Dispose of dead creatures",
+        "description": "Moving the dead"
+    },
+    "EquipSpacesuit": {
+        "title": "Equip spacesuit",
+        "description": "Equipping a spacesuit"
+    },
+    "ForceMove": {
+        "title": "Force move",
+        "description": "Moving"
+    },
+    "Equip": {
+        "title": "Equip",
+        "description": "Equipping"
+    },
+    "UnEquip": {
+        "title": "Drop",
+        "description": "Dropping"
+    },
+    "Strip": {
+        "title": "Strip creature",
+        "description": "Stripping"
+    },
+    "DestroyAsset": {
+        "title": "Destroy item",
+        "description": "Destroying item."
+    },
+    "UseEntertainment": {
+        "title": "Use entertainment",
+        "description": "Using entertainment"
+    },
+    "SitAtChair": {
+        "title": "Sit at chair",
+        "description": "Sitting at chair"
+    },
+    "HealPawn": {
+        "title": "Heal patient",
+        "description": "Healing pawn back to health"
+    },
+    "FeedPawn": {
+        "title": "Feed patient",
+        "description": "Feeding pawn"
+    },
+    "HydratePawn": {
+        "title": "Hydrate patient",
+        "description": "Hydrating pawn"
+    },
+    "Slaughter": {
+        "title": "Slaughter collapsed creature",
+        "description": "Slaughtering"
+    },
+    "Butcher": {
+        "title": "Butcher creature",
+        "description": "Butchering"
+    },
+    "FollowAndMelee": {
+        "title": "Follow and melee",
+        "description": "Melee"
+    },
+    "Flee": {
+        "title": "Flee",
+        "description": "Flee to a safe area"
+    },
+    "SowPlant": {
+        "title": "Sow plant",
+        "description": "Sow a plant"
+    },
+    "HarvestPlant": {
+        "title": "Harvest plant",
+        "description": "Harvesting a plant"
+    },
+    "HarvestBrew": {
+        "title": "Harvest brew",
+        "description": "Harvesting a brew"
+    }
+}

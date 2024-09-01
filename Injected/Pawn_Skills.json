@@ -1,0 +1,46 @@
+{
+	"Engineering" : {
+		"title": "engineering",
+		"description": "A useful skill when building, maintaining and repairing things."
+	},
+	"Navigation" : {
+		"title": "navigation",
+		"description": "Quicker ship speeds and can make a better Captain."
+	},
+	"Ranged" : {
+		"title": "ranged",
+		"description": "Ranged combat, better accuracy and effectiveness with firearms and shipborne weaponry."
+	},
+	"Melee" : {
+		"title": "melee",
+		"description": "Effectiveness in hand to hand combat both armed and unarmed."
+	},
+	"Social" : {
+		"title": "social",
+		"description": "Likeability, negotiation and the ability to get on with others."
+	},
+	"Operations" : {
+		"title": "operations",
+		"description": "Operating various ship components, such as thrusters."
+	},
+	"Cooking" : {
+		"title": "cooking",
+		"description": "Ability to cook and brew using raw ingredients."
+	},
+	"Mining" : {
+		"title": "mining",
+		"description": "Efficiency and speed of mining materials."
+	},
+	"Science" : {
+		"title": "science",
+		"description": "Researching and growing."
+	},
+	"Animals" : {
+		"title": "animals",
+		"description": "Taming and training animals, maybe aliens too."
+	},
+	"Medical" : {
+		"title": "medical",
+		"description": "Using medicine and the healing of others."
+	}
+}
