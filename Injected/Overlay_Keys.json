@@ -1,0 +1,56 @@
+{
+    "Sealed": {
+        "title": "Sealed"
+    },
+    "Leaking": {
+        "title": "Leaking"
+    },
+    "Breached": {
+        "title": "Breached"
+    },
+    "Connected": {
+        "title": "Connected"
+    },
+    "Disconnected": {
+        "title": "Disconnected"
+    },
+    "VeryHot": {
+        "title": "Very Hot"
+    },
+    "Hot": {
+        "title": "Hot"
+    },
+    "Room": {
+        "title": "Room"
+    },
+    "Cold": {
+        "title": "Cold"
+    },
+    "SubZero": {
+        "title": "Sub-Zero"
+    },
+    "ExtremeCold": {
+        "title": "Extreme Cold"
+    },
+    "Safe": {
+        "title": "Safe"
+    },
+    "Harmful": {
+        "title": "Harmful"
+    },
+    "Lethal": {
+        "title": "Lethal"
+    },
+    "High": {
+        "title": "High"
+    },
+    "Medium": {
+        "title": "Medium"
+    },
+    "Low": {
+        "title": "Low"
+    },
+    "None": {
+        "title": "None"
+    }
+}

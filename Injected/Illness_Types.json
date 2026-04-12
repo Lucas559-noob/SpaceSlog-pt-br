@@ -1,8 +1,110 @@
 {
-	"General": {
-		"title": "General"
+	"Hypoxaemia": {
+		"title": "Hypoxaemia",
+		"description": "A condition that occurs due to insufficient oxygen in the blood.",
+		"stages": {
+			"Minor": {
+				"title": "Minor"
+			},
+			"Moderate":{
+				"title": "Moderate"
+			},
+			"Major": {
+				"title": "Major"
+			},
+			"Severe": {
+				"title": "Severe"
+			}
+		}
 	},
-	"Hypoxia": {
-		"title": "Hypoxia"
+	"Asphyxiation": {
+		"title": "Asphyxiation",
+		"description": "Death will happen very quickly if suffocating due to no oxygen in the blood."
+	},
+	"Malnutrition": {
+		"title": "Malnutrition",
+		"description": "Consuming no food for too long will lead to malnutrition. Prolonged malnutrition will cause an increase of severe pain and eventually death.",
+		"stages": {
+			"Minor": {
+				"title": "Minor"
+			},
+			"Moderate":{
+				"title": "Moderate"
+			},
+			"Major": {
+				"title": "Major"
+			},
+			"Severe": {
+				"title": "Severe"
+			}
+		}
+	},
+	"SpaceVirus": {
+		"title": "SpaceVirus",
+		"stages": {
+			"Minor": {
+				"title": "Minor"
+			},
+			"Moderate":{
+				"title": "Moderate"
+			},
+			"Major": {
+				"title": "Major"
+			},
+			"Severe": {
+				"title": "Severe"
+			}
+		}
+	},
+	"Hypovolaemia": {
+		"title": "Hypovolaemia",
+		"description": "This condition results from significant fluid loss. If fluids are not replenished soon, expect a heavy loss of consciousness and eventually death.",
+		"stages": {
+			"Minor": {
+				"title": "Minor"
+			},
+			"Moderate":{
+				"title": "Moderate"
+			},
+			"Major": {
+				"title": "Major"
+			},
+			"Severe": {
+				"title": "Severe"
+			}
+		}
+	},
+	"Dementia": {
+		"title": "Dementia",
+		"description" : "Showing the loss of mental faculties.",
+		"stages": {
+			"Mild": {
+				"title": "Mild"
+			},
+			"Moderate":{
+				"title": "Moderate"
+			},
+			"Severe": {
+				"title": "Severe"
+			}
+		}
+	},
+	"Exhaustion": {
+		"title": "Exhaustion",
+		"description": "Although initially mild, exhaustion will worsen without rest, leading to a heightened risk of loss of consciousness.",
+		"stages": {
+			"Minor": {
+				"title": "Minor"
+			},
+			"Moderate":{
+				"title": "Moderate"
+			},
+			"Major": {
+				"title": "Major"
+			},
+			"Severe": {
+				"title": "Severe"
+			}
+		}
 	}
 }

@@ -6,5 +6,9 @@
     "Worm": {
 		"title": "Meat",
 		"description": "Green and gooey."
+	},
+	"SmallAnimal": {
+		"title": "Meat",
+		"description": "Thick and red."
 	}
 }

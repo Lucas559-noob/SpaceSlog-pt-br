@@ -1,0 +1,14 @@
+{
+    "FertilisedSpacewormEggs": {
+        "title": "Space worm eggs (fertilised)",
+        "description": "Space Worm eggs are now a staple diet for humans, gross but nutritional. May hatch if left long enough."
+    },
+    "UnfertilisedChickenEggs": {
+        "title": "Chicken eggs (unfertilised)",
+        "description": "Chicken eggs can be eaten as a source of nutrition. This egg is unfertilised and will not hatch."
+    },
+    "FertilisedChickenEggs": {
+        "title": "Chicken eggs (fertilised)",
+        "description": "Chicken eggs can be eaten as a source of nutrition. This egg is fertilised and may hatch if left long enough."
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "AlertCrewmanNeedsRescue": {
+        "title": "Crew member needs rescue",
+        "description": "One of your crew members needs to be rescued.\n\nEnsure you have an empty bed for them to rest in and that the area is safe and contains oxygen.\n\nIf you have no materials, you can place a sleeping spot down for free."
+    },
+    "AlertNeedCrewBeds": {
+        "title": "Your crew have no beds available",
+        "description": "Your crew get much better sleep if they have a bed to sleep in. The better the bed, the less sleep they will need.\n\nIf you have no materials, you can place a sleeping spot down for free."
+    },
+    "AlertNeedAirSource": {
+        "title": "Air source missing",
+        "description": "You need an air source to fill your rooms with oxygen.\n\nEach room with an atmosphere requires air supplied by some sort of air supply, through ducting, to an air ventilator.\n\nTry building a Life Support to begin with, then connect that with Ducting to an Air Ventilator."
+    },
+    "AlertNeedAirVent": {
+        "title": "An air supply has no air ventilator",
+        "description": "You have an air supply turned on, but it cannot supply any air because there is no connected air ventilator.\n\nEnsure you have built an air ventilator, and that the ventilator and air supply are either next to each other or connected via ducting."
+    },
+    "AlertLowFood": {
+        "title": "Low food",
+        "description": "You are running extremely low on food.\n\nEither grow, butcher, trade, or brew some food."
+    },
+    "AlertLowDrink": {
+        "title": "Low drink",
+        "description": "You are running extremely low on drinking fluids.\n\nYou can get more drinking fluids by melting ice in barrels or trading with passing ships."
+    },
+    "AlertNoStockpile": {
+        "title": "No stockpile zone",
+        "description": "You have no stockpile zones, which means you cannot store any materials.\n\nUse the top left menu to select a stockpile and place it inside your ship. Alternatively, you can place a temporary stockpile outside your ship."
+    },
+    "AlertLowMood": {
+        "title": "Low mood",
+        "description": "One or more of your crew has a low mood.\n\nOpen the morale panel on the character menu and assess what moods needs rectifying."
+    },
+    "AlertBreach": {
+        "title": "Ship breached!",
+        "description": "One or more rooms on your ship has been breached. Any atmosphere in these rooms will now be venting into space!\n\nSeal the breach with Ship Structure to limit any further atmospheric loss.\n\nA lack of atmosphere can cause your crew to suffocate and any flora to die."
+    },
+    "AlertIdleCrew": {
+        "title": "Idle crew",
+        "description": "All of your crew are idle and have nothing to do.\n\nOpen the crew menu to assign work orders and schedules.\n\nIf any of your crew have been commanded, they will not perform normal daily tasks."
+    },
+    "AlertUrgentMedicalTreatment": {
+        "title": "Urgent medical treatment",
+        "description": "One or more of your crew members require urgent medical attention.\n\nMake sure they are healed with a medical kit as soon as possible."
+    },
+    "AlertBlackAlert": {
+        "title": "Black Alert Activated",
+        "description": "Your ship is in a state of black alert. This means your crew will not be able to exit the ship.\n\nYou can disable black alert on the ship systems menu."
+    }
+}

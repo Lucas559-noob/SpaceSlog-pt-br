@@ -1,7 +1,7 @@
 {
 	"Water": {
 		"title": "Water",
-        "description": "Melt ice down into water."
+        "description": "Melt ice into water."
 	},
     "Wine": {
 		"title": "Wine",
@@ -10,5 +10,13 @@
     "VegetableBroth": {
 		"title": "Vegetable broth",
         "description": "Make a tasty herb and vegetable broth."
+	},
+    "BasicMeatBroth": {
+		"title": "Bland meat broth",
+        "description": "Make a bland meat broth."
+	},
+    "BoneBroth": {
+		"title": "Bone broth",
+        "description": "Make a nutritious bone broth."
 	}
 }

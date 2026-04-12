@@ -1,0 +1,20 @@
+{
+    "AdultRat": {
+		"title": "Rat"
+	},
+	"Chick": {
+		"title": "Chick"
+	},
+    "Pullet": {
+        "title": "Pullet"
+    },
+	"Hen": {
+		"title": "Hen"
+	},
+	"Cockerel": {
+		"title": "Cockerel"
+	},
+	"Rooster": {
+		"title": "Rooster"
+	}
+}

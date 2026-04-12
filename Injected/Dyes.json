@@ -1,0 +1,32 @@
+{
+    "RedDye": {
+		"title": "Red dye"
+	},
+	"CharcoalDye": {
+		"title": "Charcoal dye"
+	},
+	"GreenDye": {
+		"title": "Green dye"
+	},
+	"BlueDye": {
+		"title": "Blue dye"
+	},
+	"LightBlueDye": {
+		"title": "Light blue dye"
+	},
+	"PurpleDye": {
+		"title": "Purple dye"
+	},
+	"TanDye": {
+		"title": "Tan dye"
+	},
+	"DarkTanDye": {
+		"title": "Dark tan dye"
+	},
+	"OrangeDye": {
+		"title": "Orange dye"
+	},
+	"YellowDye": {
+		"title": "Yellow dye"
+	}
+}

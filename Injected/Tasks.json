@@ -1,226 +1,179 @@
 {
+    "Idle": {
+        "title": "Idle"
+    },
     "Pickup": {
-        "title": "Pickup",
-        "description": "Grabbing"
+        "title": "Pickup"
+    },
+    "PickupEntityB": {
+        "title": "Pickup"
     },
     "DropIntoBed": {
-        "title": "Drop into bed",
-        "description": "Dropping into bed."
+        "title": "Drop into bed"
     },
     "Drop": {
-        "title": "Drop",
-        "description": "Dropping"
+        "title": "Drop"
     },
     "DropAtTargetB": {
-        "title": "Drop",
-        "description": "Dropping"
+        "title": "Drop"
+    },
+    "ForceDrop": {
+        "title": "Force drop"
     },
     "Heal": {
-        "title": "Heal",
-        "description": "Healing"
-    },
-    "Repair": {
-        "title": "Repair",
-        "description": "Repairing"
+        "title": "Heal"
     },
     "MoveTo": {
-        "title": "Move",
-        "description": "Moving"
+        "title": "Move"
+    },
+    "MoveToPathB": {
+        "title": "Move"
     },
     "Wait": {
-        "title": "Wait",
-        "description": "Waiting"
-    },
-    "FindFood": {
-        "title": "Find food",
-        "description": "Finding food"
+        "title": "Wait"
     },
     "EatFood": {
-        "title": "Eat food",
-        "description": "Eating"
+        "title": "Eat food"
     },
     "Drink": {
-        "title": "Drink",
-        "description": "Drinking"
+        "title": "Drink"
     },
     "FindPathToTarget": {
-        "title": "Find path to target",
-        "description": "Finding path to target"
+        "title": "Find path to target"
     },
     "FindPathToTargetB": {
-        "title": "Find path to target",
-        "description": "Finding path to target"
+        "title": "Find path to target"
+    },
+    "FindPathToTargetBFalse": {
+        "title": "Find path to target"
     },
     "FindPathToTargetCell": {
-        "title": "Find path to target cell",
-        "description": "Finding path to target cell"
+        "title": "Find path to target cell"
+    },
+    "FindPathToTargetCellTrue": {
+        "title": "Find path to target cell"
     },
     "FindBestStorageCell": {
-        "title": "Find best storage cell",
-        "description": "Finding the best storage cell for item."
+        "title": "Find best storage cell"
     },
     "GetClosestFuel": {
-        "title": "Find path to closest fuel",
-        "description": "Finding path to fuel"
+        "title": "Find path to closest fuel"
     },
     "GetDeadPawnDropSpot": {
-        "title": "Find somewhere to dispose of dead pawn",
-        "description": "Finding a place to dispose of dead pawn."
+        "title": "Find somewhere to dispose of dead pawn"
     },
     "Refuel": {
-        "title": "Refuelling",
-        "description": "Refuelling"
+        "title": "Refuelling"
     },
     "RefuelTargetB": {
-        "title": "Refuelling",
-        "description": "Refuelling"
+        "title": "Refuelling"
     },
     "Clean": {
-        "title": "Clean",
-        "description": "Cleaning"
+        "title": "Clean"
     },
     "Reserve": {
-        "title": "Reserve",
-        "description": "Reserving"
+        "title": "Reserve"
     },
     "ReserveEntityB": {
-        "title": "Reserve",
-        "description": "Reserving"
+        "title": "Reserve"
     },
     "ReserveCell": {
-        "title": "Reserve cell",
-        "description": "Reserving cell"
-    },
-    "ReserveCombatTarget": {
-        "title": "Reserve combat target",
-        "description": "Reserving combatant"
+        "title": "Reserve cell"
     },
     "Sleep": {
-        "title": "Sleep",
-        "description": "Sleeping"
+        "title": "Sleep"
+    },
+    "RestUntilHealed": {
+        "title": "Rest until healed"
     },
     "Equip": {
-        "title": "Equip",
-        "description": "Equipping"
+        "title": "Equip"
     },
     "UnEquip": {
-        "title": "Removing",
-        "description": "Removing from inventory"
+        "title": "Removing"
     },
     "Slip": {
-        "title": "Slip",
-        "description": "Slipped"
+        "title": "Slip"
     },
     "Trip": {
-        "title": "Trip",
-        "description": "Tripped"
+        "title": "Trip"
     },
     "Sing": {
-        "title": "Sing",
-        "description": "Singing"
+        "title": "Sing"
     },
     "Wave": {
-        "title": "Wave",
-        "description": "Waving"
+        "title": "Wave"
     },
     "Chat": {
-        "title": "Chat",
-        "description": "Chatting"
-    },
-    "Daze": {
-        "title": "Daze",
-        "description": "Dazed"
-    },
-    "Shout": {
-        "title": "Shout",
-        "description": "Shouting"
+        "title": "Chat"
     },
     "SowAtTargetB": {
-        "title": "Sow",
-        "description": "Sowing"
+        "title": "Sow"
     },
     "HarvestPlant": {
-        "title": "Harvest",
-        "description": "Harvesting"
+        "title": "Harvest"
     },
     "HarvestBrew": {
-        "title": "Harvest",
-        "description": "Harvesting"
+        "title": "Harvest"
     },
     "Water": {
-        "title": "Water",
-        "description": "Watering"
-    },
-    "Feed": {
-        "title": "Feed",
-        "description": "Feeding"
+        "title": "Water"
     },
     "ClosestMoveCellToPos": {
-        "title": "Forced move",
-        "description": "Force move."
+        "title": "Forced move"
     },
     "Strip": {
-        "title": "Strip",
-        "description": "Stripping Pawn."
+        "title": "Strip"
     },
     "Mine": {
-        "title": "Mine",
-        "description": "Mining"
+        "title": "Mine"
     },
     "Deconstruct": {
-        "title": "Deconstruct",
-        "description": "Deconstructing"
+        "title": "Deconstruct"
+    },
+    "Repair": {
+        "title": "Repair"
     },
     "Build": {
-        "title": "Build",
-        "description": "Building"
+        "title": "Build"
     },
     "DestroyAsset": {
-        "title": "Destroy asset.",
-        "description": "Destroying"
+        "title": "Destroy asset."
     },
     "SitAtChair": {
-        "title": "Sit at chair.",
-        "description": "Sitting"
+        "title": "Sit at chair."
     },
     "PlayArcadeMachine": {
-        "title": "Play arcade machine.",
-        "description": "Playing on"
+        "title": "Play arcade machine."
     },
     "TendHeal": {
-        "title": "Heal",
-        "description": "Healing"
+        "title": "Heal"
     },
     "TendFeed": {
-        "title": "Feed",
-        "description": "Feeding"
+        "title": "Feed"
     },
     "TendHydrate": {
-        "title": "Hydrate",
-        "description": "Hydrating"
+        "title": "Hydrate"
     },
     "FindPlaceToIngest": {
-        "title": "Find place to ingest",
-        "description": "Finding somewhere to ingest"
+        "title": "Find place to ingest"
     },
     "BackToShip": {
-        "title": "Find place to ingest",
-        "description": "Finding somewhere to ingest"
-    },
-    "Slaughter": {
-        "title": "Slaughter",
-        "description": "Slaughtering"
+        "title": "Find a way back to the ship"
     },
     "Butcher": {
-        "title": "Butcher",
-        "description": "Butchering"
+        "title": "Butcher"
     },
-    "FollowAndMelee": {
-        "title": "Follow and melee",
-        "description": "Attacking"
+    "StampFire": {
+        "title": "Stamp out fire"
+    },
+    "MateWithPartner": {
+        "title": "Mate with partner"
+    },
+    "FollowAndMoveTo": {
+        "title": "Follow and move to"
     },
     "InsertGetMaterials": {
-        "title": "Gather materials",
-        "description": "Gathering materials requested."
+        "title": "Gather materials"
     }
 }

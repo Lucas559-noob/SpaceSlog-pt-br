@@ -1,0 +1,11 @@
+{
+	"SmallArmsRound": {
+		"title": "Small arms round"
+	},
+	"ArmourPiercingRound": {
+		"title": "Armour piercing round"
+	},
+	"ShotgunRound": {
+		"title": "Shotgun round"
+	}
+}

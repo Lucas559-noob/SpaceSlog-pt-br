@@ -1,0 +1,18 @@
+{
+    "Tantrum": {
+        "title": "Tantrum",
+        "description": "Throwing a tantrum."
+    },
+    "Delirious": {
+        "title": "Delirious",
+        "description": "Dazed and confused."
+    },
+    "Catatonic": {
+        "title": "Catatonic",
+        "description": "Catatonic."
+    },
+    "Breakdown": {
+        "title": "Breakdown",
+        "description": "Having a breakdown."
+    }
+}

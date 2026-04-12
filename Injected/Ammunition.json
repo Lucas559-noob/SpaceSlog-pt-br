@@ -1,0 +1,18 @@
+{
+    "Torpedoes": {
+		"title": "Torpedoes",
+		"description": "Used with ship weaponry. Can be devastating if fired at other spaceships."
+	},
+	"RailGunSmallSlugs": {
+		"title": "Small railgun slug rounds",
+		"description": "A relatively light ammunition."
+	},
+	"RailGunLargeSlugs": {
+		"title": "Large railgun slug rounds",
+		"description": "Heavy ammunition that can cause large amounts of damage to long range targets."
+	},
+    "SmallCalibreRounds": {
+		"title": "Small calibre rounds",
+		"description": "Small rounds made from carbon in order to protect from accidental breaches."
+	}
+}

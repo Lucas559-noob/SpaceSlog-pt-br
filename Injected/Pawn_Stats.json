@@ -7,8 +7,32 @@
         "title": "Sowing speed",
         "description": "How quickly this creature can sow."
     },
+    "BuildingSpeed": {
+        "title": "Construction speed",
+        "description": "How quickly this creature can construct, repair or deconstruct things."
+    },
+    "HealingSpeed": {
+        "title": "Healing speed",
+        "description": "How quickly this creature can heal when tending."
+    },
     "Trading": {
         "title": "Trading",
-        "description": "How well this creature can trade."
+        "description": "How well this creature can trade with others to get a better deal."
+    },
+    "MeleeSpeed": {
+        "title": "Melee speed",
+        "description": "How quickly this creature can hit when using a melee weapon."
+    },
+    "RangedSpeed": {
+        "title": "Ranged speed",
+        "description": "How quickly this creature can hit when using a ranged weapon."
+    },
+    "RangedAccuracy": {
+        "title": "Ranged accuracy",
+        "description": "How accurate this creature is when firing projectiles."
+    },
+    "MeleeAccuracy": {
+        "title": "Melee accuracy",
+        "description": "How accurate this creature is when using a melee weapon."
     }
 }

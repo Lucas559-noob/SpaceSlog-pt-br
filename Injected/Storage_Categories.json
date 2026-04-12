@@ -1,0 +1,66 @@
+{
+    "Sustenance": {
+        "title": "Sustenance",
+        "description": "Foodstuffs and drinkable liquids."
+    },
+    "RawMaterials": {
+        "title": "Raw Materials",
+        "description": "Basic materials used to create other items."
+    },
+    "Weapons": {
+        "title": "Weapons",
+        "description": "Items that can be used for combat."
+    },
+    "Clothing": {
+        "title": "Clothing",
+        "description": "Items that can be equipped and worn."
+    },
+    "ManMade": {
+        "title": "Man-Made",
+        "description": "Items mostly crafted from raw materials."
+    },
+    "Corpses": {
+        "title": "Corpses",
+        "description": "Remains of deceased creatures."
+    },
+    "Alcoholic": {
+        "title": "Alcoholic",
+        "description": "Drinkable liquids containing alcohol."
+    },
+    "NonAlcoholic": {
+        "title": "Non-Alcoholic",
+        "description": "Drinkable liquids free from alcohol."
+    },
+    "Melee": {
+        "title": "Melee",
+        "description": "Close combat weapons."
+    },
+    "Ranged": {
+        "title": "Ranged",
+        "description": "Long distance weapons."
+    },
+    "HeadGear": {
+        "title": "Head Gear",
+        "description": "Clothing equipped to the headgear slot."
+    },
+    "UpperBody": {
+        "title": "Upper Body",
+        "description": "Clothing equipped to the body under or body over slot."
+    },
+    "Armour": {
+        "title": "Armour",
+        "description": "Protective clothing equipped to the armour slot."
+    },
+    "Trousers": {
+        "title": "Trousers",
+        "description": "Clothing equipped to the legs slot."
+    },
+    "FootWear": {
+        "title": "Foot Wear",
+        "description": "Clothing equipped to the footwear slot."
+    },
+    "AllowAllCorpses": {
+        "title": "Allow all corpses",
+        "description": "All types of corpses can be stored."
+    }
+}

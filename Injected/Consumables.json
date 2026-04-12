@@ -1,0 +1,78 @@
+{
+    "RawMeat": {
+        "title": "Raw meat",
+        "description": "Meat that is raw. Tastes better when cooked."
+    },
+    "CookedMeat": {
+        "title": "Cooked meat",
+        "description": "Meat that is cooked. Makes a good meal."
+    },
+    "Berries": {
+        "title": "Berries",
+        "description": "Wild berries, probably very poisonous."
+    },
+    "Fungus": {
+        "title": "Fungus",
+        "description": "Wild fungus. Could be poisonous."
+    },
+    "Rice": {
+        "title": "Rice",
+        "description": "Rice, grown from seeds."
+    },
+    "Potato": {
+        "title": "Potato",
+        "description": "Potato, grown from seeds."
+    },
+    "Wheat": {
+        "title": "Wheat",
+        "description": "A staple crop, essential for producing food. Relatively easy to grow and harvest."
+    },
+    "Herbs": {
+        "title": "Herbs",
+        "description": "Can be grown and used to create various edible products."
+    },
+    "Hops": {
+        "title": "Hops",
+        "description": "A core ingredient to brew ale."
+    },
+    "RootVegetables": {
+        "title": "Root vegetables",
+        "description": "Can be grown and used to create various broths."
+    },
+    "PackagedMeals": {
+        "title": "Packaged meal",
+        "description": "A pre-prepared nutritious meal."
+    },
+    "Bread": {
+        "title": "Bread",
+        "description": "A fundamental food item made from wheat."
+    },
+    "Bone": {
+        "title": "Bone",
+        "description": "Bones from skeletal remains. Can be used to create broths."
+    },
+    "VegetableBroth": {
+        "title": "Vegetable broth",
+        "description": "A tasty broth made with herbs and vegetables."
+    },
+    "BasicMeatBroth": {
+        "title": "Basic meat broth",
+        "description": "A bland meaty broth."
+    },
+    "BoneBroth": {
+        "title": "Bone broth",
+        "description": "A nutritious bone broth."
+    },
+    "Water": {
+        "title": "Water",
+        "description": "Normal filtered water."
+    },
+    "Ale": {
+        "title": "Ale",
+        "description": "A popular but crudely made alcoholic beverage."
+    },
+    "Wine": {
+        "title": "Berry wine",
+        "description": "A refined, fruity alcoholic beverage."
+    }
+}

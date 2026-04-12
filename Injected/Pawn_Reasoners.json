@@ -2,7 +2,13 @@
     "Basic": {
         "title": "Basic Reasoner"
     },
+    "Passive": {
+        "title": "Basic Reasoner"
+    },
     "Human": {
         "title": "Human Reasoner"
+    },
+    "HumanMentalBreak": {
+        "title": "Human Mental Break Reasoner"
     }
 }

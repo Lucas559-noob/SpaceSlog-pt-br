@@ -1,26 +1,46 @@
 {
     "SmallRockAsteroid": {
-        "title": "Asteroid",
-        "description": "May contain precious resources."
+        "title": "Rock asteroid",
+        "description": "Contains rock."
     },
     "LargeRockAsteroid": {
-        "title": "Asteroid",
-        "description": "May contain precious resources."
+        "title": "Rock asteroid",
+        "description": "Contains rock."
     },
     "SmallIceAsteroid": {
-        "title": "Asteroid",
-        "description": "May contain precious resources."
+        "title": "Ice asteroid",
+        "description": "Contains ice."
     },
     "LargeIceAsteroid": {
-        "title": "Asteroid",
-        "description": "May contain precious resources."
+        "title": "Ice asteroid",
+        "description": "Contains ice."
     },
     "SmallSiliconAsteroid": {
-        "title": "Asteroid",
-        "description": "May contain precious resources."
+        "title": "Silicon asteroid",
+        "description": "Contains silicon."
     },
     "LargeSiliconAsteroid": {
-        "title": "Asteroid",
-        "description": "May contain precious resources."
+        "title": "Silicon asteroid",
+        "description": "Contains silicon."
+    },
+    "SmallTitaniumAsteroid": {
+        "title": "Titanium asteroid",
+        "description": "Contains titanium."
+    },
+    "LargeTitaniumAsteroid": {
+        "title": "Titanium asteroid",
+        "description": "Contains titanium."
+    },
+    "SmallGoldAsteroid": {
+        "title": "Gold asteroid",
+        "description": "Contains gold."
+    },
+    "LargeGoldAsteroid": {
+        "title": "Gold asteroid",
+        "description": "Contains gold."
+    },
+    "LargeDiamondAsteroid": {
+        "title": "Diamond asteroid",
+        "description": "Contains a rare form of diamond."
     }
 }

@@ -1,0 +1,9 @@
+{
+	"PlaceDeckPlatingStep1": {
+		"title": "Building Deck Plating",
+        "description": "Now we can increase the floor space by placing down some [color=KHAKI]Deck Plating[/color]. Select the highlighted [color=PURPLE]Deck Plating[/color] button from the Structures tab in the [color=PURPLE]Building[/color] menu."
+	},
+	"PlaceDeckPlatingStep2": {
+		"description": "Place this over the white highlighted area and wait for your crew to finish building them.\n\nRemember, this can only ever be placed on top of [color=KHAKI]Ship Structure[/color] and also needs to be surrounded by additional [color=KHAKI]Ship Structure[/color]."
+	}
+}

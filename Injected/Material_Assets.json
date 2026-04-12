@@ -1,0 +1,98 @@
+{
+	"Coins": {
+		"title": "Coins",
+		"description": "The standard currency known to be used throughout the slog."
+	},
+	"Diamond": {
+		"title": "Space diamond",
+		"description": "An extremely rare industrial commodity. Preferably used as a building material rather than jewellery due to its superior hardness."
+	},
+	"FuelCell": {
+		"title": "Fuel cell",
+		"description": "Contains Plutonium. Ensures the Plutonium stays stable until it is needed to be used."
+	},
+	"Uranium": {
+		"title": "Uranium",
+		"description": "An extremely dense material which can be refined into Plutonium and then stored in Fuel Cells."
+	},
+	"Titanium": {
+		"title": "Titanium",
+		"description": "A relatively lightweight yet durable metal alloy. Can be used to construct a large variety of structures, weapons and other machinery."
+	},
+	"Glass": {
+		"title": "Glass",
+		"description": "A transparent material commonly used for windows. It is brittle and can break easily."
+	},
+	"Silver": {
+		"title": "Silver",
+		"description": "A type of white metal often used for construction but not as strong as other metals."
+	},
+	"Alloys": {
+		"title": "Alloys",
+		"description": "These alloys are exceptionally light and durable, yet extremely rare and expensive."
+	},
+	"Gold": {
+		"title": "Gold",
+		"description": "A highly valuable shiny metal. Not quite as strong as other metals but it looks pretty."
+	},
+	"Silicon": {
+		"title": "Silicon",
+		"description": "A versatile element essential for electronics and computer components."
+	},
+	"Ruby": {
+		"title": "Ruby",
+		"description": "A rare and vibrant gemstone."
+	},
+	"Emerald": {
+		"title": "Emerald",
+		"description": "A rare green gemstone."
+	},
+	"Logs": {
+		"title": "Hardwood logs",
+		"description": "Gathered from certain types of trees from some planets. Can be used for building structures and weapons."
+	},
+	"Cloth": {
+		"title": "Cloth",
+		"description": "A soft and comfortable fabric created from cotton fibers."
+	},
+	"Linen": {
+		"title": "Linen",
+		"description": "A strong and durable fabric created from flax fibers."
+	},
+	"Leather": {
+		"title": "Leather",
+		"description": "A strong, flexible and durable material created from animal skins."
+	},
+	"Wool": {
+		"title": "Wool",
+		"description": "A natural breathable fibre. Great for insulation."
+	},
+	"CarbonFibre": {
+		"title": "Carbon fibre cloth",
+		"description": "A strong, flexible and durable material created from carbon."
+	},
+	"Concrete": {
+		"title": "Concrete",
+		"description": "An extremely heavy but strong man-made material. It's probably not the best choice for use in spaceships."
+	},
+	"Sandstone": {
+		"title": "Sandstone",
+		"description": "A relatively soft type of rock that can break easily."
+	},
+	"Rock": {
+		"title": "Rock",
+		"description": "A piece of natural material composed of minerals."
+	},
+	"Carbon": {
+		"title": "Carbon",
+		"description": "Carbon can be used to create carbon fibre."
+	},
+	"Granite": {
+		"title": "Granite",
+		"description": "An extremely hard type of rock."
+	},
+	"Ice": {
+		"title": "Ice",
+		"description": "Can be used to produce oxygen or melted down for water."
+	}
+}

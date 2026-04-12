@@ -37,11 +37,11 @@
     },
     "Militar": {
         "title": "Militar",
-        "description": "The only way to ensure survival in a harsh universe is with a disciplined military."
+        "description": "It is commonly understood here that the only way to ensure survival in a harsh universe is with a disciplined military."
     },
     "Mechanical": {
         "title": "Mechanical",
-        "description": "{faction_name} has some of the best engineering minds in the universe."
+        "description": "{faction_name} has some of the best engineering minds within the slog."
     },
     "Scientific": {
         "title": "Scientific",

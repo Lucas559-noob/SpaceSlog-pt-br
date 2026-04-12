@@ -1,29 +1,35 @@
 {
     "Incapacitated": {
-        "title": "Incapacitated."
+        "title": "This character is unable to move, potentially due to an injury."
     },
     "Death": {
-        "title": "Dead."
+        "title": "This character has died."
     },
     "Collapsed": {
-        "title": "Collapsed."
+        "title": "This character has collapsed due to loss of consciousness."
     },
     "Idle": {
-        "title": "Idle."
+        "title": "This character has nothing to do."
     },
     "Injured": {
-        "title": "Injured."
+        "title": "This character has a wound or injury."
     },
     "Ill": {
-        "title": "Ill."
+        "title": "This character has an illness."
     },
     "Bleeding": {
-        "title": "Bleeding."
+        "title": "This character is bleeding from one or more wounds."
+    },
+    "BleedingWound": {
+        "title": "This wound is bleeding. It may eventually stop on its own, but successfully tending to it now will stop it straight away."
     },
     "Away": {
-        "title": "Away."
+        "title": "This character is away from the ship."
     },
     "MentalBreak": {
-        "title": "On mental break."
+        "title": "This character is currently experiencing a mental break."
+    },
+    "Tended": {
+        "title": "Some or all of these injuries have been treated and are healing."
     }
 }

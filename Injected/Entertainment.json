@@ -1,6 +1,6 @@
 {
     "ArcadeMachine": {
         "title": "Arcade machine",
-        "description": "Can reduce stress."
+        "description": "A basic gaming machine that can be played by pawns, to help reduce stress."
     }
 }

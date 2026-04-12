@@ -1,0 +1,22 @@
+{
+	"None": {
+		"title": "Doesn't eat or drink",
+		"description": "Does not consume any food or drink."
+	},
+	"Herbivore": {
+		"title": "herbivore",
+		"description": "Consumes plants."
+	},
+	"Carnivore": {
+		"title": "carnivore",
+		"description": "Consumes meat."
+	},
+	"Omnivore": {
+		"title": "omnivore",
+		"description": "Consumes both plants and meat."
+	},
+	"Lithophagy": {
+		"title": "lithophagy",
+		"description": "Consumes rocks."
+	}
+}

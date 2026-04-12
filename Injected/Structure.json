@@ -1,0 +1,26 @@
+{
+	"MetalHull": {
+		"title": "Ship structure",
+		"description": "A basic structural hull that is required to enable the placement of interior decking. Place this first, then add deck plating on top to create rooms."
+	},
+	"MetalFloor": {
+		"title": "Deck plating",
+		"description": "Interior deck plating used to create rooms inside your ship. Must be placed on top of a ships structure."
+	},
+	"BlastDoor": {
+		"title": "Airlock door",
+		"description": "A powered automatic and air tight door that can be used unpowered, but will be slower to operate. It will not leak atmosphere to external space."
+	},
+	"ArmouredBlastDoor": {
+		"title": "Armoured airlock door",
+		"description": "A powered automatic and reinforced air tight door that can be used unpowered, but will be slower to operate. It will not leak atmosphere to external space."
+	},
+	"MetalHullCorner": {
+		"title": "Armoured hull wall",
+		"description": "Armoured hull used on ship exteriors. Utilises a porous construction to save weight, therefore it does not hold atmosphere."
+	},
+	"MetalHullAngle": {
+		"title": "Armoured hull wall",
+		"description": "Armoured hull used on ship exteriors. Utilises a porous construction to save weight, therefore it does not hold atmosphere."
+	}
+}

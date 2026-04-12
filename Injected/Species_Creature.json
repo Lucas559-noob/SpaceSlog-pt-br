@@ -1,0 +1,12 @@
+{
+	"Rat": {
+    	"title": "Rat",
+		"description": "A small adaptable rodent. Can sometimes be found as stowaways on ships."
+	},
+	"Hen": {
+		"description": "A female chicken. Can lay eggs if it has a rooster to mate with, or can be butchered for meat."
+	},
+	"Rooster": {
+		"description": "A male chicken. Can mate with hens to fertilize their eggs, or can be butchered for meat."
+	}
+}

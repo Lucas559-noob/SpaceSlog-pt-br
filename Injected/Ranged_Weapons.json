@@ -1,0 +1,26 @@
+{
+	"Pistol": {
+		"title": "Pistol",
+		"description": "A semi-automatic handgun designed for quick firing. Excellent for basic personal protection."
+	},
+	"Revolver": {
+		"title": "Revolver",
+		"description": "A powerful handgun with a revolving cylinder."
+	},
+	"LeverActionRifle": {
+		"title": "Lever Action Rifle",
+		"description": "A rifle that uses a lever mechanism to load cartridges."
+	},
+	"AssaultRifle": {
+		"title": "Assault Rifle",
+		"description": "A rapid-fire rifle designed for military use."
+	},
+	"SubMachineGun": {
+		"title": "Submachine Gun",
+		"description": "A lightweight automatic firearm designed for close-quarters combat."
+	},
+	"Shotgun": {
+		"title": "Shotgun",
+		"description": "A firearm that is designed to be fired from the shoulder, using shells containing multiple small pellets."
+	}
+}

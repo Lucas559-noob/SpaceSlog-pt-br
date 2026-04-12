@@ -1,0 +1,14 @@
+{
+    "External": {
+        "title": "Outside"
+    },
+    "Space": {
+        "title": "Deep space"
+    },
+    "Door": {
+        "title": "Door"
+    },
+    "Room": {
+        "title": "Room"
+    }
+}

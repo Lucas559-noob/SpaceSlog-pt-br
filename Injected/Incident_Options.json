@@ -2,6 +2,9 @@
     "PassingShip": {
         "title": "Passing ship"
     },
+    "PassingShipPhysical": {
+        "title": "Passing ship physical"
+    },
     "AsteroidField": {
         "title": "Asteroid field"
     },
@@ -12,9 +15,30 @@
         "title": "Cryo chamber spotted"
     },
     "HostileCreatureAssault": {
-        "title": "Hostile creatures have entered the area"
+        "title": "Hostile creature assault"
     },
-    "HostileCreatureAssaultRandom": {
-        "title": "Hostile creatures have entered the area"
+    "PassingShipRescue": {
+        "title": "Passing ship rescue"
+    },
+    "PassingPlanet": {
+        "title": "Passing planet"
+    },
+    "PassingStar": {
+        "title": "Passing star"
+    },
+    "Infestation": {
+        "title": "Infestation"
+    },
+    "MayDayPawn": {
+        "title": "Mayday pawn"
+    },
+    "AbandonedFacility": {
+        "title": "Abandoned facility"
+    },
+    "HostileSwarm": {
+        "title": "Hostile swarm"
+    },
+    "TransportShipAssault": {
+        "title": "Assault"
     }
 }

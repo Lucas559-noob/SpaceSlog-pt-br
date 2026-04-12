@@ -1,0 +1,6 @@
+{
+	"TimeControlsStep1": {
+		"title": "Time controls",
+		"description": "If your crew are taking too long, you can speed up the game.\n\nDo that now by [color=LIGHT_GREEN]clicking[/color] on the highlighted [color=PURPLE]5x speed[/color] button or pressing the {speed_fastest} key.\n\nPressing {speed_normal} or {speed_fast} will also change speeds."
+	}
+}

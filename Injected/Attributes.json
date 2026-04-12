@@ -1,0 +1,18 @@
+{
+    "WorkSpeedModifier": {
+        "title": "Work speed modifier",
+        "description": "Adjusts the speed at which this creature can do work related tasks."
+    },
+    "LearningModifier": {
+        "title": "Learning modifier",
+        "description": "Adjusts the amount of experience gained."
+    },
+    "PainThresholdModifier": {
+        "title": "Pain threshold modifier",
+        "description": "Adjusts the point at which a character will pass out from pain."
+    },
+    "BribePriceModifier": {
+        "title": "Bribe price modifier",
+        "description": "Adjusts how many coins are required to bribe someone."
+    }
+}

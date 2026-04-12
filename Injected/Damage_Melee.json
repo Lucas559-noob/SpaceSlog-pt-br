@@ -1,0 +1,53 @@
+{
+	"Punch": {
+		"title": "Punch"
+	},
+	"Bite": {
+		"title": "Bite"
+	},
+	"Peck": {
+		"title": "Peck"
+	},
+	"Scratch": {
+		"title": "Scratch"
+	},
+	"Poke": {
+		"title": "Poke"
+	},
+	"Headbutt": {
+		"title": "Headbutt"
+	},
+	"Gouge": {
+		"title": "Gouge"
+	},
+	"Stomp": {
+		"title": "Stomp"
+	},
+	"Kick": {
+		"title": "Kick"
+	},
+	"Whip": {
+		"title": "Whip"
+	},
+	"Stab": {
+		"title": "Stab"
+	},
+	"Slash": {
+		"title": "Slash"
+	},
+	"Hack": {
+		"title": "Hack"
+	},
+	"Heave": {
+		"title": "Heave"
+	},
+	"PommelBash": {
+		"title": "Pommel bash"
+	},
+	"Swing": {
+		"title": "Swing"
+	},
+	"ShieldBash": {
+		"title": "Shield bash"
+	}
+}

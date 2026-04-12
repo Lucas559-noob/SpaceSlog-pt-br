@@ -1,62 +1,170 @@
 {
     "Thirsty": {
-		"title": "Dehydrated"
+		"title": "Dehydrated",
+		"description": "I am so thirsty. I wish there was something to drink around here."
 	},
     "Starving": {
-		"title": "Starving"
+		"title": "Starving",
+		"description": "I am starving. I wish there was something to eat around here."
 	},
 	"Exhausted": {
-		"title": "Exhausted"
+		"title": "Exhausted",
+		"description": "So so tired, I can hardly keep my eyes open."
 	},
-	"ColonistDied": {
-		"title": "Colonist died"
+	"CrewMemberDied": {
+		"title": "Crew member died",
+		"description": "A member of the crew has died. Maybe it will be me next time."
 	},
-	"Ill": {
-		"title": "Has an illness"
+	"CaptainDied": {
+		"title": "Captain died",
+		"description": "The cap recently died. This is a huge loss for all of us."
+	},
+	"SoldCrewMember": {
+		"title": "A crew member was sold",
+		"description": "We recently sold a crew member. Who knows what will happen to them now."
 	},
     "LowOxygen": {
-		"title": "Low Oxygen"
+		"title": "Low Oxygen",
+		"description": "I am really struggling to breath."
 	},
     "Optimistic":  {
-		"title": "Optimistic"
-	},
-    "PlentyOfReserves":  {
-		"title": "Plenty of reserves"
-	},
-    "Content":  {
-		"title": "Content"
+		"title": "Optimistic",
+		"description": "Things aren't great, but at least I'm alive. I'm sure things could be much worse."
 	},
     "AteOnFloor":  {
-		"title": "Eaten on the floor."
-	},
-    "SharesRoom":  {
-		"title": "Shares a room."
+		"title": "Eaten on the floor",
+		"description": "It sucks having to eat on the floor. I wish I had a table to eat at."
 	},
     "SleptOnFloor":  {
-		"title": "Slept on the floor."
+		"title": "Slept on the floor",
+		"description": "I really wish I had a bed to sleep in. It sucks sleeping on the floor."
 	},
 	"SleptInComfyBed":  {
-		"title": "Slept on the floor."
-	},
-	"SharingBed":  {
-		"title": "Slept on the floor."
-	},
-    "Cramped":  {
-		"title": "Cramped."
-	},
-    "Spacious":  {
-		"title": "Spacious."
+		"title": "Slept in comfy bed",
+		"description": "Wow, my bed is so comfy. I could stay in it all day."
 	},
 	"UnsatisfiedWithRole":  {
-		"title": "Unsatisfied with given role."
+		"title": "Unsatisfied with given role",
+		"description": "I truly believe I deserve a higher-ranking role than the one I have been given."
 	},
 	"SatisfiedWithRole":  {
-		"title": "Satisfied with given role."
+		"title": "Satisfied with given role",
+		"description": "I am really happy with the role I have been given."
+	},
+    "AteHumanMeatCannibal":  {
+		"title": "I ate some human meat",
+		"description": "That human meat I ate tasted so good!"
+	},
+    "AteHumanMeat":  {
+		"title": "I ate some human meat",
+		"description": "I had to eat some human meat. I'm such a terrible person."
+	},
+    "AteHumanMeatIngredientCannibal":  {
+		"title": "I ate some human meat",
+		"description": "That human meat I ate tasted so good!"
+	},
+    "AteHumanMeatIngredient":  {
+		"title": "I ate some human meat",
+		"description": "I had to eat some human meat. I'm such a terrible person."
 	},
 	"Depressed":  {
-		"title": "Depressed."
+		"title": "Depressed",
+		"description": "My life sucks and I hate it!"
 	},
 	"HappyThoughts":  {
-		"title": "Happy thoughts."
+		"title": "Happy thoughts",
+		"description": "Trala lalala. Weeeeeeee."
+	},
+	"HadFun":  {
+		"title": "Had fun",
+		"description": "Wow, that was so much fun!"
+	},
+    "DislikeDarkness":  {
+		"title": "Fear of darkness",
+		"description": "I hate being in the dark. It's terrifying."
+	},
+    "LikeDarkness":  {
+		"title": "Loves darkness",
+		"description": "I love spending time in the dark."
+	},
+    "LowLight":  {
+		"title": "Low light",
+		"description": "This low light is uncomfortable."
+	},
+	"NoCaptain": {
+		"title": "No captain",
+		"description": "How can we expect a ship to run smoothly without a captain?"
+	},
+	"HasCaptain": {
+		"title": "Has captain",
+		"description": "I'm sure this ship will run much better now we have a good captain."
+	},
+	"LostCaptain": {
+		"title": "Lost captain",
+		"description": "How did we manage to lose our captain? This is a disaster."
+	},
+	"HasNoCaptainsChair": {
+		"title": "No captain's chair",
+		"description": "I really need to get myself one of those captain's chairs."
+	},
+    "LowReserves":  {
+		"title": "Low reserves",
+		"description": "It's worrying that we have low food and water reserves on the ship."
+	},
+    "Content":  {
+		"title": "Content",
+		"description": "I am well-hydrated and have food in my belly. Everything seems to be going ok, at least for now."
+	},
+    "UncomfortableInSpaceSuit":  {
+		"title": "Uncomfortable space gear",
+		"description": "It would be nice to get out of this space gear for just a few hours."
+	},
+    "SleptInCold":  {
+		"title": "Slept in cold",
+		"description": "I was freezing whilst sleeping."
+	},
+    "SleptInHeat":  {
+		"title": "Slept in heat",
+		"description": "I was way too hot whilst sleeping."
+	},
+    "SleptInCosyBed":  {
+		"title": "Slept in cosy bed",
+		"description": "My bed was nice and cosy."
+	},
+    "Rescued":  {
+		"title": "Rescued",
+		"description": "I was rescued! What a relief, I feel lucky to be alive."
+	},
+    "NoPrivacy":  {
+		"title": "Has no privacy",
+		"description": "I have no personal space assigned to me."
+	},
+	"Unwell": {
+		"title": "Under the weather",
+		"description": "Ugh, I feel so unwell."
+	},
+	"NearDeath": {
+		"title": "Has a life threatening condition",
+		"description": "Am I going to die soon?"
+	},
+    "Cramped":  {
+		"title": "Cramped",
+		"description": "I can hardly move in this place."
+	},
+    "Spacious":  {
+		"title": "Spacious",
+		"description": "There is plenty of room here for all of us."
+	},
+    "CleanShip":  {
+		"title": "Clean ship",
+		"description": "It feels good to be on such a clean ship."
+	},
+    "DirtyShip":  {
+		"title": "Dirty ship",
+		"description": "This ship is filthy and disgusting."
+	},
+    "DeadBodyNearby":  {
+		"title": "Dead body nearby",
+		"description": "That dead body is making me feel uneasy."
 	}
 }

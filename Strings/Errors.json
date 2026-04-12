@@ -8,7 +8,6 @@
     "error_loading_path": "Error whilst loading {path}: {error}.",
     "savegame_corrupted": "Corrupted save game data! - {save}.",
     "removed_module_as_no_longer_available": "Removed module ({module_name}) as its files are no longer available - please re-download the module or check your modules folder and ensure it can be found.",
-    "no_graphics_component_or_texture_path": "Item ({item}) has no valid graphics component or texture path.",
     "textures_dictionary_does_not_contain_texture": "The textures dictionary does not contain texture ({name}).",
     "cannot_find_any_textures": "Cannot find any textures for item ({name}).",
     "cannot_load_or_save_entity_incorrect_type": "We cannot save/load this entity because it is not of type Node or Resource.",
@@ -39,7 +38,6 @@
     "cannot_install_prefab": "NULL REFERENCE ERROR: Cannot install prefab.",
     "trying_to_load_a_key_not_needed": "We are trying to load a key ({key}) not needed.",
     "trying_to_add_existing_utility": "We are trying to add a utility to UtilityList that has already been added.",
-    "tring_to_remove_incorrect_utility": "We are trying to remove a utility that does not belong to this worlds UtilityList.",
     "cannot_find_scenario_id": "Cannot find the current scenario ID.",
     "mod_contains_no_mod_info": "A file exists for a modification but it contains no Mod Info file so cannot be loaded.",
     "trying_to_add_existing_item": "We are trying to add item ({name}) when ItemList already has it.",
@@ -67,6 +65,5 @@
     "trying_to_set_already_mobile_pawn_mobile": "Trying to set pawn ({name}) mobile that is already mobile",
     "trying_to_set_already_dead_pawn_dead": "Trying to set pawn ({name}) dead that is already dead",
     "trying_to_set_already_collapsed": "Trying to set an already collapsed pawn ({name}) as collapsed.",
-    "trying_to_set_already_incapacitated_pawn_incapacitated": "Trying to set pawn ({name}) incapacitated that is already incapacitated",
     "no_key_for_language": "There is no text key for {language}: {text_needed}"
 }

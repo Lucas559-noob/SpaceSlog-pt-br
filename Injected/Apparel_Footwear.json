@@ -1,0 +1,10 @@
+{
+	"Shoes": {
+		"title": "Shoes",
+		"description": "A regular pair of comfortable trainers."
+	},
+	"Boots": {
+		"title": "Boots",
+		"description": "A pair of comfortable boots, offering enhanced ankle protection."
+	}
+}

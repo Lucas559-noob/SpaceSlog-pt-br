@@ -1,0 +1,35 @@
+{
+	"Meat": {
+        "title": "meat"
+	},
+	"Fruit": {
+        "title": "fruit"
+	},
+	"Grain": {
+        "title": "grain"
+	},
+	"Vegetable": {
+        "title": "vegetable"
+	},
+	"AnimalProduce": {
+        "title": "Animal produce"
+	},
+	"Fungus": {
+        "title": "fungus"
+	},
+	"Plant": {
+        "title": "plant"
+	},
+	"Corpse": {
+        "title": "corpse"
+	},
+	"Seed": {
+        "title": "seed"
+	},
+	"Rock": {
+        "title": "rock"
+	},
+	"Fluid": {
+        "title": "fluid"
+	}
+}

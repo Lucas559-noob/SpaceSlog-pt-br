@@ -1,0 +1,38 @@
+{
+    "HighBurn": {
+        "title": "Exploring the Universe",
+        "description": "To explore, you will need to enter [color=KHAKI]high burn[/color]. This is a high G-force manoeuvre that will propel your ship forwards.\n\nYou can achieve this by powering up your [color=KHAKI]thrusters[/color] and waiting for the [color=PURPLE]BURN METER[/color] (located on the [color=PURPLE]Ship Systems[/color] menu) to fill.\n\nOnce the meter is full, you can press the [color=PURPLE]Burn[/color] button located next to the [color=PURPLE]BURN METER[/color].\n\nKeep in mind, the more your ship weighs, the longer it will take to fill the [color=PURPLE]BURN METER[/color], necessitating the need to install more [color=KHAKI]thrusters[/color]."
+    },
+    "Rooms": {
+        "title": "Rooms",
+        "description": "Select a room by [color=LIGHT_GREEN]double clicking[/color] or {alternate_select} + {select} on any floor tile within it.\n\nOnce selected, a menu will appear where you can change the room's name and view various details about it.\n\nIt is in this menu that you can also designate the room's type. This will be needed to set specific rooms for your crew to sleep in, plus various other functions."
+    },
+    "BrewingAtABarrelStep1": {
+		"title": "Brewing Food and Drinks",
+        "description": "[color=KHAKI]Barrels[/color] can be used to brew a variety of drinks and foods.\n\nTo use a [color=KHAKI]Barrel[/color], press the [img=0] button on the menu, then select [color=PURPLE]Prepare Orders[/color]. This will open a new menu where you can select from the available recipes, increasing or decreasing the amount you require.\n\nOnce you're satisfied with your selection, press [color=PURPLE]Send orders[/color] to begin production.\n\nEnsure your [color=KHAKI]Barrel[/color] is not forbidden so your crew can interact with it."
+	},
+   "TransponderStep1":{
+        "title": "Transponder",
+        "description": "The [color=KHAKI]Transponder[/color] is the heart of every ship, and in most sectors you are required to keep this powered and fully operational. Without an active [color=KHAKI]Transponder[/color] signal, other ships will be unable to detect or locate you.\n\nEvery [color=KHAKI]Transponder[/color] contains a backup battery that automatically activates whenever its primary circuit loses power. Keep in mind this is limited to only [color=YELLOW]90w[/color] of connected power. Normally enough to power itself and a [color=KHAKI]Comms Console[/color].\n\nThe building of anything other than [color=KHAKI]Ship Structure[/color] or [color=KHAKI]Deck Plating[/color] is prohibited until a [color=KHAKI]Transponder[/color] has been installed."
+    },
+    "PawnsStep1":{
+        "title": "Crew",
+        "description": "To issue a forced command to a [color=KHAKI]crew[/color] member, they must first be toggled to accept commands by pressing {select} on the [color=PURPLE]command[/color] icon [img=0] on the [color=PURPLE]character[/color] menu. You can then use the [color=PURPLE]context[/color] menus (accessed via {action}) to issue orders. [color=KHAKI]Crew[/color] members will no longer carry out normal daily tasks whilst the command toggle is active.\n\nYou can cycle through your [color=KHAKI]crew[/color] by using {cycle_pawns_forward} and {cycle_pawns_backward}."
+    },
+    "HuntingStep1":{
+        "title": "Hunting",
+        "description": "You can gain food and other resources by hunting creatures.\n\nTo do this, select the [color=PURPLE]Hunting[/color] icon [img=0] in the [color=PURPLE]Orders[/color] menu. Then [color=LIGHT_GREEN]click and drag[/color] over a [color=KHAKI]creature[/color] to designate it for hunting.\n\nYou will need to have a [color=KHAKI]crew[/color] member with a ranged weapon and the [color=PURPLE]Hunting[/color] work type enabled in order for them to carry out the task."
+    },
+    "GrowingFoodStep1":{
+        "title": "Growing Food",
+        "description": "If you have the correct [color=KHAKI]Seeds[/color] (purchasable from a ship), you can grow food in an [color=KHAKI]Aeroponics[/color]. You need to ensure you have enough oxygen in the room you are growing in, and the [color=KHAKI]Aeroponics[/color] needs to be powered and not forbidden.\n\nOnce grown, one of your [color=KHAKI]crew[/color] will harvest the crop.\n\nThe more health the crop has, the higher the yield will be, including any seeds regained."
+    },
+    "CombatStep1":{
+        "title": "Combat",
+        "description": "Your crew may find themselves in a lot of combat sitations. Most of the time you will have to ensure your crew are commanded in order to issue them combat commands."
+    },
+    "SpaceSuits":{
+        "title": "EVA Suits",
+        "description": "An EVA suit is required for some creatures to exit the ship. A full EVA suit consists of a [color=KHAKI]Helmet[/color] and [color=KHAKI]Space suit[/color].\n\nAll EVA suits contain an air tank that will automatically refill with any oxygen from the room they are currently in."
+    }
+}

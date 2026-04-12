@@ -9,15 +9,15 @@
     },
     "Commerce": {
         "title": "Commerce",
-        "description": "This faction has a sophisticated trade system."
+        "description": "A sophisticated trade system forms the backbone of this society, emphasizing fair trade, economic stability and mutual prosperity. All citizens are obligated to contribute to the economy by participating in trade."
     },
     "Exploration": {
         "title": "Exploration",
-        "description": "A species of explorers. It is a legal requirement for one to join the exploration ships sent out."
+        "description": "As a species driven by exploration, all individuals are legally required to serve aboard any dispatched exploration ships."
     },
     "Expansionist": {
         "title": "Expansionist",
-        "description": "It is encouraged and legal to try and colonise other segments of the universe."
+        "description": "It is encouraged and legal to try and colonise other segments of the Slog. Members of {faction_name} also have a legal obligation to survey and document any planet that shows potential for terraforming."
     },
     "Banditry": {
         "title": "Bandits",

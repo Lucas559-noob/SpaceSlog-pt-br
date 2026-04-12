@@ -1,0 +1,22 @@
+{
+    "PotatoSeeds": {
+        "title": "Potato seeds",
+        "description": "Seeds used to grow potato's."
+    },
+    "CarrotSeeds": {
+        "title": "Carrot seeds",
+        "description": "Seeds used to grow carrots."
+    },
+    "HerbSeeds": {
+        "title": "Herb seeds",
+        "description": "Seeds used to grow herbs."
+    },
+    "RiceSeeds": {
+        "title": "Rice seeds",
+        "description": "Seeds used to grow rice."
+    },
+    "WheatSeeds": {
+        "title": "Wheat seeds",
+        "description": "Seeds used to grow wheat."
+    }
+}

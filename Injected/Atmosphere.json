@@ -1,0 +1,42 @@
+{
+    "Ducting": {
+        "title": "Atmospheric ducting",
+        "description": "A conduit designed to direct the movement of air to/from other atmospheric components, such as an air ventilator and Life Support."
+    },
+    "AirVent": {
+        "title": "Air ventilator",
+        "description": "Outputs gasses into a room from a connected air supply. Must be connected to an air supply via ducting."
+    },
+    "HeatVent": {
+        "title": "Radiator vent",
+        "description": "Discharges a small amount of heat from any rooms connected via ducting and air ventilators as infrared energy."
+    },
+    "LargeHeatVent": {
+        "title": "Large radiator vent",
+        "description": "Discharges a large amount of heat from any rooms connected via ducting and air ventilators as infrared energy."
+    },
+    "TransferVent": {
+        "title": "Transfer ventilator",
+        "description": "Allows air to flow between two adjacent rooms, equalising the temperatures and gasses. Must be placed on top of Ship Structure."
+    },
+    "LifeSupport": {
+        "title": "Life support",
+        "description": "Supplies a small amount of oxygen, as well as filtering and cleaning hazardous gasses and CO2 from the air. Must have an air ventilator connected via ducting to work."
+    },
+    "OxygenGenerator": {
+        "title": "Oxygen generator",
+        "description": "Generates a small amount of oxygen. Must have an air ventilator connected via ducting to work."
+    },
+    "LargeOxygenGenerator": {
+        "title": "Large oxygen generator",
+        "description": "Generates a large amount of oxygen. Must have an air ventilator connected via ducting to work."
+    },
+    "GasScrubber": {
+        "title": "Gas scrubber",
+        "description": "Filters and cleans hazardous gasses and CO2 from the atmosphere. Must have an air ventilator connected via ducting to work."
+    },
+    "OxygenTank": {
+        "title": "Oxygen tank",
+        "description": "Stores a small amount of oxygen from any connected oxygen supplier. Must be connected via ducting to work."
+    }
+}

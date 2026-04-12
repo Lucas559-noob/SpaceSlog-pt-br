@@ -1,0 +1,14 @@
+{
+	"YoungAge": {
+		"title": "Young",
+		"description": "Your captain is young, sprightly and probably a bit naïve. Still a little green behind the ears {pawn_pronoun} may find {pawn_reflexive} a little out of {pawn_possessive} depth at times."
+	},
+	"MiddleAge": {
+        "title": "Middle-aged",
+		"description": "Your captain is middle-aged. {pawn_pronoun} is experienced and relatively capable, having spent enough time in the chair to handle most situations."
+	},
+	"OldAge": {
+        "title": "Old",
+		"description": "Your captain is older but also wiser. Though with age also comes the inevitable aching bones and {pawn_name} feels this just as much as anyone else. Living to this age in such a brutal time has to be commended though."
+	}
+}

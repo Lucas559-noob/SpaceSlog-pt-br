@@ -1,0 +1,26 @@
+{
+	"QualityMeal": {
+        "title": "Quality meal"
+	},
+	"BasicMeal": {
+        "title": "Basic meal"
+	},
+	"Cooked": {
+        "title": "Cooked food"
+	},
+	"Raw": {
+        "title": "Raw food"
+	},
+	"AnimalFeed": {
+        "title": "Animal feed"
+	},
+	"Cannibal": {
+        "title": "Cannibal"
+	},
+	"Alcoholic": {
+        "title": "Alcoholic"
+	},
+	"Nothing": {
+        "title": "Nothing"
+	}
+}

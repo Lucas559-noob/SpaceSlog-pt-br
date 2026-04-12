@@ -1,0 +1,18 @@
+{
+    "Consciousness": {
+        "title": "Consciousness",
+        "description": "A measurement of how alert and responsive this character is. If this falls too low, this character will collapse, enter a coma, or die."
+    },
+    "Blood": {
+        "title": "Blood",
+        "description": "A representation of the amount of blood in this character's body. Losing too much blood will lead to fatality."
+    },
+    "Pain": {
+        "title": "Pain",
+        "description": "A measure of how much pain this character is in. Too much pain can cause this character to collapse."
+    },
+    "Mobility": {
+        "title": "Mobility",
+        "description": "This shows the current mobility of the character, representing their ability to move and perform physical actions."
+    }
+}

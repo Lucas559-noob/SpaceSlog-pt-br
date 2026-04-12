@@ -1,0 +1,18 @@
+{
+    "Wealth": {
+        "title": "Total wealth",
+        "description": "Your total combined wealth."
+    },
+    "DistanceTravelled": {
+        "title": "Distance travelled",
+        "description": "How many miles you have travelled through the slog."
+    },
+    "TravelPoints": {
+        "title": "Travel points",
+        "description": "The amount of travel points you have. This is calculated from the total distance travelled."
+    },
+    "DaysPassed": {
+        "title": "Days passed",
+        "description": "The total amount of days that has passed since the start of the game."
+    }
+}

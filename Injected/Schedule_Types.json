@@ -10,5 +10,9 @@
     "Sleep": {
         "title": "Sleep",
         "description": "Will only try and sleep if possible."
+    },
+    "Entertainment": {
+        "title": "Entertainment",
+        "description": "Will only engage in entertainment activities if possible."
     }
 }

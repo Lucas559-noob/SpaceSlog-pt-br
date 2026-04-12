@@ -1,0 +1,9 @@
+{
+	"CablesStep1": {
+		"title": "Laying cables",
+        "description": "Go back to the [color=PURPLE]Power[/color] menu within the [color=PURPLE]Building[/color] menu."
+	},
+	"CablesStep2": {
+        "description": "Select the highlighted [color=PURPLE]Power Cable[/color] button and place this between any [color=RED]red[/color] connecting [color=KHAKI]Power Cables[/color]. You can press [color=PURPLE]Continue[/color] once satisfied."
+	}
+}

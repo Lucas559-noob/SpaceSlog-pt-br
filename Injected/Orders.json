@@ -1,0 +1,22 @@
+{
+    "CancelBlueprint": {
+        "title": "Cancel",
+        "description": "Cancels any designated work."
+    },
+    "Deconstruct": {
+        "title": "Deconstruct",
+        "description": "Assign any buildings or debris to be deconstructed."
+    },
+    "DoMining": {
+        "title": "Mine.",
+        "description": "Designate asteroids to be mined for their resources."
+    },
+    "DoHarvest": {
+        "title": "Harvest.",
+        "description": "Set plants to be harvested for their resources."
+    },
+    "DoHunting": {
+        "title": "Hunt.",
+        "description": "Animals will be marked as game that can be hunted for their resources."
+    }
+}

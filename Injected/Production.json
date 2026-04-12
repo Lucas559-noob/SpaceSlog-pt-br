@@ -1,0 +1,26 @@
+{
+	"Transponder": {
+		"title": "Transponder",
+		"description": "Required to enable the construction of most structures and to be detected by other ships and facilities. Contains a backup battery, limited to 90w of connected power that automatically activates whenever its primary circuit loses power."
+	},
+	"CommConsole": {
+		"title": "Comms console",
+		"description": "Required for communication with other ships and facilities."
+	},
+	"SmallThruster": {
+		"title": "Small thruster",
+		"description": "Provides a small amount of thrust when activated."
+	},
+	"MediumThruster": {
+		"title": "Medium thruster",
+		"description": "Provides a moderate amount of thrust when activated."
+	},
+	"LargeThruster": {
+		"title": "Large thruster",
+		"description": "Provides a large amount of thrust when activated."
+	},
+	"Aeroponics": {
+		"title": "Aeroponics",
+		"description": "A place to grow plants and vegetables. Anything growing here will start to rot if this is not powered."
+	}
+}

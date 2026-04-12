@@ -1,0 +1,29 @@
+{
+    "Sand": {
+        "title": "Sand"
+    },
+    "Mud": {
+        "title": "Mud"
+    },
+    "Rock": {
+        "title": "Rock"
+    },
+    "Soil": {
+        "title": "Soil"
+    },
+    "Gravel": {
+        "title": "Gravel"
+    },
+    "ShallowWater": {
+        "title": "Shallow Water"
+    },
+    "DeepWater": {
+        "title": "Deep Water"
+    },
+    "Magma": {
+        "title": "Magma"
+    },
+    "Ice": {
+        "title": "Ice"
+    }
+}

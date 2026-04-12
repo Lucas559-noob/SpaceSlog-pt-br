@@ -1,0 +1,22 @@
+{
+    "AirTightness": {
+        "title": "Airtightness",
+        "description": "The ships overall airtightness."
+    },
+    "Oxygen": {
+        "title": "Oxygen",
+        "description": "The ship's oxygen levels."
+    },
+    "CarbonDioxide": {
+        "title": "Carbon Dioxide",
+        "description": "The ship's carbon dioxide levels."
+    },
+    "Temperature": {
+        "title": "Temperature",
+        "description": "The ship's internal temperatures."
+    },
+    "ConnectedStructures": {
+        "title": "Connections",
+        "description": "The ship's connected structures. Anything disconnected from the ship will be left behind when entering high burn."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Deterioration": {
+        "title": "Deterioration"
+    },
+    "Flammability": {
+        "title": "Flammability"
+    },
+    "Mass": {
+        "title": "Mass"
+    },
+    "MarketValue": {
+        "title": "Market Value"
+    },
+    "Comfort": {
+        "title": "Comfort"
+    }
+}

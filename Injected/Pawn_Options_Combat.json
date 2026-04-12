@@ -1,0 +1,29 @@
+{
+    "ForceShoot": {
+        "title": "Force shoot"
+    },
+    "FollowAndMelee": {
+        "title": "Follow and melee"
+    },
+    "FinishWithMeleeWeapon": {
+        "title": "Follow and melee"
+    },
+    "FollowAndShoot": {
+        "title": "Follow and shoot"
+    },
+    "Hunting": {
+        "title": "Hunt creatures"
+    },
+    "EnemyRestrain": {
+        "title": "Restrain"
+    },
+    "Restrain": {
+        "title": "Restrain"
+    },
+    "FinishOffNoWeapon": {
+        "title": "Finish off creature"
+    },
+    "Slaughter": {
+        "title": "Slaughter animal"
+    }
+}

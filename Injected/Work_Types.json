@@ -11,10 +11,6 @@
 		"title": "Medical",
 		"description": "Rescues, looks after and heals the sick or wounded."
 	},
-	"Combat": {
-		"title": "Combat",
-		"description": "Will engage in combat."
-	},
 	"Cook": {
 		"title": "Cook",
 		"description": "Performs all cooking and brewing activities."
@@ -39,9 +35,9 @@
 		"title": "Science",
 		"description": "Performs research, development and other scientific activities."
 	},
-	"Veterinarian": {
-		"title": "Veterinarian",
-		"description": "Trains and takes care of animals."
+	"AnimalHandler": {
+		"title": "Animal handler",
+		"description": "Trains and performs the daily care of all animals."
 	},
 	"Tailor": {
 		"title": "Tailor",
@@ -54,5 +50,13 @@
 	"Labourer": {
 		"title": "Labourer",
 		"description": "Hauls the dead, equipment and resources where required. Refills designated machinery."
+	},
+	"Mining": {
+		"title": "Mining",
+		"description": "Completes mining tasks."
+	},
+	"Hunting": {
+		"title": "Hunting",
+		"description": "Will hunt any creatures marked as game."
 	}
 }

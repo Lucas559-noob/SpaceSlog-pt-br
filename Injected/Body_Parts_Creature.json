@@ -1,0 +1,56 @@
+{
+    "FrontLeftWing": {
+		"title": "Front left wing"
+	},
+    "FrontRightWing": {
+		"title": "Front right wing"
+	},
+    "FrontLeftPaw": {
+		"title": "Front left paw"
+	},
+    "FrontRightPaw": {
+		"title": "Front right paw"
+	},
+    "RearLeftPaw": {
+		"title": "Rear left paw"
+	},
+    "RearRightPaw": {
+		"title": "Rear right paw"
+	},
+	"Tail": {
+		"title": "Tail"
+	},
+    "FrontLeftClaws": {
+		"title": "Front left claws"
+	},
+	"FrontRightClaws": {
+		"title": "Front right claws"
+	},
+	"RearLeftClaws": {
+		"title": "Rear left claws"
+	},
+	"RearRightClaws": {
+		"title": "Rear right claws"
+	},
+	"FrontLeftLeg": {
+		"title": "Front left leg"
+	},
+	"MiddleLeftLeg": {
+		"title": "Middle left leg"
+	},
+	"RearLeftLeg": {
+		"title": "Rear left leg"
+	},
+	"FrontRightLeg": {
+		"title": "Front right leg"
+	},
+	"MiddleRightLeg": {
+		"title": "Middle right leg"
+	},
+	"RearRightLeg": {
+		"title": "Rear right leg"
+	},
+	"Beak": {
+		"title": "Beak"
+	}
+}

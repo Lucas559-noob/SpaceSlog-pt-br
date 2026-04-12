@@ -1,0 +1,10 @@
+{
+    "Resourceful": {
+        "title": "Resourcefulness",
+		"description": "As a child, your captain was resourceful and extremely frugal. Having poor parents meant {pawn_pronoun} never had a lot when growing up, so had no choice but to learn to make do. Waste would never go to waste and {pawn_pronoun} would always find a use for things others would throw away."
+	},
+	"Wasteful": {
+		"title": "Wastefulness",
+		"description": "As a child, your captain was wasteful and careless with whatever {pawn_pronoun} managed to get a hold of. Often squandering what little {pawn_pronoun} had, learning very few lessons about frugality or planning ahead. You cant take it with you, so may as well spend it while you can."
+	}
+}

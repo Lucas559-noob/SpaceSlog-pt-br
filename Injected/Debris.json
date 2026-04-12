@@ -1,6 +1,6 @@
 {
     "ShipDebris": {
         "title": "Ship debris",
-        "description": "It looks like wreckage from a ship."
+        "description": "It looks like wreckage from a ship. This can be deconstructed for various materials."
     }
 }

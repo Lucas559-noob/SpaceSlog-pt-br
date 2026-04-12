@@ -1,7 +1,7 @@
 {
     "Dirt": {
         "title": "Dirt",
-        "description": "General dirt."
+        "description": "General grime and dirt."
     },
     "Slime": {
         "title": "Slime",
@@ -10,6 +10,22 @@
     "Puke": {
         "title": "Puke",
         "description": "Chunky bodily fluids."
+    },
+    "BodilyFluids": {
+        "title": "Bodily fluids",
+        "description": "Clear and slimy bodily fluids."
+    },
+    "Ash": {
+        "title": "Ash",
+        "description": "Fine powdery residue left after burning."
+    },
+    "Rubble": {
+        "title": "Rubble",
+        "description": "Debris from demolished or damaged structures."
+    },
+    "RottenFlesh": {
+        "title": "Rotten flesh",
+        "description": "Decaying organic matter."
     },
     "Blood": {
         "title": "Blood",

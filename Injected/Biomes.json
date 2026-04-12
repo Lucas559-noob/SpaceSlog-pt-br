@@ -1,0 +1,14 @@
+{
+    "AridDesert": {
+        "title": "Arid Desert",
+        "description": "A dry and arid environment with sparse vegetation."
+    },
+    "RockyDesert": {
+        "title": "Rocky Desert",
+        "description": "A dry and rocky environment with sparse vegetation."
+    },
+    "DesertPlains": {
+        "title": "Desert Plains",
+        "description": "A dry and arid environment with next to no vegetation."
+    }
+}

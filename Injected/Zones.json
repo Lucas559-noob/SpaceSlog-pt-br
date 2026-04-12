@@ -1,6 +1,10 @@
 {
     "Stockpile": {
         "title": "Stockpile",
-        "description": "Place this down to store cargo."
+        "description": "Place this down within your ship to store cargo."
+    },
+    "TempStockpile": {
+        "title": "Temporary Stockpile",
+        "description": "Can be placed outside of the ship in space to temporarily store cargo. Any items left in stockpiles outside of the ship will be left behind when leaving the area.\nCan only be placed whilst stationary."
     }
 }

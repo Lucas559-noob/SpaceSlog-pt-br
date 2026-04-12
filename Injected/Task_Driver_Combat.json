@@ -1,0 +1,46 @@
+{
+    "FollowAndMelee": {
+        "title": "Follow and melee",
+        "description": "Attacking {object_a}."
+    },
+    "FollowAndShoot": {
+        "title": "Follow and shoot",
+        "description": "Attacking {object_a}."
+    },
+    "Hunt": {
+        "title": "Hunt",
+        "description": "Hunting {object_a}."
+    },
+    "Flee": {
+        "title": "Flee",
+        "description": "Fleeing."
+    },
+    "MeleeBuilding": {
+        "title": "Melee building",
+        "description": "Attacking {object_a}."
+    },
+    "ForceShoot": {
+        "title": "Force Shoot",
+        "description": "Shooting at {object_a}."
+    },
+    "StampFire": {
+        "title": "Stamp Fire",
+        "description": "Stamping out {object_a}."
+    },
+    "Restrain": {
+        "title": "Restrain",
+        "description": "Restraining {object_a}."
+    },
+    "Slaughter": {
+        "title": "Slaughter.",
+        "description": "Slaughtering {object_a}."
+    },
+    "FinishOffNoWeapon": {
+        "title": "Finish off.",
+        "description": "Finishing off {object_a}."
+    },
+    "FinishWithMeleeWeapon": {
+        "title": "Finish with melee",
+        "description": "Attacking {object_a}."
+    }
+}

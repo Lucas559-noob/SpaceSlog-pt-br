@@ -1,0 +1,15 @@
+{
+	"PlaceTempStockpileStep1": {
+		"title": "Stockpile",
+        "description": "Let's get the crew working!\nA [color=KHAKI]Temporary Stockpile[/color] placed outside of your ship will allow your crew to store materials to work with.\n\nBegin by clicking the highlighted [color=PURPLE]Zones[/color] button."
+	},
+	"PlaceTempStockpileStep2": {
+        "description": "Place a [color=KHAKI]Temporary Stockpile[/color] by first selecting the [color=PURPLE]Temporary Stockpile[/color] button.\n\nNext, [color=LIGHT_GREEN]click and drag[/color] on any empty space outside, to the left or right of your ship using the {select}. [color=LIGHT_GREEN]Letting go of the button[/color] will place the [color=KHAKI]Temporary Stockpile[/color].\n\nEnsure your [color=KHAKI]Temporary Stockpile[/color] covers at least 20 cells."
+	},
+	"PlaceTempStockpileStep3": {
+		"description": "Use {action} whilst not over a menu, or {ui_cancel}, to exit from placing a [color=KHAKI]Temporary Stockpile[/color].\nThis also works on most menus and designations/placements."
+	},
+	"PlaceTempStockpileStep4": {
+		"description": "Eventually you will need to build a [color=KHAKI]Stockpile[/color] inside of your ship, as once you leave this sector, all items in a [color=KHAKI]Temporary Stockpile[/color] will be left behind.\n\nYou can also limit what items can be stored in a [color=KHAKI]Stockpile[/color] by forbidding them within the selected stockpiles menu.\n\nYou can now unpause the game by either pressing the [color=PURPLE]play[/color] button in the top right or pressing {speed_paused}. Your crew will then move the resources from inside your ship and into the new [color=KHAKI]Stockpile[/color]."
+	}
+}

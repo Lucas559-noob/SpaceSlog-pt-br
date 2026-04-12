@@ -1,18 +1,18 @@
 {
 	"SpaceHelmet": {
 		"title": "Space helmet",
-		"description": "Part of an EVA suit used to perform orbital extra-vehicular activity, the spacesuit counterpart is also needed for full functionality. Extremely uncomfortable to sleep in."
+		"description": "Part of an EVA (Extra-Vehicular Activity) suit; the spacesuit counterpart is also needed for full functionality. Extremely uncomfortable to sleep in."
 	},
 	"CowboyHat": {
 		"title": "Cowboy hat",
-		"description": "A cowboy hat."
+		"description": "Considered as much of a fashion accessory as a practical means of protecting the head from the elements."
 	},
 	"BeanieHat": {
 		"title": "Beanie hat",
-		"description": "A beanie hat."
+		"description": "Excellent at helping to keep your head warm."
 	},
 	"CombatHelmet": {
 		"title": "Combat helmet",
-		"description": "A hard helmet for use in combat."
+		"description": "A hard helmet designed to protect the head when in combat."
 	}
 }

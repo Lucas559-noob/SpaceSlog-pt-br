@@ -61,7 +61,7 @@
 	},
 	"Slaver" : {
 		"title" : "Slaver",
-		"description" : "{pawn_name} usually travels the universe in search of poor folk to enslave and sell, or just those unlucky enough to be in the wrong place at the wrong time."
+		"description" : "{pawn_name} usually travels the slog in search of poor folk to enslave and sell, or just those unlucky enough to be in the wrong place at the wrong time."
 	},
 	"BountyHunter" : {
 		"title" : "Bounty Hunter",
@@ -69,7 +69,7 @@
 	},
 	"OffworldDetective" : {
 		"title" : "Offworld Detective",
-		"description" : "As as orphan {pawn_name} was raised on colony ships. Trying to survive as a youngster meant getting into a lot of trouble. It is this that made {pawn_reflexive_short} decide 'being the boot was better than receiving the boot'."
+		"description" : "As an orphan {pawn_name} was raised on colony ships. Trying to survive as a youngster meant getting into a lot of trouble. It is this that made {pawn_reflexive_short} decide 'being the boot was better than receiving the boot'."
 	},
 	"PlanetDrifter" : {
 		"title" : "Planet Drifter",
@@ -77,7 +77,7 @@
 	},
 	"Spacefarer" : {
 		"title" : "Spacefarer",
-		"description" : "{pawn_name} travels around the universe. Although this is more of a hobby than a job, {pawn_name} would probably make you believe different."
+		"description" : "{pawn_name} travels around the slog. Although this is more of a hobby than a job, {pawn_name} would probably make you believe different."
 	},
 	"Planetologist" : {
 		"title" : "Planetologist",

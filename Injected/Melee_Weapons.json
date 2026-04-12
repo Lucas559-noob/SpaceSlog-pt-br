@@ -1,0 +1,34 @@
+{
+	"Gladius": {
+		"title": "Gladius",
+		"description": "A short sword primarily used for stabbing in close combat. The design is old, yet still effective."
+	},
+	"Sword": {
+		"title": "Sword",
+		"description": "A regular sword used for slashing in close combat. The weight and keen edge make it an excellent choice for severing limbs and slicing your enemies."
+	},
+	"Knife": {
+		"title": "Knife",
+		"description": "A small knife used for personal protection. Still capable of causing a reasonable amount of damage, even for its size."
+	},
+	"Bat": {
+		"title": "Bat",
+		"description": "A bat originally designed for sports, but makes an excellent weapon. Just the right size and weight for swinging which can cause heavy bruising and broken bones."
+	},
+    "RoundShield": {
+		"title": "Round shield",
+		"description": "A sturdy round shield used to block attacks, but can also be used to bash in to enemies."
+	},
+	"Hatchet": {
+		"title": "Hatchet",
+		"description": "A simple small and light one handed axe. Ideal for quickly hacking at enemies."
+	},
+	"Spear": {
+		"title": "Spear",
+		"description": "A long, well balanced two handed pole weapon. Used by thrusting the pointy end into your opponents."
+	},
+	"BattleAxe": {
+		"title": "Battle Axe",
+		"description": "A large and heavy two handed axe, which requires a firm grip to wield. Slow to swing but capable of dealing heavy cutting damage."
+	}
+}

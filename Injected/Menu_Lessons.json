@@ -1,0 +1,30 @@
+{
+	"PowerMenu": {
+		"title": "Power Menu",
+        "description": "Anything to do with generating and distributing power on your ship can be found in the [color=PURPLE]Power[/color] menu.\n\nMany items require power to operate, which can be supplied by a [color=KHAKI]Power Generator[/color].\nEnsure each item is connected to the generator via [color=KHAKI]Power Cables[/color].\n\nA [color=RED]red[/color] [color=KHAKI]Power Cable[/color] indicates the connection to each machine, so ensure all [color=RED]red[/color] [color=KHAKI]Power Cables[/color] are linked together."
+	},
+	"AtmosphereMenu": {
+		"title": "Atmosphere Menu",
+        "description": "The [color=PURPLE]Atmosphere[/color] menu contains all the items you need to create and maintain a breathable atmosphere on your ship.\n\nYour ship must be airtight and maintain the correct atmosphere.\n\nRemember, any breaches, including open doors, will cause atmosphere to leak.\n\nMany building types listed here will require [color=KHAKI]Atmospheric Ducting[/color] to be attached. This can be done by placing [color=KHAKI]Atmospheric Ducting[/color]  between the [color=RED]red[/color] termination points on the buildings."
+	},
+    "ShipSystemsMenu": {
+        "title": "Ship Systems Menu",
+        "description": "The [color=PURPLE]Ship Systems[/color] menu helps you see at a glance if your ship is operating smoothly.\n\nYou can view various information about your ship, and change its registered name, which is used to identify yourself throughout the [i]Slog[/i].\n\nPressing [color=PURPLE]Black Alert[/color] will order all crew back to the ship and remain there until the alert is deactivated.\n\nYour [color=PURPLE]Burn Meter[/color] is also located on this menu."
+    },
+    "CrewMenu": {
+        "title": "Crew Menu",
+        "description": "All of your ship's crew, along with a quick overview of each, are listed in the [color=PURPLE]Crew[/color] menu.\n\nHere you can view and assign [color=KHAKI]roles[/color], create custom [color=KHAKI]roles[/color], and assign hotkeys for those [color=KHAKI]roles[/color]. You can also set [color=KHAKI]schedules[/color] and [color=KHAKI]jobs[/color].\n\nSelecting a crew member will open their individual menu, where you can view more detailed information about them."
+    },
+    "Schedules": {
+        "title": "Schedules",
+        "description": "You may want to set [color=KHAKI]schedules[/color] for each crew member to ensure they sleep and work at appropriate times. This can be achieved by accessing the [color=PURPLE]Schedules[/color] panel within the [color=PURPLE]Crew[/color] menu. You can then select the desired [color=PURPLE]Schedule[/color] button and fill in the time slots on the schedule grid.\n\nYour crew will attempt to follow their assigned [color=KHAKI]schedule[/color] but will prioritise self-preservation tasks such as eating, drinking, and sleeping when necessary."
+    },
+    "Jobs": {
+        "title": "Jobs",
+        "description": "You may want to give each crew member specific job priorities to ensure they attempt those tasks first. This can be achieved by accessing the [color=PURPLE]Jobs[/color] panel within the [color=PURPLE]Crew[/color] menu.\n\n[color=LIGHT_GREEN]Click[/color] each box to adjust the priority. Hovering over the icon above will show which jobs correspond to each priority.\n\nA lower number indicates a higher priority."
+    },
+    "Stockpiles": {
+        "title": "Stockpiles",
+        "description": "You can adjust the priority of each [color=KHAKI]stockpile[/color] within the [color=PURPLE]Stockpile[/color] menu itself. This tells your crew which [color=KHAKI]stockpile[/color] should be filled first.\n\nYou can also set restrictions on what items can be stored within each [color=KHAKI]stockpile[/color] by selecting the desired categories in the [color=PURPLE]Stockpile[/color] menu."
+    }
+}

@@ -1,0 +1,12 @@
+{
+	"CameraMovementStep1": {
+		"title": "Camera Movement",
+        "description": "Use {move_up}, {move_left}, {move_down}, {move_right} to move the camera. You can also [color=LIGHT_GREEN]click and drag[/color] with the {camera_scroll}.\n\nPressing {quick_scroll} allows you to move more quickly."
+	},
+	"CameraMovementStep2": {
+        "description": "{scroll_up}, {scroll_down} will zoom the camera out and in."
+	},
+	"CameraMovementStep3": {
+        "description": "Pressing {reset_camera} will centre the camera back on your ship."
+	}
+}

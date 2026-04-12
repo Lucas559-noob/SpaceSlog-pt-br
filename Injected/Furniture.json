@@ -1,0 +1,102 @@
+{
+    "SleepingSpot": {
+        "title": "Sleeping spot",
+        "description": "A simple and uncomfortable rescue or sleeping spot for one humanoid."
+    },
+    "SleepingBag": {
+        "title": "Sleeping bag",
+        "description": "A warm but relatively uncomfortable place for one humanoid to sleep."
+    },
+    "SingleBed": {
+        "title": "Single bed",
+        "description": "A warm and comfortable place for one humanoid to sleep."
+    },
+    "DoubleBed": {
+        "title": "Double bed",
+        "description": "A warm comfortable place for two humanoids to sleep, side by side."
+    },
+    "SmallAnimalBed": {
+        "title": "Animal bed",
+        "description": "A comfortable place for a small animal to sleep."
+    },
+    "HospitalBed": {
+        "title": "Single hospital bed",
+        "description": "A warm and comfortable place for one humanoid to rest and recover from any injuries/illnesses."
+    },
+    "CryoPod": {
+        "title": "Cryo pod",
+        "description": "Cryonically freezes creatures, preventing ageing for as long as this equipment has power."
+    },
+    "SmallTable": {
+        "title": "Small table",
+        "description": "A small and relatively comfortable table to eat at. A vast improvement from eating off the floor."
+    },
+    "MediumTable": {
+        "title": "Medium table",
+        "description": "A relatively comfortable table to eat at. A vast improvement from eating off the floor."
+    },
+    "LargeTable": {
+        "title": "Large table",
+        "description": "A large and relatively comfortable table to eat at. A vast improvement from eating off the floor."
+    },
+    "BedSideTable": {
+        "title": "Bedside table",
+        "description": "A small bedside table. Can be placed in crew quarters to improve room quality."
+    },
+    "Dresser": {
+        "title": "Dresser",
+        "description": "A dresser which can be placed in crew quarters to improve room quality."
+    },
+    "Chair": {
+        "title": "Chair",
+        "description": "A relatively comfortable place to sit."
+    },
+    "Stool": {
+        "title": "Stool",
+        "description": "Marginally better than sitting on the floor."
+    },
+    "CaptainsChair": {
+        "title": "Captain's chair",
+        "description": "A chair suitable for a Ship's Captain."
+    },
+    "CommandChair": {
+        "title": "Command chair",
+        "description": "A chair commonly used in a ship's bridge."
+    },
+    "FloorLight": {
+        "title": "Floor light",
+        "description": "A standard light built in to the floor."
+    },
+    "StandingLight": {
+        "title": "Standing light",
+        "description": "A standard light that stands on the floor."
+    },
+    "AlarmFloorLight": {
+        "title": "Alarm floor light",
+        "description": "A red flashing light that is built in to the floor."
+    },
+	"ConcreteFloor": {
+		"title": "Concrete floor",
+		"description": "An extremely heavy flooring used in large crafts. Must be placed on top of structural flooring."
+	},
+	"CarpetFloor": {
+		"title": "Carpet",
+		"description": "A very comfortable luxury carpet. Must be placed on top of structural flooring."
+	},
+	"WoodFloor": {
+		"title": "Wooden flooring",
+		"description": "A comfortable type of flooring made from wood. Must be placed on top of structural flooring."
+	},
+	"Door": {
+		"title": "Door",
+		"description": "A basic manual door. It will leak atmosphere when in direct contact with external space."
+	},
+	"AutoDoor": {
+		"title": "Automatic Door",
+		"description": "A powered automatic door that can be used unpowered, but will be slower to operate. It will leak atmosphere when in direct contact with external space."
+	},
+	"ArmouredDoor": {
+		"title": "Armoured door",
+		"description": "A powered automatic and reinforced door that can be used unpowered, but will be slower to operate. It will leak atmosphere when in direct contact with external space."
+	}
+}

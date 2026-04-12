@@ -1,0 +1,10 @@
+{
+	"PowerUpStep1": {
+		"title": "Powering up",
+        "description": "Hopefully by now your [color=KHAKI]Power Generator[/color] and your [color=KHAKI]Life Support[/color] should have been completed.\n\nIf not, you can click on the prefabs within your ship to see what materials are required and if they are available, otherwise designate more [color=KHAKI]Ship Debris[/color] to be deconstructed.\n\nYou can press [color=PURPLE]Continue[/color] once satisfied."
+	},
+	"PowerUpStep2": {
+		"title": "Powering up",
+        "description": "If completed your [color=KHAKI]Power Generator[/color] and [color=KHAKI]Life Support[/color] should be operational.\n\nIf they have not powered on, check your connections and ensure they have enough [color=KHAKI]Fuel[/color].\n\nYou can press [color=PURPLE]Continue[/color] once satisfied."
+	}
+}

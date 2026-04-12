@@ -1,26 +1,35 @@
 {
-    "IsShipMoving": {
-        "title": "Is ship moving",
-        "description": "Is the player ship moving?"
+    "IsPlayerShipMoving": {
+        "title": "Is the player's ship moving"
     },
-    "IsShipStationary": {
-        "title": "Is ship stationary",
-        "description": "Is the player ship stationary?"
+    "IsPlayerShipStationary": {
+        "title": "Is the player's ship stationary"
     },
-    "AboveWealthThreshold": {
-        "title": "Is above wealth amount",
-        "description": "Is the player above this wealth amount?"
+    "AboveWealthThreshold20k": {
+        "title": "Is the player above this wealth amount?"
+    },
+    "AboveDistanceTravelled": {
+        "title": "Is the player above this distance travelled?"
     },
     "IsTransponderActive": {
-        "title": "Is transponder active",
-        "description": "Checking if the ship transponder is active."
+        "title": "Is the player's transponder active?"
     },
-    "DaysPassedSinceStart": {
-        "title": "Has this many days passed",
-        "description": "Checking if this many days have passed since starting the game."
+    "IsCommsConsoleActive": {
+        "title": "Is a comms console active?"
     },
-    "TimeSinceLastRun": {
-        "title": "Time passed since last run",
-        "description": "Checking if this amount of time has passed since i was last run."
+    "PlayerPawnsCollapsedOrDead": {
+        "title": "Is all player pawns collapsed or dead?"
+    },
+    "StillFriendlyFaction": {
+        "title": "Is there still a friendly faction?"
+    },
+    "HasGainedCargoRecently": {
+        "title": "Has the player ship gained any cargo recently?"
+    },
+    "HasTravelled": {
+        "title": "Has the player travelled yet?"
+    },
+    "IsSwarmsEnabled": {
+        "title": "Is this difficulty setting set?"
     }
 }

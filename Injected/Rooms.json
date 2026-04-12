@@ -1,6 +1,42 @@
 {
-    "Room": {
-        "title": "Room",
-        "description": "A standard type of room."
+    "GeneralRoom": {
+        "title": "General Room",
+        "description": "A generic or multifunctional room."
+    },
+    "Quarters": {
+        "title": "Crew Quarters",
+        "description": "A private living space for assigned crew members.\n\nCapacity is dictated by the amount of sleeping spots."
+    },
+    "GrowRoom": {
+        "title": "Grow Room",
+        "description": "A designated space to grow plants, fruit, and vegetables."
+    },
+    "Brig": {
+        "title": "Brig",
+        "description": "A designated space to hold prisoners."
+    },
+    "MessHall": {
+        "title": "Mess Hall",
+        "description": "A designated space for dining and cooking."
+    },
+    "Bridge": {
+        "title": "Bridge",
+        "description": "The room containing the ship's navigation and command centres."
+    },
+    "SickBay": {
+        "title": "Sick Bay",
+        "description": "A designated space to keep sick or injured crew members."
+    },
+    "CargoBay": {
+        "title": "Cargo Bay",
+        "description": "A designated space to store cargo and supplies."
+    },
+    "EngineRoom": {
+        "title": "Engine Room",
+        "description": "The room containing the ship's engines and related machinery."
+    },
+    "LifeSupport": {
+        "title": "Life Support",
+        "description": "The room containing the ship's atmospheric and environmental systems."
     }
 }

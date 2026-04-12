@@ -1,0 +1,18 @@
+{
+    "CactusTree": {
+        "title": "Cactus",
+        "description": "Cactus plant."
+    },
+    "BirchTree": {
+        "title": "Birch",
+        "description": "Birch plant."
+    },
+    "FernTree": {
+        "title": "Fern",
+        "description": "Fern plant."
+    },
+    "OakTree": {
+        "title": "Oak",
+        "description": "Oak plant."
+    }
+}

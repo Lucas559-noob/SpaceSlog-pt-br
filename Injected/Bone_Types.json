@@ -3,11 +3,15 @@
 		"title": "Bone",
         "description": "Made of connective tissue and specialised bone cells."
 	},
-    "Worm": {
+    "Serpent": {
+		"title": "Bone",
+		"description": "Thin but flexible."
+	},
+    "Rodent": {
 		"title": "Bone",
 		"description": "Thin and brittle."
 	},
-    "Rodent": {
+    "Bird": {
 		"title": "Bone",
 		"description": "Thin and brittle."
 	}

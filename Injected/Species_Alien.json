@@ -1,0 +1,10 @@
+{
+	"Worm": {
+    	"title": "Space worm",
+		"description": "A grotesque-looking worm that requires no atmosphere to breath. Not very tough on its own, but can be a problem in groups."
+	},
+	"WormHeavy": {
+    	"title": "Squamidon",
+		"description": "A grotesque-looking worm which has armoured scales protecting parts of its body. Although from the same family as the space worm, these creatures have evolved to be much tougher."
+	}
+}

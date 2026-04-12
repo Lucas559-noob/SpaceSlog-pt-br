@@ -1,0 +1,18 @@
+{
+	"CrewOrdersStep1": {
+		"title": "Crew orders",
+        "description": "We need to give the crew more work to do.\n\nWe can do this by setting designations with the various orders within the [color=PURPLE]Orders[/color] menu.\n\nFirst, open the [color=PURPLE]Orders[/color] menu by clicking the highlighted [color=PURPLE]Orders[/color] button."
+	},
+	"CrewOrdersStep2": {
+        "description": "[color=KHAKI]Ship Debris[/color] can be deconstructed for salvaged raw materials. In order for your crew to move to and deconstruct any [color=KHAKI]Ship Debris[/color], you need to designate it for deconstruction.\n\nWe can do that with the [color=PURPLE]Deconstruct[/color] order button."
+	},
+	"CrewOrdersStep3": {
+        "description": "Now [color=LIGHT_GREEN]click and drag[/color] using the {select} over the [color=KHAKI]Ship Debris[/color] to designate this for deconstruction.\n\nDesignate at least 2 pieces of [color=KHAKI]Ship Debris[/color] to be deconstructed.\n\nYou may need to zoom out and move the camera around to find some."
+	},
+	"CrewOrdersStep4": {
+        "description": "Now we will do the same for [color=KHAKI]Asteroids[/color]. You can find multiple different types throughout the Slog and they can be visually identified by their different coloured ore highlights.\n\nThis time we will select the [color=PURPLE]Mining[/color] order button in the [color=PURPLE]Orders[/color] menu."
+	},
+	"CrewOrdersStep5": {
+        "description": "[color=KHAKI]Asteroids[/color] will also need to be designated for mining.\n\nGo ahead and [color=LIGHT_GREEN]click and drag[/color] using the {select} over at least 2 [color=KHAKI]Asteroids[/color] and your crew will start mining them when available."
+	}
+}

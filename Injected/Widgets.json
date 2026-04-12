@@ -15,8 +15,8 @@
     "Deconstruct": {
         "title": "Toggle deconstruct."
     },
-    "Draft": {
-        "title": "Toggle draft."
+    "Command": {
+        "title": "Toggle command."
     },
     "DeleteZone": {
         "title": "Remove zone.",
@@ -40,10 +40,24 @@
     "Forbid": {
         "title": "Toggle interaction."
     },
-    "Mine": {
+    "ForcedMine": {
         "title": "Toggle mining."
     },
-    "Harvest": {
+    "ForcedHarvest": {
         "title": "Force harvest."
+    },
+    "ForceShoot": {
+        "title": "Forced shoot.",
+        "description": "Force shoot target."
+    },
+    "ForceMelee": {
+        "title": "Forced melee.",
+        "description": "Force melee target."
+    },
+    "OperateVent": {
+        "title": "Toggle active."
+    },
+    "Hunt": {
+        "title": "Toggle hunting."
     }
 }

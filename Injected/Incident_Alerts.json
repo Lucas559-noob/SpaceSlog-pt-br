@@ -1,0 +1,22 @@
+{
+    "PassingShipDroppedOffCrewman": {
+        "title": "A crew member has been left behind.",
+        "description": "{ship_name} of {faction_name} has left behind crew member {subject_name} to help you."
+    },
+    "HostileCreaturesEnteredSector": {
+        "title": "Hostile creatures have entered this sector.",
+        "description": "Hostile {pawn} have been detected entering this sector. Be prepared for imminent attack!"
+    },
+    "Infestation": {
+        "title": "Infestation.",
+        "description": "{pawn} have been spotted! These could have been hiding in any cargo that has come aboard recently. Fortunately they are not aggressive unless provoked, though if left alone they may start making their way through your provisions."
+    },
+    "MayDayPawn": {
+        "title": "Mayday!",
+        "description": "A distress signal has been received through your comms console. The sender, introducing themselves as {pawn}, reports having been left behind and abandoned by their crew. They are requesting immediate rescue.\n\nYou may choose to drop out of high burn and assist them, or ignore the signal, though doing so will almost certainly result in their death."
+    },
+    "HostileSwarm": {
+        "title": "Hostile swarm",
+        "description": "A hostile swarm of {amount} {pawn}s has been detected nearby and will be here within approximately {time} hours. We should either leave immediately or prepare for combat."
+    }
+}

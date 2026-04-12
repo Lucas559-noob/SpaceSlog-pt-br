@@ -1,0 +1,12 @@
+{
+	"BuildLifeSupportStep1": {
+		"title": "Build life support",
+        "description": "Running out of oxygen can be extremely dangerous for the crew, so we should probably set up some life support.\n\nSelect the highlighted [color=PURPLE]Atmosphere[/color] button in the [color=PURPLE]Building[/color] menu."
+	},
+	"BuildLifeSupportStep2": {
+        "description": "Now select the highlighted [color=PURPLE]Life Support[/color] button."
+	},
+	"BuildLifeSupportStep3": {
+        "description": "Remember to check the information below to see what fuel this uses. In this case it uses [color=KHAKI]Ice[/color], which we can get from [color=KHAKI]Asteroids[/color].\n\nPlace the [color=KHAKI]Life Support[/color] within your ship on any available floor space."
+	}
+}

@@ -4,7 +4,8 @@ UI_NEW_GAME,New game
 UI_LOAD_GAME,Load game
 UI_MODS,Modules
 UI_OPTIONS,Options
-UI_CREDITS,Credits
+UI_MENU_CREDITS,Credits
+UI_LANGUAGE,Language
 UI_QUIT,Quit
 UI_BACK,Go back
 UI_CONFIRM,Confirm
@@ -15,6 +16,7 @@ UI_NEWS,News
 UI_TWITTER,Twitter (X)
 UI_YOUTUBE,YouTube
 UI_DISCORD,Discord
+UI_WIKI,Wiki
 UI_MUSIC,Music
 UI_FORUMS,Forums
 UI_CHOOSE_STORY,Choose your story
@@ -27,13 +29,11 @@ UI_TRAITS,Traits
 UI_TIMID,Timid
 UI_NORMAL,Normal
 UI_BRUTAL,Brutal
+UI_TUTORIAL,Tutorial
 UI_CHOOSE_CREW,Choose your crew
 UI_AVAILABLE,Available
 UI_SELECTED,Selected
 UI_BACKSTORY,Backstory
-UI_FIRST_NAME,First name
-UI_LAST_NAME,Last name
-UI_NICKNAME,Nickname
 UI_LAWS,Laws
 UI_CHARACTERISTICS,Characteristics
 UI_MEDICAL_CONDITIONS,Medical conditions
@@ -43,23 +43,23 @@ UI_PARTY_SKILLS,Party skills
 UI_HEADGEAR,Headgear
 UI_RANDOMISE,Randomise
 UI_OPTIONS,Options
-UI_GAMEPLAY,Gameplay
 UI_PAUSE_ON_ALERT,Pause on alert
 UI_SHOW_NAME_LABEL,Show name under pawns
 UI_SHOW_FPS,Show FPS
 UI_SHOW_CUSTOM_MOUSE,Show custom mouse cursor
 UI_ENABLE_MOUSE_SCROLL,Enable mouse scrolling
 UI_DEV_MODE,Enable developer mode
-UI_GRAPHICS,Graphics
+UI_GENERAL,General
+UI_CONTROLS,Controls
 UI_RESOLUTION,Resolution
 UI_VSYNC,Enable Vsync
 UI_FULLSCREEN,Full screen
 UI_BORDERLESS_WINDOW,Enable borderless window
-UI_SOUNDS,Sounds
 UI_MASTER_VOLUME,Master volume
 UI_MUSIC_VOLUME,Music volume
 UI_SOUNDS_VOLUME,Sfx volume
 UI_MENU_VOLUME,Menu volume
+UI_ACCESSIBILITY,Accessibility
 UI_CLOSE,Close
 UI_CANCEL,Cancel
 UI_OK,Ok
@@ -69,7 +69,6 @@ UI_LOAD_MENU,Load game
 UI_LOAD,Load Game
 UI_SAVE,New Save
 UI_OVERWRITE,Overwrite
-UI_LANGUAGE_CREDITS,Language credits
 UI_RELATIONS,Relations
 UI_RACE,Race
 UI_SPECIES,Species
@@ -91,7 +90,6 @@ UI_GAME_OVER,Game over
 UI_CARGO_CAPACITY,Cargo space capacity
 UI_MONEY,Credits
 UI_RESOURCE,Resource
-UI_STARTING_ITEMS,Starting items:
 UI_YOUR_STOCK,Your stock
 UI_SELL_PRICE,Sell price
 UI_SELL,Sell
@@ -162,7 +160,8 @@ UI_CURRENT,Current
 UI_INFO,Info
 UI_AGE,Age
 UI_GENDER,Gender
-UI_ILLNESSES,Illnesses
+UI_DIET,Diet
+UI_HEALTH_CONDITIONS,Conditions
 UI_INJURIES,Injuries
 UI_HYDRATION,Hydration
 UI_ENERGY,Energy
@@ -173,21 +172,23 @@ UI_STATISTICS,Statistics
 UI_PRIMARY_MATERIAL,Primary material
 UI_SECONDARY_MATERIAL,Secondary material
 UI_EXPORT_SHIP_LAYOUT,Export ship layout
+UI_EXPORT_SHIP,Export ship
+UI_EXPORT,Export
 UI_CURRENT_TRACK,Current track:
 UI_NEEDS,Needs
 UI_UNIVERSE_CREATION,Universe creation
 UI_FACTIONS_AVAILABLE,Factions available 
 UI_FACTIONS_SELECTED,Factions selected
-UI_CONSTRUCTION,Construction
+UI_BUILDING,Building
 UI_RESEARCH_MENU,Research
+UI_ORDERS_MENU,Orders
 UI_GAME_INFO,Game information
 UI_FACTIONS,Factions
 UI_FACTION,Faction
-UI_PAIN,Pain
-UI_CONSCIOUSNESS,consciousness
 UI_RESPIRATION,Respiration
 UI_PRIORITY,Priority
 UI_ROSTER,Roster
+UI_ANIMALS,Animals
 UI_ROOMS,Rooms
 UI_EQUIPMENT,Equipment
 UI_CHOOSE_EMBLEM,Choose emblem
@@ -197,24 +198,40 @@ UI_TRADE,Trade
 UI_BRIBE,Bribe
 UI_NEGOTIATE,Negotiate
 UI_COMMUNICATE,Open communications
-UI_PREPARING_TO_LEAVE,Preparing to leave ... !
-UI_ATTEMPT_TO_BRIBE,Attempt to bribe
+UI_BRIBE_TO_LEAVE,Bribe to leave
+UI_BRIBE_THEM_TO_TRADE,Bribe to trade
 UI_JOBS_PRIORITY_EXPLANATION,A lower score means a higher priority.
-UI_ANYTHING,Anything
-UI_WORK,Work`
-UI_SLEEP,Sleep
-UI_ENTERTAINMENT,Entertainment
 UI_CONTAINED_MATERIALS,Contained materials:
 UI_CROP,Crop
 UI_SEED_AMOUNT,Seeds available
 UI_INGREDIENT,Ingredients
 UI_RECIPE,Recipe
-UI_INGREDIENTS_ADDED,Ingredients added:
 UI_GAME_STATS,Game statistics
-UI_BUILDING,Building
-UI_SHIP_SYSTEMS,Ship systems
 UI_EXIT_SURVEY,Exit survey
 UI_WISHLIST,WISHLIST NOW!
 UI_GAMETYPE,Game type
 UI_HARMONY,Harmony
 UI_RANDOM,Random
+UI_DAYS_PASSED,Days passed
+UI_TOTAL_WEALTH,Total wealth
+UI_STARTING_CREW,Starting crew:
+UI_SELECT_FACTIONS,Select factions:
+UI_BURN_METER,Burn meter
+UI_LEADER,Leader
+UI_SHIP_TYPE,Ship type
+UI_DISTANCE_TRAVELLED,Distance travelled
+UI_TOOLTIP_SPEED,Tooltip speed
+UI_PREPARE_ORDERS,Prepare orders
+UI_SEND_ORDERS,Send orders
+UI_ORDER_DETAILS,Order details
+UI_INITIATE_SCAN,Initiate scan
+UI_SEND_AWAY_TEAM,Send team
+UI_RESET_LESSONS,Reset lessons
+UI_ROOM_ASSIGNMENT,Room assignment
+UI_HANDBOOK,Operations handbook
+UI_GAME_DATE,Start date
+UI_SCALE,UI Scale
+UI_RESTORE_DEFAULTS,Restore defaults
+UI_AWAITING_KEY_PRESS,Awaiting key press...
+UI_SET_NEW_KEYBIND,Set new keybind
+UI_CREATE_CAPTAIN,Create captain

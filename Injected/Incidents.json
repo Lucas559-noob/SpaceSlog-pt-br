@@ -3,20 +3,53 @@
         "title": "Passing ship",
         "description": "Our scanners have detected a ship nearby. It should be within communication range shortly."
     },
+    "PassingShipPhysical": {
+        "title": "Passing ship physical",
+        "description": "Our scanners have detected a ship nearby. It should be within communication range shortly."
+    },
     "Asteroids": {
         "title": "Asteroid field",
-        "description": "We are passing over an asteroid field. We can attempt to mine some but must be careful of parasites and infections."
+        "description": "We are passing over an asteroid field. We will need to drop from high burn to access them, though we must be careful of parasites and infections."
     },
     "Debris": {
         "title": "Debris",
-        "description": "We are detecting some kind of debris nearby, we could scavenge the wreckage for supplies or see if there are any survivors. We must be wary of pirates in the area."
+        "description": "We are detecting some kind of debris nearby, drop from high burn to scavenge the wreckage for supplies or look for survivors. We must be wary of pirates in the area."
     },
     "CryoChamber": {
         "title": "Cryo chamber",
         "description": "There appears to be a Cryo Chamber floating close by. We could see if anyone's inside."
     },
     "HostileCreatureAssault": {
-        "title": "Assault",
-        "description": "Hostile creatures have been spotted within range of the ship."
+        "title": "Assault"
+    },
+    "PassingShipRescue": {
+        "title": "Passing ship rescue",
+        "description": "Our scanners have detected a ship nearby. It should be within communication range shortly."
+    },
+    "PassingPlanet": {
+        "title": "Passing planet",
+        "description": "A planet has been detected nearby."
+    },
+    "PassingStar": {
+        "title": "Passing star",
+        "description": "A star has been detected nearby."
+    },
+    "Infestation": {
+        "title": "Infestation"
+    },
+    "MayDayPawn": {
+        "title": "Mayday",
+        "description": "You are now too far away to stop and rescue {pawn}."
+    },
+    "AbandonedFacility": {
+        "title": "Abandoned facility",
+        "description": "A facility has been detected in this sector. We should drop out of high burn to investigate."
+    },
+    "HostileSwarm": {
+        "title": "Hostile swarm",
+        "description": "The hostile swarm of {pawn}s have now entered this sector."
+    },
+    "TransportShipAssault": {
+        "title": "Assault"
     }
 }

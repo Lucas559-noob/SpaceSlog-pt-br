@@ -1,0 +1,46 @@
+{
+    "Spotless": {
+        "title": "Spotless",
+        "description": "This room is impeccably clean with no dirt in sight."
+    },
+    "Clean": {
+        "title": "Clean",
+        "description": "This room is clean and mostly free of dirt."
+    },
+    "Dirty": {
+        "title": "Dirty",
+        "description": "This room is dirty and in need of cleaning."
+    },
+    "Filthy": {
+        "title": "Filthy",
+        "description": "This room is filthy and in serious need of cleaning."
+    },
+    "Cramped": {
+        "title": "Cramped",
+        "description": "This room is extremely cramped."
+    },
+    "Tight": {
+        "title": "Tight",
+        "description": "This room is quite tight."
+    },
+    "Cluttered": {
+        "title": "Cluttered",
+        "description": "This room is fairly cluttered."
+    },
+    "Ample": {
+        "title": "Ample",
+        "description": "This room is of an average size."
+    },
+    "Spacious": {
+        "title": "Spacious",
+        "description": "This room is spacious."
+    },
+    "VerySpacious": {
+        "title": "Very Spacious",
+        "description": "This room is very spacious."
+    },
+    "Expansive": {
+        "title": "Expansive",
+        "description": "This room has large open spaces."
+    }
+}

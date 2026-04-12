@@ -1,5 +1,8 @@
 {
-    "Basic": {
-        "title": "Incident reasoner"
+    "Random": {
+        "title": "Random game mode incident reasoner"
+    },
+    "Harmony": {
+        "title": "Harmony game mode incident reasoner"
     }
 }

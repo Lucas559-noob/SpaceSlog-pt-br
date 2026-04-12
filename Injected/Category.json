@@ -1,20 +1,38 @@
 {
     "Wood": {
-        "title": "Wood"
+        "title": "Wood",
+        "description": "An organic, renewable material mostly gathered from trees."
     },
     "Metal": {
-        "title": "Metal"
+        "title": "Metal",
+        "description": "Extracted from naturally occurring rocks."
     },
     "Mineral": {
-        "title": "Minerals"
+        "title": "Minerals",
+        "description": "A naturally occurring inorganic material gathered from earth and rock."
     },
     "Fabric": {
-        "title": "Fabric"
+        "title": "Fabric",
+        "description": "Made from natural fibres like animal skin or man-made synthetic materials."
     },
     "Liquid": {
-        "title": "Liquid"
+        "title": "Liquid",
+        "description": "A type of fluid."
     },
     "Solid": {
-        "title": "Solid"
+        "title": "Solid",
+        "description": "A type of solid matter."
+    },
+    "Medical": {
+        "title": "Medical",
+        "description": "Materials or items used for medicinal purposes."
+    },
+    "Botanical": {
+        "title": "Botanical",
+        "description": "Materials derived from plants."
+    },
+    "Ammunition": {
+        "title": "Ammunition",
+        "description": "Projectiles mostly used for turrets."
     }
 }

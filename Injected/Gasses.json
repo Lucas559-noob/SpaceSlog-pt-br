@@ -1,19 +1,19 @@
 {
     "Oxygen": {
         "title": "Oxygen",
-        "description": "Oxygen is an oxidising agent, and most humanoid life forms use this for breathing."
+        "description": "Most humanoid and many other life forms use Oxygen for breathing."
     },
     "Nitrogen": {
         "title": "Nitrogen",
-        "description": "Nitrogen is a common element in the universe, and is present in most organic compounds."
+        "description": "Nitrogen is a common element found out in the slog, and is present in most organic compounds."
     },
     "CarbonDioxide": {
         "title": "Carbon Dioxide",
-        "description": "Carbon Dioxide is a respiratory by-product of most humanoid life forms."
+        "description": "Carbon Dioxide is a respiratory by-product of most humanoid and other life forms."
     },
     "Hazardous": {
         "title": "Hazardous",
-        "description": "Hazardous gas is a collective term for any gas that is considered toxic or otherwise harmful to most humanoid life forms."
+        "description": "Hazardous gas is a collective term for any gas that is considered toxic or otherwise harmful to most life forms."
     },
     "Explosive": {
         "title": "Explosive",

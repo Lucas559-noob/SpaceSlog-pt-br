@@ -1,0 +1,10 @@
+{
+	"EnableTutorial": {
+		"title": "Enable tutorial",
+        "description": "Enable the interactive tutorial that will help guide you through the basics of the game. Highly recommended for new players.\n\nNon-interactive help will still be available."
+	},
+	"SkipTutorial": {
+		"title": "Skip tutorial",
+        "description": "Skip the interactive tutorial. Not recommended for new players.\n\nNon-interactive help will still be available."
+	}
+}

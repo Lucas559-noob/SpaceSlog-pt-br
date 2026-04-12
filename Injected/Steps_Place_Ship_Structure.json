@@ -1,0 +1,12 @@
+{
+	"PlaceShipStructureStep1": {
+		"title": "Building Ship Structure",
+        "description": "Now lets start expanding the ship!\n\n[color=LIGHT_GREEN]Click[/color] the highlighted [color=PURPLE]Building[/color] button or press {building_menu} to open the [color=PURPLE]Building[/color] menu."
+	},
+	"PlaceShipStructureStep2": {
+		"description": "[color=KHAKI]Ship Structure[/color] forms the basic framework for all ships and is required to support other components like [color=KHAKI]Deck Plating[/color].\n\nTo begin with, select the highlighted [color=PURPLE]Ship Structure[/color] button. "
+	},
+	"PlaceShipStructureStep3": {
+		"description": "Now [color=LIGHT_GREEN]click and drag[/color] using the {select} over the white highlighted area to place down some blueprints, then wait for your crew to finish building them.\n\nIf you are running low on [color=KHAKI]Titanium[/color], designate more [color=KHAKI]Ship Structure[/color] or [color=KHAKI]Asteroids[/color] to be worked on."
+	}
+}

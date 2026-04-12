@@ -1,0 +1,177 @@
+{
+	"BrainDamage": {
+		"title": "Brain damage"
+	},
+	"Haemorrhage": {
+		"title": "Haemorrhage",
+		"description": "This character is losing blood. The higher the intensity of blood loss, the quicker this character will die. Blood will recover naturally once the haemorrhage has been tended to.",
+		"stages": {
+			"Minor": {
+				"title": "Minor"
+			},
+			"Moderate":{
+				"title": "Moderate"
+			},
+			"Major": {
+				"title": "Major"
+			},
+			"Severe": {
+				"title": "Severe"
+			}
+		}
+	},
+	"Bruise": {
+		"title": "Bruise",
+		"description": "A bruise caused from blunt force trauma.",
+		"stages": {
+			"Small": {
+				"title": "Small"
+			},
+			"Large": {
+				"title": "Large"
+			}
+		}
+	},
+	"Cut": {
+		"title": "Cut",
+		"description": "A wound caused by a sharp object.",
+		"stages": {
+			"Superficial": {
+				"title": "Superficial"
+			},
+			"Small": {
+				"title": "Small"
+			},
+			"Large":{
+				"title": "Large"
+			}
+		}
+	},
+	"Puncture": {
+		"title": "Puncture",
+		"description": "An injury caused by a sharp, pointed object.",
+		"stages": {
+			"Small": {
+				"title": "Small"
+			},
+			"Medium": {
+				"title": "Medium"
+			},
+			"Large":{
+				"title": "Large"
+			}
+		}
+	},
+	"Gunshot": {
+		"title": "Gunshot wound",
+		"description": "An injury caused by a bullet.",
+		"stages": {
+			"Small": {
+				"title": "Small"
+			},
+			"Medium": {
+				"title": "Medium"
+			},
+			"Large":{
+				"title": "Large"
+			}
+		}
+	},
+	"Bite": {
+		"title": "Bite",
+		"description": "A bite wound.",
+		"stages": {
+			"Small": {
+				"title": "Small"
+			},
+			"Medium": {
+				"title": "Medium"
+			},
+			"Large":{
+				"title": "Large"
+			}
+		}
+	},
+	"Scratch": {
+		"title": "Scratch",
+		"description": "A scratch wound.",
+		"stages": {
+			"Superficial": {
+				"title": "Superficial"
+			},
+			"Small": {
+				"title": "Small"
+			},
+			"Large":{
+				"title": "Large"
+			}
+		}
+	},
+	"Stab": {
+		"title": "Stab wound",
+		"description": "A stab wound.",
+		"stages": {
+			"Small": {
+				"title": "Small"
+			},
+			"Medium": {
+				"title": "Medium"
+			},
+			"Large":{
+				"title": "Large"
+			}
+		}
+	},
+	"Gash": {
+		"title": "Gash",
+		"description": "An open wound.",
+		"stages": {
+			"Superficial": {
+				"title": "Superficial"
+			},
+			"Shallow": {
+				"title": "Shallow"
+			},
+			"Deep":{
+				"title": "Deep"
+			}
+		}
+	},
+	"Burn": {
+		"title": "Burn",
+		"description": "An injury caused by heat.",
+		"stages": {
+			"Small": {
+				"title": "Small"
+			},
+			"Large":{
+				"title": "Large"
+			}
+		}
+	},
+	"Fracture": {
+		"title": "Fracture",
+		"description": "A broken bone.",
+		"stages": {
+			"Small": {
+				"title": "Small"
+			}
+		}
+	},
+	"Severance": {
+		"title": "Severance",
+		"description": "This body part has been severed."
+	},
+	"Crushed": {
+		"title": "Crushed",
+		"description": "This body part has been crushed."
+	},
+	"Destroyed": {
+		"title": "Destroyed",
+		"description": "This body part has been destroyed."
+	},
+	"Slaughter": {
+		"title": "Sliced",
+		"description": "This has been killed."
+	}
+}

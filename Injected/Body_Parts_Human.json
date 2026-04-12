@@ -1,0 +1,92 @@
+{
+	"Jaw": {
+		"title": "Jaw"
+	},
+	"LeftFoot": {
+		"title": "Left foot"
+	},
+	"RightFoot": {
+		"title": "Right foot"
+	},
+	"LeftArm": {
+		"title": "Left arm"
+	},
+	"RightArm": {
+		"title": "Right arm"
+	},
+	"LeftHand": {
+		"title": "Left hand"
+	},
+	"RightHand": {
+		"title": "Right hand"
+	},
+	"Groin": {
+		"title": "Groin"
+	},
+	"LeftLittleFinger": {
+		"title": "Left little finger"
+	},
+	"LeftFourthFinger": {
+		"title": "Left fourth finger"
+	},
+	"LeftMiddleFinger": {
+		"title": "Left middle finger"
+	},
+	"LeftForeFinger": {
+		"title": "Left fore finger"
+	},
+	"RightLittleFinger": {
+		"title": "Right little finger"
+	},
+	"RightFourthFinger": {
+		"title": "Right fourth finger"
+	},
+	"RightMiddleFinger": {
+		"title": "Right middle finger"
+	},
+	"RightForeFinger": {
+		"title": "Right fore finger"
+	},
+	"LeftThumb": {
+		"title": "Left thumb"
+	},
+	"RightThumb": {
+		"title": "Right thumb"
+	},
+	"LeftBigToe": {
+		"title": "Left big toe"
+	},
+	"LeftSecondToe": {
+		"title": "Left second toe"
+	},
+	"LeftThirdToe": {
+		"title": "Left third toe"
+	},
+	"LeftFourthToe": {
+		"title": "Left fourth toe"
+	},
+	"LeftLittleToe": {
+		"title": "Left little toe"
+	},
+	"RightBigToe": {
+		"title": "Right big toe"
+	},
+	"RightSecondToe": {
+		"title": "Right second toe"
+	},
+	"RightThirdToe": {
+		"title": "Right third toe"
+	},
+	"RightFourthToe": {
+		"title": "Right fourth toe"
+	},
+	"RightLittleToe": {
+		"title": "Right little toe"
+	},
+	"Neck": {
+		"title": "Neck"
+	},
+	"Nose": {
+		"title": "Nose"
+	}
+}

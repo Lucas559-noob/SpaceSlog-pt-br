@@ -1,0 +1,62 @@
+{
+	"Torso": {
+		"title": "Torso"
+	},
+    "Stomach": {
+		"title": "Stomach"
+	},
+	"Intestines": {
+		"title": "Intestines"
+	},
+	"LeftEar": {
+		"title": "Left ear"
+	},
+	"RightEar": {
+		"title": "Right ear"
+	},
+	"Skull": {
+		"title": "Skull"
+	},
+    "LeftLung": {
+		"title": "Left lung"
+	},
+    "RightLung": {
+		"title": "Right lung"
+	},
+	"Ribs": {
+		"title": "Ribs"
+	},
+	"Heart": {
+		"title": "Heart"
+	},
+	"Liver": {
+		"title": "Liver"
+	},
+	"Teeth": {
+		"title": "Teeth"
+	},
+	"LeftKidney": {
+		"title": "Left kidney"
+	},
+	"RightKidney": {
+		"title": "Right kidney"
+	},
+    "Head": {
+		"title": "Head"
+	},
+	"Brain": {
+		"title": "Brain"
+	},
+	"LeftLeg": {
+		"title": "Left leg"
+	},
+	"RightLeg": {
+		"title": "Right leg"
+	},
+	"LeftEye": {
+		"title": "Left eye"
+	},
+	"RightEye": {
+		"title": "Right eye"
+	}
+}

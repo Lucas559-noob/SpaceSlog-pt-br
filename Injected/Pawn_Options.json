@@ -1,73 +1,63 @@
 {
     "Build": {
-        "title": "Construct buildings",
-        "description": "Building"
+        "title": "Construct buildings"
     },
     "Deconstruct": {
-        "title": "Deconstruct buildings",
-        "description": "Deconstructing building"
+        "title": "Deconstruct buildings"
+    },
+    "Repair": {
+        "title": "Repair buildings"
     },
     "Mine": {
-        "title": "Mine asteroids",
-        "description": "Mining"
+        "title": "Mine asteroids"
     },
     "Refuel": {
-        "title": "Refuel buildings",
-        "description": "Refuelling"
+        "title": "Refuel buildings"
     },
     "Eat": {
-        "title": "Eat",
-        "description": "Eating"
+        "title": "Eat"
     },
     "Drink": {
-        "title": "Drink",
-        "description": "Drinking"
+        "title": "Drink"
     },
     "Sleep": {
-        "title": "Sleep",
-        "description": "Sleeping"
+        "title": "Sleep"
     },
     "Roam": {
-        "title": "Roam",
-        "description": "Roaming"
+        "title": "Roam"
     },
-    "BeatFire": {
-        "title": "Put out fires"
+    "Idle": {
+        "title": "Idle"
+    },
+    "StampFire": {
+        "title": "Stamp out fires"
     },
     "Clean": {
-        "title": "Clean dirt",
-        "description": "Cleaning"
+        "title": "Clean dirt"
     },
     "SelfTend": {
         "title": "Self tend"
     },
-    "RestHeal": {
-        "title": "Rest heal",
-        "description": "Resting in bed until healed."
+    "RestUntilHealed": {
+        "title": "Rest as patient"
     },
     "Rescue": {
-        "title": "Rescue creatures",
-        "description": "Rescuing collapsed pawn."
-    },
-    "Repair": {
-        "title": "Repair buildings",
-        "description": "Repairing"
+        "title": "Rescue collapsed allied creature"
     },
     "Haul": {
-        "title": "Haul to stockpile",
-        "description": "Hauling"
+        "title": "Haul to stockpile"
+    },
+    "Combine": {
+        "title": "Combine items"
     },
     "HaulObstruction": {
-        "title": "Haul obstruction",
-        "description": "Hauling obstruction"
+        "title": "Move obstruction"
     },
     "HaulToPrefab": {
-        "title": "Haul to construction",
-        "description": "Hauling to prefab"
+        "title": "Haul to construction"
     },
     "HaulToRecipe": {
-        "title": "Haul to recipe",
-        "description": "Hauling to recipe"
+        "title": "Haul to recipe"
     },
     "Research": {
         "title": "Conduct research"
@@ -78,9 +68,6 @@
     "FindSafeTemperature": {
         "title": "Find safe temperature"
     },
-    "DoBadMood": {
-        "title": "Do bad mood"
-    },
     "DoGoodMood": {
         "title": "Do good mood"
     },
@@ -88,79 +75,66 @@
         "title": "Do social"
     },
     "MoveDead": {
-        "title": "Dispose of dead creatures",
-        "description": "Moving the dead"
+        "title": "Dispose of dead creatures"
     },
     "EquipSpacesuit": {
-        "title": "Equip spacesuit",
-        "description": "Equipping a spacesuit"
+        "title": "Equip spacesuit"
     },
     "ForceMove": {
-        "title": "Force move",
-        "description": "Moving"
+        "title": "Force move"
     },
     "Equip": {
-        "title": "Equip",
-        "description": "Equipping"
+        "title": "Equip"
     },
     "UnEquip": {
-        "title": "Drop",
-        "description": "Dropping"
+        "title": "Drop"
     },
     "Strip": {
-        "title": "Strip creature",
-        "description": "Stripping"
+        "title": "Strip creature"
     },
     "DestroyAsset": {
-        "title": "Destroy item",
-        "description": "Destroying item."
+        "title": "Destroy item"
     },
     "UseEntertainment": {
-        "title": "Use entertainment",
-        "description": "Using entertainment"
+        "title": "Use entertainment"
     },
     "SitAtChair": {
-        "title": "Sit at chair",
-        "description": "Sitting at chair"
+        "title": "Sit at chair"
     },
     "HealPawn": {
-        "title": "Heal patient",
-        "description": "Healing pawn back to health"
+        "title": "Heal patient or animal"
     },
-    "FeedPawn": {
-        "title": "Feed patient",
-        "description": "Feeding pawn"
+    "FeedPatient": {
+        "title": "Feed patient"
     },
-    "HydratePawn": {
-        "title": "Hydrate patient",
-        "description": "Hydrating pawn"
+    "HydratePatient": {
+        "title": "Hydrate patient"
     },
-    "Slaughter": {
-        "title": "Slaughter collapsed creature",
-        "description": "Slaughtering"
+    "FeedAnimal": {
+        "title": "Feed animal"
+    },
+    "HydrateAnimal": {
+        "title": "Hydrate animal"
     },
     "Butcher": {
-        "title": "Butcher creature",
-        "description": "Butchering"
-    },
-    "FollowAndMelee": {
-        "title": "Follow and melee",
-        "description": "Melee"
+        "title": "Butcher creature"
     },
     "Flee": {
-        "title": "Flee",
-        "description": "Flee to a safe area"
+        "title": "Flee"
     },
     "SowPlant": {
-        "title": "Sow plant",
-        "description": "Sow a plant"
+        "title": "Sow plant"
     },
     "HarvestPlant": {
-        "title": "Harvest plant",
-        "description": "Harvesting a plant"
+        "title": "Harvest plant"
     },
     "HarvestBrew": {
-        "title": "Harvest brew",
-        "description": "Harvesting a brew"
+        "title": "Harvest brew"
+    },
+    "SitOnCaptainsChair": {
+        "title": "Sit on captains chair."
+    },
+    "Breed": {
+        "title": "Breed"
     }
 }

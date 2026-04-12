@@ -1,0 +1,14 @@
+{
+	"Loner": {
+        "title": "A Loner",
+		"description": "As a bit of a loner {pawn_name} mostly prefers solitude over social interactions, often keeping to {pawn_reflexive} and avoiding large groups of people. The quiet hum of a ship's engine is much more preferable to {pawn_reflexive_short} than the loud chitter chatter of other crew members."
+	},
+	"EasyGoing": {
+        "title": "Easy Going",
+		"description": "{pawn_name} is easy going and generally well liked, which makes it easy for {pawn_reflexive_short} to get along with others. If given the choice though, {pawn_pronoun} would prefer to have the company of others rather than to be alone."
+	},
+	"PeoplePerson": {
+        "title": "People Person",
+		"description": "{pawn_name} is extremely sociable and really enjoys the company of others. Some say a natural leader and {pawn_pronoun} is known to be the life of the party, making friends wherever {pawn_pronoun} goes."
+	}
+}
