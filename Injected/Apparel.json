@@ -1,34 +1,35 @@
 {
 	"SpaceSuit": {
-		"title": "Space suit",
-		"description": "Part of an EVA (Extra-Vehicular Activity) suit; a helmet is also needed for full functionality. These suits have built in rebreathers which clean any waste gasses. Extremely uncomfortable to sleep in."
+		"title": "Traje espacial",
+		"description": "Parte de um traje EVA (Atividade Extra-Veicular); um capacete também é necessário para funcionalidade completa. Esses trajes têm re-respiradores embutidos que limpam quaisquer gases residuais. Extremamente desconfortáveis para dormir."
 	},
 	"JumpSuit": {
-		"title": "Overalls",
-		"description": "Clothing that covers the top and bottom half of the body, usually to protect from dirt and grime."
+		"title": "Macacão",
+		"description": "Roupa que cobre a parte superior e inferior do corpo, geralmente para proteger da sujeira e da gordura."
 	},
 	"FlakVest": {
-		"title": "Ballistic vest",
-		"description": "A protective vest made using layers of aramid fibers. Designed to reduce the impact of projectiles."
+		"title": "Colete balístico",
+		"description": "Um colete protetor feito usando camadas de fibras de aramida. Projetado para reduzir o impacto de projéteis."
 	},
 	"Jacket": {
-		"title": "Jacket",
-		"description": "An item of clothing designed to cover the top half of the body."
+		"title": "Jaqueta",
+		"description": "Uma peça de roupa projetada para cobrir a parte superior do corpo."
 	},
 	"DusterJacket": {
-		"title": "Duster jacket",
-		"description": "A longer jacket that covers almost the whole body."
+		"title": "Jaqueta longa",
+		"description": "Uma jaqueta mais longa que cobre quase todo o corpo."
 	},
 	"Jeans": {
-		"title": "Jeans",
-		"description": "Comfortable clothing that covers the lower half of the body."
+		"title": "Calça jeans",
+		"description": "Roupa confortável que cobre a parte inferior do corpo."
 	},
 	"Shirt": {
-		"title": "Shirt",
-		"description": "Comfortable and light clothing that covers the upper half of the body."
+		"title": "Camisa",
+		"description": "Roupa confortável e leve que cobre a parte superior do corpo."
 	},
 	"CombatShirt": {
-		"title": "Combat shirt",
-		"description": "Tough clothing that covers the upper half of the body."
+		"title": "Camisa de combate",
+		"description": "Roupa resistente que cobre a parte superior do corpo."
 	}
 }
+

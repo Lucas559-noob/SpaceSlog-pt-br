@@ -1,18 +1,19 @@
 {
 	"Player": {
-		"title": "Player faction",
-		"description": "This is the player's faction."
+		"title": "Facção do jogador",
+		"description": "Esta é a facção do jogador."
 	},
 	"Reavers": {
-		"title": "Reavers",
-		"description": "A once civilised species, driven to insanity whilst lost on the fringes of space."
+		"title": "Devastadores",
+		"description": "Uma espécie outrora civilizada, levada à insanidade enquanto perdida nas fronteiras do espaço."
 	},
 	"Pirates": {
-		"title": "Pirates",
-		"description": "Let down and forgotten by society, they must now pillage and plunder whatever they can in order to survive."
+		"title": "Piratas",
+		"description": "Abandonados e esquecidos pela sociedade, eles agora devem saquear e pilhar o que puderem para sobreviver."
 	},
 	"SplinterFaction": {
-		"title": "Splinter Faction",
-		"description": "A breakaway faction that has found itself dispersed throughout the Slog."
+		"title": "Facção Dissidente",
+		"description": "Uma facção separada que se encontrou dispersa por todo o Slog."
 	}
 }
+

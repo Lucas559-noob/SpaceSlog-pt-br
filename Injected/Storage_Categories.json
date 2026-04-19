@@ -1,66 +1,67 @@
 {
     "Sustenance": {
-        "title": "Sustenance",
-        "description": "Foodstuffs and drinkable liquids."
+        "title": "Sustento",
+        "description": "Produtos alimentícios e líquidos bebíveis."
     },
     "RawMaterials": {
-        "title": "Raw Materials",
-        "description": "Basic materials used to create other items."
+        "title": "Matérias-primas",
+        "description": "Materiais básicos usados para criar outros itens."
     },
     "Weapons": {
-        "title": "Weapons",
-        "description": "Items that can be used for combat."
+        "title": "Armas",
+        "description": "Itens que podem ser usados para combate."
     },
     "Clothing": {
-        "title": "Clothing",
-        "description": "Items that can be equipped and worn."
+        "title": "Vestuário",
+        "description": "Itens que podem ser equipados e usados."
     },
     "ManMade": {
-        "title": "Man-Made",
-        "description": "Items mostly crafted from raw materials."
+        "title": "Manufaturados",
+        "description": "Itens geralmente criados a partir de matérias-primas."
     },
     "Corpses": {
-        "title": "Corpses",
-        "description": "Remains of deceased creatures."
+        "title": "Cadáveres",
+        "description": "Restos de criaturas falecidas."
     },
     "Alcoholic": {
-        "title": "Alcoholic",
-        "description": "Drinkable liquids containing alcohol."
+        "title": "Alcoólicos",
+        "description": "Líquidos bebíveis contendo álcool."
     },
     "NonAlcoholic": {
-        "title": "Non-Alcoholic",
-        "description": "Drinkable liquids free from alcohol."
+        "title": "Não Alcoólicos",
+        "description": "Líquidos bebíveis livres de álcool."
     },
     "Melee": {
-        "title": "Melee",
-        "description": "Close combat weapons."
+        "title": "Corpo a corpo",
+        "description": "Armas de combate próximo."
     },
     "Ranged": {
-        "title": "Ranged",
-        "description": "Long distance weapons."
+        "title": "Longo alcance",
+        "description": "Armas de longa distância."
     },
     "HeadGear": {
-        "title": "Head Gear",
-        "description": "Clothing equipped to the headgear slot."
+        "title": "Chapéus/Capacetes",
+        "description": "Vestuário equipado no slot de cabeça."
     },
     "UpperBody": {
-        "title": "Upper Body",
-        "description": "Clothing equipped to the body under or body over slot."
+        "title": "Parte superior do corpo",
+        "description": "Vestuário equipado nos slots de corpo interno ou superior."
     },
     "Armour": {
-        "title": "Armour",
-        "description": "Protective clothing equipped to the armour slot."
+        "title": "Armadura",
+        "description": "Vestuário de proteção equipado no slot de armadura."
     },
     "Trousers": {
-        "title": "Trousers",
-        "description": "Clothing equipped to the legs slot."
+        "title": "Calças",
+        "description": "Vestuário equipado no slot de pernas."
     },
     "FootWear": {
-        "title": "Foot Wear",
-        "description": "Clothing equipped to the footwear slot."
+        "title": "Calçados",
+        "description": "Vestuário equipado no slot de calçados."
     },
     "AllowAllCorpses": {
-        "title": "Allow all corpses",
-        "description": "All types of corpses can be stored."
+        "title": "Permitir todos os cadáveres",
+        "description": "Todos os tipos de cadáveres podem ser armazenados."
     }
 }
+

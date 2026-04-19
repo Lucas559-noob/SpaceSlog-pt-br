@@ -1,18 +1,19 @@
 {
 	"SpaceHelmet": {
-		"title": "Space helmet",
-		"description": "Part of an EVA (Extra-Vehicular Activity) suit; the spacesuit counterpart is also needed for full functionality. Extremely uncomfortable to sleep in."
+		"title": "Capacete espacial",
+		"description": "Parte de um traje EVA (Atividade Extra-Veicular); a contraparte do traje espacial também é necessária para funcionalidade completa. Extremamente desconfortável para dormir."
 	},
 	"CowboyHat": {
-		"title": "Cowboy hat",
-		"description": "Considered as much of a fashion accessory as a practical means of protecting the head from the elements."
+		"title": "Chapéu de cowboy",
+		"description": "Considerado tanto um acessório de moda quanto um meio prático de proteger a cabeça dos elementos."
 	},
 	"BeanieHat": {
-		"title": "Beanie hat",
-		"description": "Excellent at helping to keep your head warm."
+		"title": "Chapéu de malha",
+		"description": "Excelente para ajudar a manter sua cabeça aquecida."
 	},
 	"CombatHelmet": {
-		"title": "Combat helmet",
-		"description": "A hard helmet designed to protect the head when in combat."
+		"title": "Capacete de combate",
+		"description": "Um capacete rígido projetado para proteger a cabeça quando em combate."
 	}
 }
+

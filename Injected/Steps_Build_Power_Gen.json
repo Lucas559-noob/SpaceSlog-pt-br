@@ -1,12 +1,13 @@
 {
 	"BuildPowerGeneratorStep1": {
-		"title": "Build a power generator",
-        "description": "Now your crew has finished expanding the ship, they are going to need some power.\n\nFirst select the highlighted [color=PURPLE]Power[/color] button in the [color=PURPLE]Building[/color] menu."
+		"title": "Construir um gerador de energia",
+        "description": "Agora que sua tripulação terminou de expandir a nave, eles precisarão de energia.\n\nPrimeiro, selecione o botão destacado de [color=PURPLE]Energia[/color] no menu [color=PURPLE]Construção[/color]."
 	},
 	"BuildPowerGeneratorStep2": {
-        "description": "Now select the highlighted [color=PURPLE]Power Generator[/color] button."
+        "description": "Agora selecione o botão destacado de [color=PURPLE]Gerador de Energia[/color]."
 	},
 	"BuildPowerGeneratorStep3": {
-        "description": "More information will now be shown below. Including the fuel type and skills required.\n\nYou can also select the primary and secondary materials used to build this, though the defaults should be fine for now.\nIf the numbers are [color=RED]red[/color], this is because all of our materials are off the ship.\n\nPlace this within your ship on any available floor space."
+        "description": "Mais informações serão mostradas abaixo, incluindo o tipo de combustível e as habilidades necessárias.\n\nVocê também pode selecionar os materiais primários e secundários usados para construir isto, embora os padrões devam servir por enquanto.\nSe os números estiverem em [color=RED]vermelho[/color], é porque todos os nossos materiais estão fora da nave.\n\nColoque isto dentro de sua nave em qualquer espaço de piso disponível."
 	}
 }
+

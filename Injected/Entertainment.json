@@ -1,6 +1,7 @@
 {
     "ArcadeMachine": {
-        "title": "Arcade machine",
-        "description": "A basic gaming machine that can be played by pawns, to help reduce stress."
+        "title": "Máquina de fliperama",
+        "description": "Uma máquina de jogos básica que pode ser jogada por peões, para ajudar a reduzir o estresse."
     }
 }
+

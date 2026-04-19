@@ -1,26 +1,27 @@
 {
 	"Pistol": {
-		"title": "Pistol",
-		"description": "A semi-automatic handgun designed for quick firing. Excellent for basic personal protection."
+		"title": "Pistola",
+		"description": "Uma pistola semi-automática projetada para disparo rápido. Excelente para proteção pessoal básica."
 	},
 	"Revolver": {
-		"title": "Revolver",
-		"description": "A powerful handgun with a revolving cylinder."
+		"title": "Revólver",
+		"description": "Uma pistola poderosa com um cilindro giratório."
 	},
 	"LeverActionRifle": {
-		"title": "Lever Action Rifle",
-		"description": "A rifle that uses a lever mechanism to load cartridges."
+		"title": "Rifle de Alavanca",
+		"description": "Um rifle que usa um mecanismo de alavanca para carregar cartuchos."
 	},
 	"AssaultRifle": {
-		"title": "Assault Rifle",
-		"description": "A rapid-fire rifle designed for military use."
+		"title": "Rifle de Assalto",
+		"description": "Um rifle de disparo rápido projetado para uso militar."
 	},
 	"SubMachineGun": {
-		"title": "Submachine Gun",
-		"description": "A lightweight automatic firearm designed for close-quarters combat."
+		"title": "Submetralhadora",
+		"description": "Uma arma de fogo automática leve projetada para combate de curto alcance."
 	},
 	"Shotgun": {
-		"title": "Shotgun",
-		"description": "A firearm that is designed to be fired from the shoulder, using shells containing multiple small pellets."
+		"title": "Espingarda",
+		"description": "Uma arma de fogo projetada para ser disparada do ombro, usando cartuchos contendo múltiplos pequenos pellets."
 	}
 }
+

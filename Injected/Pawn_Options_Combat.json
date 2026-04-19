@@ -1,29 +1,30 @@
 {
     "ForceShoot": {
-        "title": "Force shoot"
+        "title": "Forçar disparo"
     },
     "FollowAndMelee": {
-        "title": "Follow and melee"
+        "title": "Seguir e usar corpo a corpo"
     },
     "FinishWithMeleeWeapon": {
-        "title": "Follow and melee"
+        "title": "Finalizar com arma corpo a corpo"
     },
     "FollowAndShoot": {
-        "title": "Follow and shoot"
+        "title": "Seguir e disparar"
     },
     "Hunting": {
-        "title": "Hunt creatures"
+        "title": "Caçar criaturas"
     },
     "EnemyRestrain": {
-        "title": "Restrain"
+        "title": "Conter inimigo"
     },
     "Restrain": {
-        "title": "Restrain"
+        "title": "Conter"
     },
     "FinishOffNoWeapon": {
-        "title": "Finish off creature"
+        "title": "Finalizar criatura"
     },
     "Slaughter": {
-        "title": "Slaughter animal"
+        "title": "Abater animal"
     }
 }
+

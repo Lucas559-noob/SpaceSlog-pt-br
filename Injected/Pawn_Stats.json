@@ -1,38 +1,39 @@
 {
     "MiningSpeed": {
-        "title": "Mining speed",
-        "description": "How quickly this creature can hit when mining."
+        "title": "Velocidade de mineração",
+        "description": "Quão rapidamente esta criatura pode minerar."
     },
     "SowingSpeed": {
-        "title": "Sowing speed",
-        "description": "How quickly this creature can sow."
+        "title": "Velocidade de semeadura",
+        "description": "Quão rapidamente esta criatura pode semear."
     },
     "BuildingSpeed": {
-        "title": "Construction speed",
-        "description": "How quickly this creature can construct, repair or deconstruct things."
+        "title": "Velocidade de construção",
+        "description": "Quão rapidamente esta criatura pode construir, reparar ou desconstruir coisas."
     },
     "HealingSpeed": {
-        "title": "Healing speed",
-        "description": "How quickly this creature can heal when tending."
+        "title": "Velocidade de cura",
+        "description": "Quão rapidamente esta criatura pode curar quando estiver cuidando."
     },
     "Trading": {
-        "title": "Trading",
-        "description": "How well this creature can trade with others to get a better deal."
+        "title": "Comércio",
+        "description": "Quão bem esta criatura pode negociar com outros para obter um melhor acordo."
     },
     "MeleeSpeed": {
-        "title": "Melee speed",
-        "description": "How quickly this creature can hit when using a melee weapon."
+        "title": "Velocidade corpo a corpo",
+        "description": "Quão rapidamente esta criatura pode atacar quando usando uma arma corpo a corpo."
     },
     "RangedSpeed": {
-        "title": "Ranged speed",
-        "description": "How quickly this creature can hit when using a ranged weapon."
+        "title": "Velocidade à distância",
+        "description": "Quão rapidamente esta criatura pode atacar quando usando uma arma de longo alcance."
     },
     "RangedAccuracy": {
-        "title": "Ranged accuracy",
-        "description": "How accurate this creature is when firing projectiles."
+        "title": "Precisão à distância",
+        "description": "Quão precisa esta criatura é ao disparar projéteis."
     },
     "MeleeAccuracy": {
-        "title": "Melee accuracy",
-        "description": "How accurate this creature is when using a melee weapon."
+        "title": "Precisão corpo a corpo",
+        "description": "Quão precisa esta criatura é ao usar uma arma corpo a corpo."
     }
 }
+

@@ -1,18 +1,19 @@
 {
     "Tantrum": {
-        "title": "Tantrum",
-        "description": "Throwing a tantrum."
+        "title": "Birra",
+        "description": "Tendo uma birra."
     },
     "Delirious": {
-        "title": "Delirious",
-        "description": "Dazed and confused."
+        "title": "Delirante",
+        "description": "Atordoado e confuso."
     },
     "Catatonic": {
-        "title": "Catatonic",
-        "description": "Catatonic."
+        "title": "Catatônico",
+        "description": "Catatônico."
     },
     "Breakdown": {
-        "title": "Breakdown",
-        "description": "Having a breakdown."
+        "title": "Colapso",
+        "description": "Tendo um colapso."
     }
 }
+

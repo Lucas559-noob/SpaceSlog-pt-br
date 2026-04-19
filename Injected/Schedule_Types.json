@@ -1,18 +1,19 @@
 {
     "Anything": {
-        "title": "Anything",
-        "description": "Can do anything."
+        "title": "Qualquer coisa",
+        "description": "Pode fazer qualquer coisa."
     },
     "Work": {
-        "title": "Work",
-        "description": "Will only perform work based tasks where possible."
+        "title": "Trabalho",
+        "description": "Realizará apenas tarefas baseadas em trabalho, sempre que possível."
     },
     "Sleep": {
-        "title": "Sleep",
-        "description": "Will only try and sleep if possible."
+        "title": "Sono",
+        "description": "Só tentará dormir, sempre que possível."
     },
     "Entertainment": {
-        "title": "Entertainment",
-        "description": "Will only engage in entertainment activities if possible."
+        "title": "Entretenimento",
+        "description": "Só se envolverá em atividades de entretenimento, sempre que possível."
     }
 }
+

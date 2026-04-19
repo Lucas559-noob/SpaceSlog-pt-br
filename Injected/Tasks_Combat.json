@@ -1,32 +1,33 @@
 {
     "ReserveCombatTarget": {
-        "title": "Reserve combat target"
+        "title": "Reservar alvo de combate"
     },
     "FollowAndMelee": {
-        "title": "Follow and melee"
+        "title": "Seguir e usar corpo a corpo"
     },
     "FinishWithMeleeWeapon": {
-        "title": "Finish with melee"
+        "title": "Finalizar com arma corpo a corpo"
     },
     "FinishOffNoWeapon": {
-        "title": "Finish off"
+        "title": "Finalizar"
     },
     "FollowAndShoot": {
-        "title": "Follow and shoot"
+        "title": "Seguir e atirar"
     },
     "Shoot": {
-        "title": "Shoot"
+        "title": "Atirar"
     },
     "MeleeBuilding": {
-        "title": "Melee building"
+        "title": "Atacar estrutura"
     },
     "Melee": {
-        "title": "Melee"
+        "title": "Corpo a corpo"
     },
     "SecureAsPrisoner": {
-        "title": "Restrain"
+        "title": "Conter"
     },
     "Slaughter": {
-        "title": "Slaughter"
+        "title": "Abater"
     }
 }
+

@@ -1,9 +1,10 @@
 {
 	"PlaceDeckPlatingStep1": {
-		"title": "Building Deck Plating",
-        "description": "Now we can increase the floor space by placing down some [color=KHAKI]Deck Plating[/color]. Select the highlighted [color=PURPLE]Deck Plating[/color] button from the Structures tab in the [color=PURPLE]Building[/color] menu."
+		"title": "Construindo Placa de Convés",
+        "description": "Agora podemos aumentar o espaço do piso colocando algumas [color=KHAKI]Placas de Convés[/color]. Selecione o botão destacado de [color=PURPLE]Placa de Convés[/color] na aba Estruturas no menu [color=PURPLE]Construção[/color]."
 	},
 	"PlaceDeckPlatingStep2": {
-		"description": "Place this over the white highlighted area and wait for your crew to finish building them.\n\nRemember, this can only ever be placed on top of [color=KHAKI]Ship Structure[/color] and also needs to be surrounded by additional [color=KHAKI]Ship Structure[/color]."
+		"description": "Coloque isto sobre a área destacada em branco e espere que sua tripulação termine de construí-las.\n\nLembre-se, isto só pode ser colocado sobre a [color=KHAKI]Estrutura da Nave[/color] e também precisa estar cercado por [color=KHAKI]Estrutura da Nave[/color] adicional."
 	}
 }
+

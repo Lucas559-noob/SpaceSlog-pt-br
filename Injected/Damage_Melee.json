@@ -1,53 +1,54 @@
 {
 	"Punch": {
-		"title": "Punch"
+		"title": "Soco"
 	},
 	"Bite": {
-		"title": "Bite"
+		"title": "Mordida"
 	},
 	"Peck": {
-		"title": "Peck"
+		"title": "Bicada"
 	},
 	"Scratch": {
-		"title": "Scratch"
+		"title": "Arranhão"
 	},
 	"Poke": {
-		"title": "Poke"
+		"title": "Cutucada"
 	},
 	"Headbutt": {
-		"title": "Headbutt"
+		"title": "Cabeçada"
 	},
 	"Gouge": {
-		"title": "Gouge"
+		"title": "Rasgo"
 	},
 	"Stomp": {
-		"title": "Stomp"
+		"title": "Pisada"
 	},
 	"Kick": {
-		"title": "Kick"
+		"title": "Chute"
 	},
 	"Whip": {
-		"title": "Whip"
+		"title": "Chicote"
 	},
 	"Stab": {
-		"title": "Stab"
+		"title": "Esfaqueada"
 	},
 	"Slash": {
-		"title": "Slash"
+		"title": "Corte"
 	},
 	"Hack": {
-		"title": "Hack"
+		"title": "Corte bruto"
 	},
 	"Heave": {
-		"title": "Heave"
+		"title": "Arremesso"
 	},
 	"PommelBash": {
-		"title": "Pommel bash"
+		"title": "Golpe com punho"
 	},
 	"Swing": {
-		"title": "Swing"
+		"title": "Balanço"
 	},
 	"ShieldBash": {
-		"title": "Shield bash"
+		"title": "Golpe com escudo"
 	}
 }
+

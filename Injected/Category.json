@@ -1,38 +1,39 @@
 {
     "Wood": {
-        "title": "Wood",
-        "description": "An organic, renewable material mostly gathered from trees."
+        "title": "Madeira",
+        "description": "Um material orgânico e renovável obtido principalmente de árvores."
     },
     "Metal": {
         "title": "Metal",
-        "description": "Extracted from naturally occurring rocks."
+        "description": "Extraído de rochas naturais."
     },
     "Mineral": {
-        "title": "Minerals",
-        "description": "A naturally occurring inorganic material gathered from earth and rock."
+        "title": "Minerais",
+        "description": "Um material inorgânico natural obtido da terra e rocha."
     },
     "Fabric": {
-        "title": "Fabric",
-        "description": "Made from natural fibres like animal skin or man-made synthetic materials."
+        "title": "Tecido",
+        "description": "Feito de fibras naturais como pele animal ou materiais sintéticos."
     },
     "Liquid": {
-        "title": "Liquid",
-        "description": "A type of fluid."
+        "title": "Líquido",
+        "description": "Um tipo de fluido."
     },
     "Solid": {
-        "title": "Solid",
-        "description": "A type of solid matter."
+        "title": "Sólido",
+        "description": "Um tipo de matéria sólida."
     },
     "Medical": {
-        "title": "Medical",
-        "description": "Materials or items used for medicinal purposes."
+        "title": "Médico",
+        "description": "Materiais ou itens usados para fins medicinais."
     },
     "Botanical": {
-        "title": "Botanical",
-        "description": "Materials derived from plants."
+        "title": "Botânico",
+        "description": "Materiais derivados de plantas."
     },
     "Ammunition": {
-        "title": "Ammunition",
-        "description": "Projectiles mostly used for turrets."
+        "title": "Munição",
+        "description": "Projéteis usados principalmente para torretas."
     }
 }
+

@@ -1,98 +1,99 @@
 {
 	"Engineer" : {
-		"title" : "Engineer",
-		"description" : "{pawn_name} didn't particularly want to be an engineer, though an opportunity was presented to earn a good living so the opportunity was taken."
+		"title" : "Engenheiro",
+		"description" : "{pawn_name} não queria particularmente ser um engenheiro, embora uma oportunidade tenha sido apresentada para ganhar a vida, então a oportunidade foi aproveitada."
 	},
 	"Doctor" : {
-		"title" : "Doctor",
-		"description" : "{pawn_name} spent several years at medical school then served on a colony ship for a while. Now they are drifting offering {pawn_possessive} services to those in need."
+		"title" : "Médico",
+		"description" : "{pawn_name} passou vários anos na faculdade de medicina e depois serviu em uma nave colônia por um tempo. Agora está à deriva oferecendo seus serviços para quem precisa."
 	},
 	"Marine" : {
-		"title" : "Marine",
-		"description" : "{pawn_name} knew from a young age {pawn_pronoun} wanted to serve in the military. Getting to see parts of the universe others didn't was probably one of the biggest draws."
+		"title" : "Fuzileiro",
+		"description" : "{pawn_name} sabia desde jovem que queria servir no exército. Ver partes do universo que outros não viam provavelmente foi uma das maiores atrações."
 	},
 	"Labourer" : {
-		"title" : "Labourer",
-		"description" : "Growing up on a poor rim planet is tough and education is scarce. {pawn_name} was one of the lucky ones and managed to find a career as a labourer. It's not a glamorous life but at least it is a life."
+		"title" : "Trabalhador",
+		"description" : "Crescer em um planeta pobre da borda é difícil e educação é escassa. {pawn_name} foi um dos sortudos que conseguiu encontrar uma carreira como trabalhador. Não é uma vida glamorosa, mas pelo menos é uma vida."
 	},
 	"Pilot" : {
-		"title" : "Pilot",
-		"description" : "Joining pilot school is all {pawn_name} wanted to do. Who knew {pawn_pronoun} might actually be pretty good at it."
+		"title" : "Piloto",
+		"description" : "Entrar na escola de pilotagem era tudo o que {pawn_name} queria fazer. Quem diria que {pawn_pronoun} poderia ser realmente bom nisso."
 	},
 	"Miner" : {
-		"title" : "Miner",
-		"description" : "Deep space mining is extremely dangerous and {pawn_name} has had {pawn_possessive} fair share of danger in the past."
+		"title" : "Minerador",
+		"description" : "Mineração no espaço profundo é extremamente perigosa e {pawn_name} teve sua parcela justa de perigo no passado."
 	},
 	"AnimalHandler" : {
-		"title" : "Animal handler",
-		"description" : "{pawn_name} grew up on a colony ship which had an over abundance of animals. Whilst others would rather try and kill them as pests. {pawn_name} would rescue them and tend to them if they were ill or injured. Sometimes even teaching them skills or tricks."
+		"title" : "Tratador de Animais",
+		"description" : "{pawn_name} cresceu em uma nave colônia que tinha uma abundância de animais. Enquanto outros tentavam matá-los como pragas, {pawn_name} os resgatava e cuidava deles quando estavam doentes ou feridos. Às vezes até ensinava habilidades ou truques."
 	},
 	"Scientist" : {
-		"title" : "Scientist",
-		"description" : "Scientists are needed now more than ever. {pawn_name} leveraged this need and managed to turn it into a very profitable career."
+		"title" : "Cientista",
+		"description" : "Cientistas são necessários agora mais do que nunca. {pawn_name} aproveitou essa necessidade e conseguiu transformá-la em uma carreira muito lucrativa."
 	},
 	"Grower" : {
-		"title" : "Grower",
-		"description" : "Spending lots of time with plants and all things organic has been {pawn_name}'s passion since a very young age."
+		"title" : "Agricultor",
+		"description" : "Passar muito tempo com plantas e coisas orgânicas tem sido a paixão de {pawn_name} desde muito jovem."
 	},
 	"Retired" : {
-		"title" : "Retired",
-		"description" : "{pawn_name} has won the life lottery and managed to grow old, {pawn_pronoun} is now living a well deserved dose of retirement."
+		"title" : "Aposentado",
+		"description" : "{pawn_name} ganhou na loteria da vida e conseguiu envelhecer, agora está vivendo uma merecida aposentadoria."
 	},
 	"Student" : {
-		"title" : "Student",
-		"description" : "{pawn_name} is still studying in the hopes to try and better {pawn_reflexive}, though no one really knows what for, and probably neither does {pawn_pronoun}."
+		"title" : "Estudante",
+		"description" : "{pawn_name} ainda está estudando na esperança de melhorar a si mesmo, embora ninguém realmente saiba para quê, e provavelmente nem {pawn_pronoun} sabe."
 	},
 	"Professor" : {
 		"title" : "Professor",
-		"description" : "Spending lots of time in education and excelling {pawn_reflexive} has earned {pawn_name} the title of Professor."
+		"description" : "Passando muito tempo na educação e se destacando, {pawn_name} conquistou o título de Professor."
 	},
 	"Merchant" : {
-		"title" : "Merchant",
-		"description" : "{pawn_name} has grown up from a long line of traders and decided to continue in the footsteps of {pawn_possessive} forefathers."
+		"title" : "Comerciante",
+		"description" : "{pawn_name} cresceu de uma longa linhagem de comerciantes e decidiu continuar nos passos de seus antepassados."
 	},
 	"Pirate" : {
-		"title" : "Pirate",
-		"description" : "{pawn_name} lives the life of a Pirate, salvaging anything {pawn_pronoun} can, earning whatever, wherever {pawn_pronoun} can."
+		"title" : "Pirata",
+		"description" : "{pawn_name} vive a vida de um Pirata, salvando qualquer coisa que possa, ganhando dinheiro onde puder."
 	},
 	"Slave" : {
-		"title" : "Slave",
-		"description" : "{pawn_name} has lived a life of poverty, being sold to the highest bidder and being asked to do all manner of things. There is no telling what {pawn_pronoun} has had to endure."
+		"title" : "Escravo",
+		"description" : "{pawn_name} viveu uma vida de pobreza, sendo vendido ao melhor comprador e sendo pedido para fazer todos os tipos de coisas. Não se sabe o que {pawn_pronoun} teve que suportar."
 	},
 	"Slaver" : {
-		"title" : "Slaver",
-		"description" : "{pawn_name} usually travels the slog in search of poor folk to enslave and sell, or just those unlucky enough to be in the wrong place at the wrong time."
+		"title" : "Escravista",
+		"description" : "{pawn_name} geralmente viaja pelo slog em busca de pessoas pobres para escravizar e vender, ou apenas aquelas infelizes o bastante para estar no lugar errado na hora errada."
 	},
 	"BountyHunter" : {
-		"title" : "Bounty Hunter",
-		"description" : "{pawn_name} lives the life of an assassin and will hunt anything or anyone for the right price. It's not a job for everyone but it pays pretty well."
+		"title" : "Caçador de Recompensas",
+		"description" : "{pawn_name} vive a vida de um assassino e caçará qualquer coisa ou qualquer um pelo preço certo. Não é um trabalho para todos, mas paga bem."
 	},
 	"OffworldDetective" : {
-		"title" : "Offworld Detective",
-		"description" : "As an orphan {pawn_name} was raised on colony ships. Trying to survive as a youngster meant getting into a lot of trouble. It is this that made {pawn_reflexive_short} decide 'being the boot was better than receiving the boot'."
+		"title" : "Detetive Interplanetário",
+		"description" : "Como órfão, {pawn_name} foi criado em naves colônia. Tentar sobreviver jovem significava se meter em muitas encrencas. Foi isso que o fez decidir que 'ser o polícia era melhor que levar bronca'."
 	},
 	"PlanetDrifter" : {
-		"title" : "Planet Drifter",
-		"description" : "A Planet Drifter is less of a job and more of a way of life. {pawn_name} drifts from planet to planet picking up whatever work {pawn_pronoun} can. Sometimes {pawn_pronoun} will board a ship not even knowing where it's journey ends."
+		"title" : "Vagabundo Planetário",
+		"description" : "Ser um Vagabundo Planetário é menos um trabalho e mais uma forma de vida. {pawn_name} vagueia de planeta em planeta pegando qualquer trabalho que puder. Às vezes embarca em uma nave sem nem saber onde termina sua jornada."
 	},
 	"Spacefarer" : {
-		"title" : "Spacefarer",
-		"description" : "{pawn_name} travels around the slog. Although this is more of a hobby than a job, {pawn_name} would probably make you believe different."
+		"title" : "Viajante Espacial",
+		"description" : "{pawn_name} viaja pelo slog. Embora isso seja mais um hobby que um trabalho, {pawn_name} provavelmente te faria acreditar diferente."
 	},
 	"Planetologist" : {
-		"title" : "Planetologist",
-		"description" : "{pawn_name} studies the ecosystems of planets. As a child {pawn_pronoun} would dream about all the different weird and wonderful rocks out there. Now {pawn_pronoun} gets to see them all first hand."
+		"title" : "Planetologista",
+		"description" : "{pawn_name} estuda os ecossistemas dos planetas. Criança, {pawn_pronoun} sonhava com todas as pedras estranhas e maravilhosas por aí. Agora {pawn_pronoun} pode vê-las em primeira mão."
 	},
 	"Consor" : {
 		"title" : "Consor",
-		"description" : "Being a Consor {pawn_name} has been trained from a young age in the art of partnership, that is the entertaining or looking after of others, intimately or psychologically. Most Consors also have some basic self defence training."
+		"description" : "Sendo um Consor, {pawn_name} foi treinado desde jovem na arte do relacionamento, que é o entretenimento ou cuidado com os outros, intimamente ou psicologicamente. A maioria dos Consors também tem algum treinamento básico de autodefesa."
 	},
 	"Prisoner" : {
-		"title" : "Prisoner",
-		"description" : "Locked up for a crime {pawn_pronoun} claims {pawn_pronoun} didn't commit, though that's what they all say."
+		"title" : "Prisioneiro",
+		"description" : "Trancado por um crime que afirma não ter cometido, embora seja isso que todos digam."
 	},
 	"Chef" : {
 		"title" : "Chef",
-		"description" : "{pawn_name} has always had a passion to cook and experiment combining different flavours together, always striving to make that one perfect dish."
+		"description" : "{pawn_name} sempre teve paixão por cozinhar e experimentar combinar diferentes sabores, sempre buscando fazer o prato perfeito."
 	}
 }
+

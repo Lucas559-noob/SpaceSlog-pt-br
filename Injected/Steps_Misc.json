@@ -1,10 +1,11 @@
 {
 	"TutorialWelcomeStep1": {
-		"title": "Welcome to the tutorial",
-        "description": "Welcome to your first day in the Slog!\n\nThis tutorial will give you some basic training on how to operate your crew and start building your ship.\n\nYou can move this tutorial menu at any time by [color=LIGHT_GREEN]clicking and dragging[/color] inside the [color=PURPLE]top bar[/color] using the {select}."
+		"title": "Bem-vindo ao tutorial",
+        "description": "Bem-vindo ao seu primeiro dia no Slog!\n\nEste tutorial lhe dará algum treinamento básico sobre como operar sua tripulação e começar a construir sua nave.\n\nVocê pode mover este menu de tutorial a qualquer momento [color=LIGHT_GREEN]clicando e arrastando[/color] dentro da [color=PURPLE]barra superior[/color] usando {select}."
 	},
 	"FinishStep1": {
-		"title": "Tutorial complete",
-        "description": "You have completed the tutorial!\n\nThere is still a lot to learn but don't get discouraged, it may take several attempts before you master all the mechanics.\n\nIf you need additional help, you can always refer to the [color=PURPLE]Operations Handbook[/color] by clicking the highlighted [color=PURPLE]Information[/color] button and navigating to the [color=PURPLE]Operations Handbook[/color] tab.\n\n[i]Also note, this tutorial will continue to expand and be refined over time[/i]."
+		"title": "Tutorial completo",
+        "description": "Você completou o tutorial!\n\nAinda há muito a aprender, mas não desanime; pode levar várias tentativas antes de dominar todas as mecânicas.\n\nSe precisar de ajuda adicional, você sempre pode consultar o [color=PURPLE]Manual de Operações[/color] clicando no botão [color=PURPLE]Informações[/color] destacado e navegando até a guia [color=PURPLE]Manual de Operações[/color].\n\n[i]Observe também que este tutorial continuará a ser expandido e refinado ao longo do tempo[/i]."
 	}
 }
+

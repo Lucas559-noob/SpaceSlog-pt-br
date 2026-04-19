@@ -1,18 +1,19 @@
 {
     "CactusTree": {
-        "title": "Cactus",
-        "description": "Cactus plant."
+        "title": "Cacto",
+        "description": "Planta cacto."
     },
     "BirchTree": {
-        "title": "Birch",
-        "description": "Birch plant."
+        "title": "Bétula",
+        "description": "Planta bétula."
     },
     "FernTree": {
-        "title": "Fern",
-        "description": "Fern plant."
+        "title": "Samambaia",
+        "description": "Planta samambaia."
     },
     "OakTree": {
-        "title": "Oak",
-        "description": "Oak plant."
+        "title": "Carvalho",
+        "description": "Planta carvalho."
     }
 }
+

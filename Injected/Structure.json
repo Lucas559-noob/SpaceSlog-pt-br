@@ -1,26 +1,27 @@
 {
 	"MetalHull": {
-		"title": "Ship structure",
-		"description": "A basic structural hull that is required to enable the placement of interior decking. Place this first, then add deck plating on top to create rooms."
+		"title": "Estrutura da nave",
+		"description": "Uma estrutura de casco básica que é necessária para permitir a colocação de piso interior. Coloque isso primeiro, depois adicione placas de piso por cima para criar salas."
 	},
 	"MetalFloor": {
-		"title": "Deck plating",
-		"description": "Interior deck plating used to create rooms inside your ship. Must be placed on top of a ships structure."
+		"title": "Placa de piso",
+		"description": "Placa de piso interior usada para criar salas dentro de sua nave. Deve ser colocada em cima da estrutura da nave."
 	},
 	"BlastDoor": {
-		"title": "Airlock door",
-		"description": "A powered automatic and air tight door that can be used unpowered, but will be slower to operate. It will not leak atmosphere to external space."
+		"title": "Porta de esclusa",
+		"description": "Uma porta automática e hermética elétrica que pode ser usada sem energia, mas será mais lenta para operar. Não vaza atmosfera para o espaço externo."
 	},
 	"ArmouredBlastDoor": {
-		"title": "Armoured airlock door",
-		"description": "A powered automatic and reinforced air tight door that can be used unpowered, but will be slower to operate. It will not leak atmosphere to external space."
+		"title": "Porta de esclusa blindada",
+		"description": "Uma porta automática e reforçada hermética elétrica que pode ser usada sem energia, mas será mais lenta para operar. Não vaza atmosfera para o espaço externo."
 	},
 	"MetalHullCorner": {
-		"title": "Armoured hull wall",
-		"description": "Armoured hull used on ship exteriors. Utilises a porous construction to save weight, therefore it does not hold atmosphere."
+		"title": "Parede de casco blindada",
+		"description": "Casco blindado usado em exteriores de naves. Utiliza uma construção porosa para economizar peso, portanto não mantém atmosfera."
 	},
 	"MetalHullAngle": {
-		"title": "Armoured hull wall",
-		"description": "Armoured hull used on ship exteriors. Utilises a porous construction to save weight, therefore it does not hold atmosphere."
+		"title": "Parede de casco blindada",
+		"description": "Casco blindado usado em exteriores de naves. Utiliza uma construção porosa para economizar peso, portanto não mantém atmosfera."
 	}
 }
+

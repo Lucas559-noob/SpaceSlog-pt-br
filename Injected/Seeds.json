@@ -1,22 +1,23 @@
 {
     "PotatoSeeds": {
-        "title": "Potato seeds",
-        "description": "Seeds used to grow potato's."
+        "title": "Sementes de batata",
+        "description": "Sementes usadas para cultivar batatas."
     },
     "CarrotSeeds": {
-        "title": "Carrot seeds",
-        "description": "Seeds used to grow carrots."
+        "title": "Sementes de cenoura",
+        "description": "Sementes usadas para cultivar cenouras."
     },
     "HerbSeeds": {
-        "title": "Herb seeds",
-        "description": "Seeds used to grow herbs."
+        "title": "Sementes de ervas",
+        "description": "Sementes usadas para cultivar ervas."
     },
     "RiceSeeds": {
-        "title": "Rice seeds",
-        "description": "Seeds used to grow rice."
+        "title": "Sementes de arroz",
+        "description": "Sementes usadas para cultivar arroz."
     },
     "WheatSeeds": {
-        "title": "Wheat seeds",
-        "description": "Seeds used to grow wheat."
+        "title": "Sementes de trigo",
+        "description": "Sementes usadas para cultivar trigo."
     }
 }
+

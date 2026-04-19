@@ -1,22 +1,23 @@
 {
     "Oxygen": {
-        "title": "Oxygen",
-        "description": "Most humanoid and many other life forms use Oxygen for breathing."
+        "title": "Oxigênio",
+        "description": "A maioria dos humanóides e muitas outras formas de vida usam oxigênio para respirar."
     },
     "Nitrogen": {
-        "title": "Nitrogen",
-        "description": "Nitrogen is a common element found out in the slog, and is present in most organic compounds."
+        "title": "Nitrogênio",
+        "description": "Nitrogênio é um elemento comum encontrado no slog, e está presente na maioria dos compostos orgânicos."
     },
     "CarbonDioxide": {
-        "title": "Carbon Dioxide",
-        "description": "Carbon Dioxide is a respiratory by-product of most humanoid and other life forms."
+        "title": "Dióxido de Carbono",
+        "description": "Dióxido de Carbono é um subproduto respiratório da maioria dos humanóides e outras formas de vida."
     },
     "Hazardous": {
-        "title": "Hazardous",
-        "description": "Hazardous gas is a collective term for any gas that is considered toxic or otherwise harmful to most life forms."
+        "title": "Perigoso",
+        "description": "Gás perigoso é um termo coletivo para qualquer gás que seja considerado tóxico ou de outra forma prejudicial à maioria das formas de vida."
     },
     "Explosive": {
-        "title": "Explosive",
-        "description": "Explosive gas is a collective term for any gas that is considered flammable or explosive."
+        "title": "Explosivo",
+        "description": "Gás explosivo é um termo coletivo para qualquer gás que seja considerado inflamável ou explosivo."
     }
 }
+

@@ -1,32 +1,33 @@
 {
     "RedDye": {
-		"title": "Red dye"
+		"title": "Corante vermelho"
 	},
 	"CharcoalDye": {
-		"title": "Charcoal dye"
+		"title": "Corante de carvão"
 	},
 	"GreenDye": {
-		"title": "Green dye"
+		"title": "Corante verde"
 	},
 	"BlueDye": {
-		"title": "Blue dye"
+		"title": "Corante azul"
 	},
 	"LightBlueDye": {
-		"title": "Light blue dye"
+		"title": "Corante azul claro"
 	},
 	"PurpleDye": {
-		"title": "Purple dye"
+		"title": "Corante roxo"
 	},
 	"TanDye": {
-		"title": "Tan dye"
+		"title": "Corante bronzeado"
 	},
 	"DarkTanDye": {
-		"title": "Dark tan dye"
+		"title": "Corante bronzeado escuro"
 	},
 	"OrangeDye": {
-		"title": "Orange dye"
+		"title": "Corante laranja"
 	},
 	"YellowDye": {
-		"title": "Yellow dye"
+		"title": "Corante amarelo"
 	}
 }
+

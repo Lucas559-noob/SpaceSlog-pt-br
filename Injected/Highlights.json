@@ -1,26 +1,27 @@
 {
     "Debug": {
-        "title": "Debug"
+        "title": "Depuração"
     },
     "Tile": {
-        "title": "Tile"
+        "title": "Ladrilho"
     },
     "Edge": {
-        "title": "Edge"
+        "title": "Borda"
     },
     "Range": {
-        "title": "Range"
+        "title": "Alcance"
     },
     "Room": {
-        "title": "Room"
+        "title": "Sala"
     },
     "Zone": {
-        "title": "Zone"
+        "title": "Zona"
     },
     "Chevron": {
-        "title": "Chevron"
+        "title": "Seta"
     },
     "Blueprint": {
-        "title": "Blueprint"
+        "title": "Planta"
     }
 }
+

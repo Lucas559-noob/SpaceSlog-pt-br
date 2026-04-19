@@ -1,29 +1,30 @@
 {
     "structure": {
-        "title": "Structure"
+        "title": "Estrutura"
     },
     "power": {
-        "title": "Power"
+        "title": "Energia"
     },
     "atmosphere": {
-        "title": "Atmosphere"
+        "title": "Atmosfera"
     },
     "production": {
-        "title": "Production"
+        "title": "Produção"
     },
     "furniture": {
-        "title": "Furniture"
+        "title": "Mobília"
     },
     "entertainment": {
-        "title": "Entertainment"
+        "title": "Entretenimento"
     },
     "cargo": {
-        "title": "Cargo"
+        "title": "Carga"
     },
     "security": {
-        "title": "Security"
+        "title": "Segurança"
     },
     "misc": {
-        "title": "Miscellaneous"
+        "title": "Diversos"
     }
 }
+

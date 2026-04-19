@@ -1,62 +1,63 @@
 {
 	"Torso": {
-		"title": "Torso"
+		"title": "Tronco"
 	},
     "Stomach": {
-		"title": "Stomach"
+		"title": "Estômago"
 	},
 	"Intestines": {
-		"title": "Intestines"
+		"title": "Intestinos"
 	},
 	"LeftEar": {
-		"title": "Left ear"
+		"title": "Orelha esquerda"
 	},
 	"RightEar": {
-		"title": "Right ear"
+		"title": "Orelha direita"
 	},
 	"Skull": {
-		"title": "Skull"
+		"title": "Crânio"
 	},
     "LeftLung": {
-		"title": "Left lung"
+		"title": "Pulmão esquerdo"
 	},
     "RightLung": {
-		"title": "Right lung"
+		"title": "Pulmão direito"
 	},
 	"Ribs": {
-		"title": "Ribs"
+		"title": "Costelas"
 	},
 	"Heart": {
-		"title": "Heart"
+		"title": "Coração"
 	},
 	"Liver": {
-		"title": "Liver"
+		"title": "Fígado"
 	},
 	"Teeth": {
-		"title": "Teeth"
+		"title": "Dentes"
 	},
 	"LeftKidney": {
-		"title": "Left kidney"
+		"title": "Rim esquerdo"
 	},
 	"RightKidney": {
-		"title": "Right kidney"
+		"title": "Rim direito"
 	},
     "Head": {
-		"title": "Head"
+		"title": "Cabeça"
 	},
 	"Brain": {
-		"title": "Brain"
+		"title": "Cérebro"
 	},
 	"LeftLeg": {
-		"title": "Left leg"
+		"title": "Perna esquerda"
 	},
 	"RightLeg": {
-		"title": "Right leg"
+		"title": "Perna direita"
 	},
 	"LeftEye": {
-		"title": "Left eye"
+		"title": "Olho esquerdo"
 	},
 	"RightEye": {
-		"title": "Right eye"
+		"title": "Olho direito"
 	}
 }
+

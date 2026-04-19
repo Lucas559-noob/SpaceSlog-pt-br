@@ -1,179 +1,180 @@
 {
     "Idle": {
-        "title": "Idle"
+        "title": "Ocioso"
     },
     "Pickup": {
-        "title": "Pickup"
+        "title": "Pegar"
     },
     "PickupEntityB": {
-        "title": "Pickup"
+        "title": "Pegar"
     },
     "DropIntoBed": {
-        "title": "Drop into bed"
+        "title": "Colocar na cama"
     },
     "Drop": {
-        "title": "Drop"
+        "title": "Soltar"
     },
     "DropAtTargetB": {
-        "title": "Drop"
+        "title": "Soltar"
     },
     "ForceDrop": {
-        "title": "Force drop"
+        "title": "Forçar a soltar"
     },
     "Heal": {
-        "title": "Heal"
+        "title": "Curar"
     },
     "MoveTo": {
-        "title": "Move"
+        "title": "Mover"
     },
     "MoveToPathB": {
-        "title": "Move"
+        "title": "Mover"
     },
     "Wait": {
-        "title": "Wait"
+        "title": "Esperar"
     },
     "EatFood": {
-        "title": "Eat food"
+        "title": "Comer"
     },
     "Drink": {
-        "title": "Drink"
+        "title": "Beber"
     },
     "FindPathToTarget": {
-        "title": "Find path to target"
+        "title": "Encontrar caminho para o alvo"
     },
     "FindPathToTargetB": {
-        "title": "Find path to target"
+        "title": "Encontrar caminho para o alvo"
     },
     "FindPathToTargetBFalse": {
-        "title": "Find path to target"
+        "title": "Encontrar caminho para o alvo"
     },
     "FindPathToTargetCell": {
-        "title": "Find path to target cell"
+        "title": "Encontrar caminho para célula alvo"
     },
     "FindPathToTargetCellTrue": {
-        "title": "Find path to target cell"
+        "title": "Encontrar caminho para célula alvo"
     },
     "FindBestStorageCell": {
-        "title": "Find best storage cell"
+        "title": "Encontrar melhor célula de armazenamento"
     },
     "GetClosestFuel": {
-        "title": "Find path to closest fuel"
+        "title": "Encontrar caminho para o combustível mais próximo"
     },
     "GetDeadPawnDropSpot": {
-        "title": "Find somewhere to dispose of dead pawn"
+        "title": "Encontrar local para descartar peão morto"
     },
     "Refuel": {
-        "title": "Refuelling"
+        "title": "Reabastecer"
     },
     "RefuelTargetB": {
-        "title": "Refuelling"
+        "title": "Reabastecer"
     },
     "Clean": {
-        "title": "Clean"
+        "title": "Limpar"
     },
     "Reserve": {
-        "title": "Reserve"
+        "title": "Reservar"
     },
     "ReserveEntityB": {
-        "title": "Reserve"
+        "title": "Reservar"
     },
     "ReserveCell": {
-        "title": "Reserve cell"
+        "title": "Reservar célula"
     },
     "Sleep": {
-        "title": "Sleep"
+        "title": "Dormir"
     },
     "RestUntilHealed": {
-        "title": "Rest until healed"
+        "title": "Descansar até curar"
     },
     "Equip": {
-        "title": "Equip"
+        "title": "Equipar"
     },
     "UnEquip": {
-        "title": "Removing"
+        "title": "Remover"
     },
     "Slip": {
-        "title": "Slip"
+        "title": "Escorregar"
     },
     "Trip": {
-        "title": "Trip"
+        "title": "Tropeçar"
     },
     "Sing": {
-        "title": "Sing"
+        "title": "Cantar"
     },
     "Wave": {
-        "title": "Wave"
+        "title": "Acenar"
     },
     "Chat": {
-        "title": "Chat"
+        "title": "Conversar"
     },
     "SowAtTargetB": {
-        "title": "Sow"
+        "title": "Semear"
     },
     "HarvestPlant": {
-        "title": "Harvest"
+        "title": "Colher"
     },
     "HarvestBrew": {
-        "title": "Harvest"
+        "title": "Colher"
     },
     "Water": {
-        "title": "Water"
+        "title": "Regar"
     },
     "ClosestMoveCellToPos": {
-        "title": "Forced move"
+        "title": "Movimento forçado"
     },
     "Strip": {
-        "title": "Strip"
+        "title": "Despir"
     },
     "Mine": {
-        "title": "Mine"
+        "title": "Minerar"
     },
     "Deconstruct": {
-        "title": "Deconstruct"
+        "title": "Desconstruir"
     },
     "Repair": {
-        "title": "Repair"
+        "title": "Reparar"
     },
     "Build": {
-        "title": "Build"
+        "title": "Construir"
     },
     "DestroyAsset": {
-        "title": "Destroy asset."
+        "title": "Destruir item."
     },
     "SitAtChair": {
-        "title": "Sit at chair."
+        "title": "Sentar na cadeira."
     },
     "PlayArcadeMachine": {
-        "title": "Play arcade machine."
+        "title": "Jogar na máquina de arcade."
     },
     "TendHeal": {
-        "title": "Heal"
+        "title": "Curar"
     },
     "TendFeed": {
-        "title": "Feed"
+        "title": "Alimentar"
     },
     "TendHydrate": {
-        "title": "Hydrate"
+        "title": "Hidratar"
     },
     "FindPlaceToIngest": {
-        "title": "Find place to ingest"
+        "title": "Encontrar local para ingerir"
     },
     "BackToShip": {
-        "title": "Find a way back to the ship"
+        "title": "Encontrar o caminho de volta para a nave"
     },
     "Butcher": {
-        "title": "Butcher"
+        "title": "Abater"
     },
     "StampFire": {
-        "title": "Stamp out fire"
+        "title": "Apagar fogo"
     },
     "MateWithPartner": {
-        "title": "Mate with partner"
+        "title": "Acasalar com parceiro"
     },
     "FollowAndMoveTo": {
-        "title": "Follow and move to"
+        "title": "Seguir e mover para"
     },
     "InsertGetMaterials": {
-        "title": "Gather materials"
+        "title": "Coletar materiais"
     }
 }
+

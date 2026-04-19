@@ -1,149 +1,150 @@
 {
     "Hungry": {
-        "title": "Is hungry"
+        "title": "Está com fome"
     },
     "Thirsty": {
-        "title": "Is thirsty"
+        "title": "Está com sede"
     },
     "Tired": {
-        "title": "Is tired"
+        "title": "Está cansado"
     },
     "HasFood": {
-        "title": "Has food available"
+        "title": "Tem comida disponível"
     },
     "HasDrink": {
-        "title": "Has drink available"
+        "title": "Tem bebida disponível"
     },
     "Fallback": {
-        "title": "Fallback"
+        "title": "Alternativa"
     },
     "HasPrefab": {
-        "title": "Something needs building"
+        "title": "Algo precisa ser construído"
     },
     "HasRepairable": {
-        "title": "Something needs repairing"
+        "title": "Algo precisa de reparo"
     },
     "HasDirt": {
-        "title": "Something needs cleaning"
+        "title": "Algo precisa ser limpo"
     },
     "HasFire": {
-        "title": "Fire needs extinguishing"
+        "title": "Fogo precisa ser apagado"
     },
     "ThingToHaul": {
-        "title": "Something needs hauling"
+        "title": "Algo precisa ser transportado"
     },
     "ThingToCombine": {
-        "title": "Something needs combining"
+        "title": "Algo precisa ser combinado"
     },
     "NeedsMatsPrefab": {
-        "title": "Has materials"
+        "title": "Tem materiais"
     },
     "NeedsMatsRecipe": {
-        "title": "Has materials"
+        "title": "Tem materiais"
     },
     "HasDeconstruction": {
-        "title": "Something needs deconstructing"
+        "title": "Algo precisa ser desconstruído"
     },
     "HasMineable": {
-        "title": "Something needs mining"
+        "title": "Algo precisa ser minerado"
     },
     "SomewhereToSleep": {
-        "title": "Has somewhere to sleep"
+        "title": "Tem onde dormir"
     },
     "SomewhereToRestAndHeal": {
-        "title": "Has somewhere to rest and heal"
+        "title": "Tem onde descansar e se curar"
     },
     "PawnNeedsRescue": {
-        "title": "A Pawn needs rescuing"
+        "title": "Um Peão precisa ser resgatado"
     },
     "IsGreedy": {
-        "title": "Is greedy"
+        "title": "É ganancioso"
     },
     "IsNotFearless": {
-        "title": "Is not fearless"
+        "title": "Não é destemido"
     },
     "SomewhereToRoam": {
-        "title": "Has somewhere to roam"
+        "title": "Tem onde vaguear"
     },
     "MyHealth": {
-        "title": "My health"
+        "title": "Minha saúde"
     },
     "TargetHealth": {
-        "title": "Targets health"
+        "title": "Saúde do alvo"
     },
     "ThingNeedsRefuelling": {
-        "title": "Something needs refuelling"
+        "title": "Algo precisa ser reabastecido"
     },
     "DeadPawn": {
-        "title": "A dead pawn needs moving"
+        "title": "Um peão morto precisa ser removido"
     },
     "EquipSpacesuit": {
-        "title": "Needs to equip a spacesuit"
+        "title": "Precisa equipar um traje espacial"
     },
     "HasFullPressuredSuit": {
-        "title": "Has full pressured suit"
+        "title": "Tem traje pressurizado completo"
     },
     "IsCaptain": {
-        "title": "Is captain"
+        "title": "É capitão"
     },
     "HasEntertainment": {
-        "title": "Has some entertainment to play."
+        "title": "Tem alguma forma de entretenimento para jogar."
     },
     "PawnNeedsHealing": {
-        "title": "A pawn needs healing"
+        "title": "Um peão precisa de cura"
     },
     "CrewNeedsFeeding": {
-        "title": "A crew member needs feeding"
+        "title": "Um membro da tripulação precisa ser alimentado"
     },
     "AnimalNeedsFeeding": {
-        "title": "An animal needs feeding"
+        "title": "Um animal precisa ser alimentado"
     },
     "CrewNeedsHydrating": {
-        "title": "A crew member needs hydrating"
+        "title": "Um membro da tripulação precisa ser hidratado"
     },
     "AnimalNeedsHydrating": {
-        "title": "An animal needs hydrating"
+        "title": "Um animal precisa ser hidratado"
     },
     "PrefabObstruction": {
-        "title": "An obstruction needs moving"
+        "title": "Uma obstrução precisa ser removida"
     },
     "Aggroed": {
-        "title": "Are we aggroed?"
+        "title": "Estamos agredidos?"
     },
     "IsNotPlayerEntity": {
-        "title": "Are we a player entity?"
+        "title": "Somos uma entidade do jogador?"
     },
     "HasAttackTarget": {
-        "title": "Do we have a target to attack?"
+        "title": "Temos um alvo para atacar?"
     },
     "IsHostileEnemyNearby": {
-        "title": "Is there an enemy close by?"
+        "title": "Há um inimigo por perto?"
     },
     "IsNotHostileEnemyNearby": {
-        "title": "Is there an enemy close by?"
+        "title": "Há um inimigo por perto?"
     },
     "SomethingToSow": {
-        "title": "Is there something to sow?"
+        "title": "Há algo para semear?"
     },
     "SomethingToHarvest": {
-        "title": "Is there something to harvest?"
+        "title": "Há algo para colher?"
     },
     "SomethingToHarvestRecipe": {
-        "title": "Is there a recipe finished to harvest?"
+        "title": "Há uma receita pronta para colher?"
     },
     "ThingToHunt": {
-        "title": "Does something need hunting?"
+        "title": "Algo precisa ser caçado?"
     },
     "HasRangedWeapon": {
-        "title": "Do we have a ranged weapon?"
+        "title": "Temos uma arma de longo alcance?"
     },
     "HasCaptainsChair": {
-        "title": "Do we have a captain's chair?"
+        "title": "Temos uma cadeira de capitão?"
     },
     "IsShipMoving": {
-        "title": "Is the ship moving?"
+        "title": "A nave está se movendo?"
     },
     "HasBreedingPartner": {
-        "title": "Has a breeding partner"
+        "title": "Tem parceiro para procriação"
     }
 }
+

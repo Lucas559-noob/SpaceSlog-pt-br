@@ -1,10 +1,11 @@
 {
 	"Worm": {
-    	"title": "Space worm",
-		"description": "A grotesque-looking worm that requires no atmosphere to breath. Not very tough on its own, but can be a problem in groups."
+    	"title": "Verme espacial",
+		"description": "Um verme de aparência grotesca que não requer atmosfera para respirar. Não é muito resistente sozinho, mas pode ser um problema em grupos."
 	},
 	"WormHeavy": {
     	"title": "Squamidon",
-		"description": "A grotesque-looking worm which has armoured scales protecting parts of its body. Although from the same family as the space worm, these creatures have evolved to be much tougher."
+		"description": "Um verme de aparência grotesca que possui escamas blindadas protegendo partes de seu corpo. Embora seja da mesma família do verme espacial, estas criaturas evoluíram para ser muito mais resistentes."
 	}
 }
+

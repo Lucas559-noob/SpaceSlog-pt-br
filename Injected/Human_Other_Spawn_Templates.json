@@ -1,8 +1,9 @@
 {
 	"HumanPlayer": {
-		"title": "Human player"
+		"title": "Jogador humano"
 	},
 	"HumanSlave": {
-		"title": "Human slave"
+		"title": "Escravo humano"
 	}
 }
+

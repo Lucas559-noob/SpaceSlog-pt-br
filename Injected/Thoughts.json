@@ -1,170 +1,171 @@
 {
     "Thirsty": {
-		"title": "Dehydrated",
-		"description": "I am so thirsty. I wish there was something to drink around here."
+		"title": "Desidratado",
+		"description": "Estou com tanta sede. Gostaria que houvesse algo para beber aqui por perto."
 	},
     "Starving": {
-		"title": "Starving",
-		"description": "I am starving. I wish there was something to eat around here."
+		"title": "Faminto",
+		"description": "Estou morrendo de fome. Gostaria que houvesse algo para comer aqui por perto."
 	},
 	"Exhausted": {
-		"title": "Exhausted",
-		"description": "So so tired, I can hardly keep my eyes open."
+		"title": "Exausto",
+		"description": "Tão cansado, mal consigo manter os olhos abertos."
 	},
 	"CrewMemberDied": {
-		"title": "Crew member died",
-		"description": "A member of the crew has died. Maybe it will be me next time."
+		"title": "Membro da tripulação morreu",
+		"description": "Um membro da tripulação morreu. Talvez eu seja o próximo."
 	},
 	"CaptainDied": {
-		"title": "Captain died",
-		"description": "The cap recently died. This is a huge loss for all of us."
+		"title": "Capitão morreu",
+		"description": "O capitão recentemente morreu. Esta é uma enorme perda para todos nós."
 	},
 	"SoldCrewMember": {
-		"title": "A crew member was sold",
-		"description": "We recently sold a crew member. Who knows what will happen to them now."
+		"title": "Um membro da tripulação foi vendido",
+		"description": "Recentemente vendemos um membro da tripulação. Quem sabe o que acontecerá com ele agora."
 	},
     "LowOxygen": {
-		"title": "Low Oxygen",
-		"description": "I am really struggling to breath."
+		"title": "Oxigênio Baixo",
+		"description": "Estou realmente lutando para respirar."
 	},
     "Optimistic":  {
-		"title": "Optimistic",
-		"description": "Things aren't great, but at least I'm alive. I'm sure things could be much worse."
+		"title": "Otimista",
+		"description": "As coisas não estão ótimas, mas pelo menos estou vivo. Tenho certeza de que poderia ser muito pior."
 	},
     "AteOnFloor":  {
-		"title": "Eaten on the floor",
-		"description": "It sucks having to eat on the floor. I wish I had a table to eat at."
+		"title": "Comi no chão",
+		"description": "É horrível ter que comer no chão. Gostaria de ter uma mesa para comer."
 	},
     "SleptOnFloor":  {
-		"title": "Slept on the floor",
-		"description": "I really wish I had a bed to sleep in. It sucks sleeping on the floor."
+		"title": "Dormi no chão",
+		"description": "Realmente gostaria de ter uma cama para dormir. É horrível dormir no chão."
 	},
 	"SleptInComfyBed":  {
-		"title": "Slept in comfy bed",
-		"description": "Wow, my bed is so comfy. I could stay in it all day."
+		"title": "Dormi em cama confortável",
+		"description": "Uau, minha cama é tão confortável. Poderia ficar nela o dia todo."
 	},
 	"UnsatisfiedWithRole":  {
-		"title": "Unsatisfied with given role",
-		"description": "I truly believe I deserve a higher-ranking role than the one I have been given."
+		"title": "Insatisfeito com o cargo dado",
+		"description": "Realmente acredito que mereço um cargo de maior hierarquia do que o que me foi dado."
 	},
 	"SatisfiedWithRole":  {
-		"title": "Satisfied with given role",
-		"description": "I am really happy with the role I have been given."
+		"title": "Satisfeito com o cargo dado",
+		"description": "Estou muito feliz com o cargo que me foi dado."
 	},
     "AteHumanMeatCannibal":  {
-		"title": "I ate some human meat",
-		"description": "That human meat I ate tasted so good!"
+		"title": "Comi carne humana",
+		"description": "Aquela carne humana que comi estava tão deliciosa!"
 	},
     "AteHumanMeat":  {
-		"title": "I ate some human meat",
-		"description": "I had to eat some human meat. I'm such a terrible person."
+		"title": "Comi carne humana",
+		"description": "Tive que comer carne humana. Sou uma pessoa terrível."
 	},
     "AteHumanMeatIngredientCannibal":  {
-		"title": "I ate some human meat",
-		"description": "That human meat I ate tasted so good!"
+		"title": "Comi carne humana",
+		"description": "Aquela carne humana que comi estava tão deliciosa!"
 	},
     "AteHumanMeatIngredient":  {
-		"title": "I ate some human meat",
-		"description": "I had to eat some human meat. I'm such a terrible person."
+		"title": "Comi carne humana",
+		"description": "Tive que comer carne humana. Sou uma pessoa terrível."
 	},
 	"Depressed":  {
-		"title": "Depressed",
-		"description": "My life sucks and I hate it!"
+		"title": "Depressivo",
+		"description": "Minha vida é horrível e eu odeio isso!"
 	},
 	"HappyThoughts":  {
-		"title": "Happy thoughts",
+		"title": "Pensamentos felizes",
 		"description": "Trala lalala. Weeeeeeee."
 	},
 	"HadFun":  {
-		"title": "Had fun",
-		"description": "Wow, that was so much fun!"
+		"title": "Me diverti",
+		"description": "Uau, isso foi tão divertido!"
 	},
     "DislikeDarkness":  {
-		"title": "Fear of darkness",
-		"description": "I hate being in the dark. It's terrifying."
+		"title": "Medo do escuro",
+		"description": "Odeio estar no escuro. É aterrorizante."
 	},
     "LikeDarkness":  {
-		"title": "Loves darkness",
-		"description": "I love spending time in the dark."
+		"title": "Ama o escuro",
+		"description": "Adoro passar tempo no escuro."
 	},
     "LowLight":  {
-		"title": "Low light",
-		"description": "This low light is uncomfortable."
+		"title": "Pouca luz",
+		"description": "Esta pouca luz está desconfortável."
 	},
 	"NoCaptain": {
-		"title": "No captain",
-		"description": "How can we expect a ship to run smoothly without a captain?"
+		"title": "Sem capitão",
+		"description": "Como podemos esperar que uma nave funcione bem sem um capitão?"
 	},
 	"HasCaptain": {
-		"title": "Has captain",
-		"description": "I'm sure this ship will run much better now we have a good captain."
+		"title": "Tem capitão",
+		"description": "Tenho certeza de que esta nave funcionará muito melhor agora que temos um bom capitão."
 	},
 	"LostCaptain": {
-		"title": "Lost captain",
-		"description": "How did we manage to lose our captain? This is a disaster."
+		"title": "Perdemos o capitão",
+		"description": "Como conseguimos perder nosso capitão? Isso é um desastre."
 	},
 	"HasNoCaptainsChair": {
-		"title": "No captain's chair",
-		"description": "I really need to get myself one of those captain's chairs."
+		"title": "Sem cadeira de capitão",
+		"description": "Realmente preciso conseguir uma daquelas cadeiras de capitão."
 	},
     "LowReserves":  {
-		"title": "Low reserves",
-		"description": "It's worrying that we have low food and water reserves on the ship."
+		"title": "Reservas baixas",
+		"description": "É preocupante que tenhamos reservas baixas de comida e água na nave."
 	},
     "Content":  {
-		"title": "Content",
-		"description": "I am well-hydrated and have food in my belly. Everything seems to be going ok, at least for now."
+		"title": "Contente",
+		"description": "Estou bem hidratado e tenho comida na barriga. Tudo parece estar indo bem, pelo menos por enquanto."
 	},
     "UncomfortableInSpaceSuit":  {
-		"title": "Uncomfortable space gear",
-		"description": "It would be nice to get out of this space gear for just a few hours."
+		"title": "Equipamento espacial desconfortável",
+		"description": "Seria bom tirar esse equipamento espacial por algumas horas."
 	},
     "SleptInCold":  {
-		"title": "Slept in cold",
-		"description": "I was freezing whilst sleeping."
+		"title": "Dormi no frio",
+		"description": "Estava congelando enquanto dormia."
 	},
     "SleptInHeat":  {
-		"title": "Slept in heat",
-		"description": "I was way too hot whilst sleeping."
+		"title": "Dormi no calor",
+		"description": "Estava muito quente enquanto dormia."
 	},
     "SleptInCosyBed":  {
-		"title": "Slept in cosy bed",
-		"description": "My bed was nice and cosy."
+		"title": "Dormi em cama aconchegante",
+		"description": "Minha cama estava agradável e aconchegante."
 	},
     "Rescued":  {
-		"title": "Rescued",
-		"description": "I was rescued! What a relief, I feel lucky to be alive."
+		"title": "Resgatado",
+		"description": "Fui resgatado! Que alívio, me sinto sortudo por estar vivo."
 	},
     "NoPrivacy":  {
-		"title": "Has no privacy",
-		"description": "I have no personal space assigned to me."
+		"title": "Não tem privacidade",
+		"description": "Não tenho espaço pessoal designado para mim."
 	},
 	"Unwell": {
-		"title": "Under the weather",
-		"description": "Ugh, I feel so unwell."
+		"title": "Indisposto",
+		"description": "Ugh, me sinto tão mal."
 	},
 	"NearDeath": {
-		"title": "Has a life threatening condition",
-		"description": "Am I going to die soon?"
+		"title": "Tem uma condição que ameaça a vida",
+		"description": "Vou morrer em breve?"
 	},
     "Cramped":  {
-		"title": "Cramped",
-		"description": "I can hardly move in this place."
+		"title": "Apertado",
+		"description": "Mal consigo me mover neste lugar."
 	},
     "Spacious":  {
-		"title": "Spacious",
-		"description": "There is plenty of room here for all of us."
+		"title": "Espaçoso",
+		"description": "Há muito espaço aqui para todos nós."
 	},
     "CleanShip":  {
-		"title": "Clean ship",
-		"description": "It feels good to be on such a clean ship."
+		"title": "Nave limpa",
+		"description": "É bom estar em uma nave tão limpa."
 	},
     "DirtyShip":  {
-		"title": "Dirty ship",
-		"description": "This ship is filthy and disgusting."
+		"title": "Nave suja",
+		"description": "Esta nave está suja e nojenta."
 	},
     "DeadBodyNearby":  {
-		"title": "Dead body nearby",
-		"description": "That dead body is making me feel uneasy."
+		"title": "Corpo morto por perto",
+		"description": "Aquele corpo morto está me deixando desconfortável."
 	}
 }
+

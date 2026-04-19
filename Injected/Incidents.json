@@ -1,55 +1,56 @@
 {
     "PassingShip": {
-        "title": "Passing ship",
-        "description": "Our scanners have detected a ship nearby. It should be within communication range shortly."
+        "title": "Nave passando",
+        "description": "Nossos scanners detectaram uma nave próxima. Deve estar dentro do alcance de comunicação em breve."
     },
     "PassingShipPhysical": {
-        "title": "Passing ship physical",
-        "description": "Our scanners have detected a ship nearby. It should be within communication range shortly."
+        "title": "Nave passando física",
+        "description": "Nossos scanners detectaram uma nave próxima. Deve estar dentro do alcance de comunicação em breve."
     },
     "Asteroids": {
-        "title": "Asteroid field",
-        "description": "We are passing over an asteroid field. We will need to drop from high burn to access them, though we must be careful of parasites and infections."
+        "title": "Campo de asteroides",
+        "description": "Estamos passando sobre um campo de asteroides. Precisaremos sair do modo de alta velocidade para acessá-los, embora devamos ter cuidado com parasitas e infecções."
     },
     "Debris": {
-        "title": "Debris",
-        "description": "We are detecting some kind of debris nearby, drop from high burn to scavenge the wreckage for supplies or look for survivors. We must be wary of pirates in the area."
+        "title": "Destroços",
+        "description": "Estamos detectando algum tipo de destroços próximo, saia do modo de alta velocidade para recolher os destroços em busca de suprimentos ou procurar sobreviventes. Devemos estar atentos aos piratas na área."
     },
     "CryoChamber": {
-        "title": "Cryo chamber",
-        "description": "There appears to be a Cryo Chamber floating close by. We could see if anyone's inside."
+        "title": "Câmara de criogenia",
+        "description": "Parece haver uma Câmara de Criogenia flutuando por perto. Poderíamos verificar se há alguém dentro."
     },
     "HostileCreatureAssault": {
-        "title": "Assault"
+        "title": "Ataque"
     },
     "PassingShipRescue": {
-        "title": "Passing ship rescue",
-        "description": "Our scanners have detected a ship nearby. It should be within communication range shortly."
+        "title": "Resgate de nave passando",
+        "description": "Nossos scanners detectaram uma nave próxima. Deve estar dentro do alcance de comunicação em breve."
     },
     "PassingPlanet": {
-        "title": "Passing planet",
-        "description": "A planet has been detected nearby."
+        "title": "Planeta passando",
+        "description": "Um planeta foi detectado nas proximidades."
     },
     "PassingStar": {
-        "title": "Passing star",
-        "description": "A star has been detected nearby."
+        "title": "Estrela passando",
+        "description": "Uma estrela foi detectada nas proximidades."
     },
     "Infestation": {
-        "title": "Infestation"
+        "title": "Infestação"
     },
     "MayDayPawn": {
-        "title": "Mayday",
-        "description": "You are now too far away to stop and rescue {pawn}."
+        "title": "Sinal de socorro",
+        "description": "Você está muito longe para parar e resgatar {pawn}."
     },
     "AbandonedFacility": {
-        "title": "Abandoned facility",
-        "description": "A facility has been detected in this sector. We should drop out of high burn to investigate."
+        "title": "Instalação abandonada",
+        "description": "Uma instalação foi detectada neste setor. Devemos sair do modo de alta velocidade para investigar."
     },
     "HostileSwarm": {
-        "title": "Hostile swarm",
-        "description": "The hostile swarm of {pawn}s have now entered this sector."
+        "title": "Enxame hostil",
+        "description": "O enxame hostil de {pawn}s entrou neste setor."
     },
     "TransportShipAssault": {
-        "title": "Assault"
+        "title": "Ataque"
     }
 }
+

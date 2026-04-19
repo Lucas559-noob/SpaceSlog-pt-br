@@ -1,18 +1,19 @@
 {
     "WorkSpeedModifier": {
-        "title": "Work speed modifier",
-        "description": "Adjusts the speed at which this creature can do work related tasks."
+        "title": "Modificador de velocidade de trabalho",
+        "description": "Ajusta a velocidade com que esta criatura pode realizar tarefas relacionadas ao trabalho."
     },
     "LearningModifier": {
-        "title": "Learning modifier",
-        "description": "Adjusts the amount of experience gained."
+        "title": "Modificador de aprendizado",
+        "description": "Ajusta a quantidade de experiência ganha."
     },
     "PainThresholdModifier": {
-        "title": "Pain threshold modifier",
-        "description": "Adjusts the point at which a character will pass out from pain."
+        "title": "Modificador de limite de dor",
+        "description": "Ajusta o ponto em que um personagem desmaiará de dor."
     },
     "BribePriceModifier": {
-        "title": "Bribe price modifier",
-        "description": "Adjusts how many coins are required to bribe someone."
+        "title": "Modificador de preço de suborno",
+        "description": "Ajusta quantas moedas são necessárias para subornar alguém."
     }
 }
+

@@ -1,14 +1,15 @@
 {
     "Custom": {
-        "title": "Custom",
-        "description": "A custom created role."
+        "title": "Personalizado",
+        "description": "Um cargo criado personalizado."
     },
     "Captain": {
-        "title": "Captain",
-        "description": "Selecting a good captain will help to ensure your crew are happy, well disciplined and less likely to mutiny."
+        "title": "Capitão",
+        "description": "Selecionar um bom capitão ajudará a garantir que sua tripulação esteja feliz, bem disciplinada e menos propensa a se amotinar."
     },
     "Quartermaster": {
-        "title": "Quartermaster",
-        "description": "A Quartermaster is more likely to initiate trade or diplomacy."
+        "title": "Contramestre",
+        "description": "Um Contramestre tem mais probabilidade de iniciar comércio ou diplomacia."
     }
 }
+

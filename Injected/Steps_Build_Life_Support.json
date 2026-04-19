@@ -1,12 +1,13 @@
 {
 	"BuildLifeSupportStep1": {
-		"title": "Build life support",
-        "description": "Running out of oxygen can be extremely dangerous for the crew, so we should probably set up some life support.\n\nSelect the highlighted [color=PURPLE]Atmosphere[/color] button in the [color=PURPLE]Building[/color] menu."
+		"title": "Construir suporte de vida",
+        "description": "Ficar sem oxigênio pode ser extremamente perigoso para a tripulação, então provavelmente deveríamos configurar algum suporte de vida.\n\nSelecione o botão destacado de [color=PURPLE]Atmosfera[/color] no menu [color=PURPLE]Construção[/color]."
 	},
 	"BuildLifeSupportStep2": {
-        "description": "Now select the highlighted [color=PURPLE]Life Support[/color] button."
+        "description": "Agora selecione o botão destacado de [color=PURPLE]Suporte de Vida[/color]."
 	},
 	"BuildLifeSupportStep3": {
-        "description": "Remember to check the information below to see what fuel this uses. In this case it uses [color=KHAKI]Ice[/color], which we can get from [color=KHAKI]Asteroids[/color].\n\nPlace the [color=KHAKI]Life Support[/color] within your ship on any available floor space."
+        "description": "Lembre-se de verificar as informações abaixo para ver qual combustível isto usa. Neste caso, usa [color=KHAKI]Gelo[/color], que podemos obter de [color=KHAKI]Asteroides[/color].\n\nColoque o [color=KHAKI]Suporte de Vida[/color] dentro de sua nave em qualquer espaço de piso disponível."
 	}
 }
+

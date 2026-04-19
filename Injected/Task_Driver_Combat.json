@@ -1,46 +1,47 @@
 {
     "FollowAndMelee": {
-        "title": "Follow and melee",
-        "description": "Attacking {object_a}."
+        "title": "Seguir e usar corpo a corpo",
+        "description": "Atacando {object_a}."
     },
     "FollowAndShoot": {
-        "title": "Follow and shoot",
-        "description": "Attacking {object_a}."
+        "title": "Seguir e atirar",
+        "description": "Atacando {object_a}."
     },
     "Hunt": {
-        "title": "Hunt",
-        "description": "Hunting {object_a}."
+        "title": "Caçar",
+        "description": "Caçando {object_a}."
     },
     "Flee": {
-        "title": "Flee",
-        "description": "Fleeing."
+        "title": "Fugir",
+        "description": "Fugindo."
     },
     "MeleeBuilding": {
-        "title": "Melee building",
-        "description": "Attacking {object_a}."
+        "title": "Atacar estrutura",
+        "description": "Atacando {object_a}."
     },
     "ForceShoot": {
-        "title": "Force Shoot",
-        "description": "Shooting at {object_a}."
+        "title": "Forçar disparo",
+        "description": "Atirando em {object_a}."
     },
     "StampFire": {
-        "title": "Stamp Fire",
-        "description": "Stamping out {object_a}."
+        "title": "Apagar fogo",
+        "description": "Apagando {object_a}."
     },
     "Restrain": {
-        "title": "Restrain",
-        "description": "Restraining {object_a}."
+        "title": "Conter",
+        "description": "Contendo {object_a}."
     },
     "Slaughter": {
-        "title": "Slaughter.",
-        "description": "Slaughtering {object_a}."
+        "title": "Abater.",
+        "description": "Abatendo {object_a}."
     },
     "FinishOffNoWeapon": {
-        "title": "Finish off.",
-        "description": "Finishing off {object_a}."
+        "title": "Finalizar.",
+        "description": "Finalizando {object_a}."
     },
     "FinishWithMeleeWeapon": {
-        "title": "Finish with melee",
-        "description": "Attacking {object_a}."
+        "title": "Finalizar com corpo a corpo",
+        "description": "Atacando {object_a}."
     }
 }
+

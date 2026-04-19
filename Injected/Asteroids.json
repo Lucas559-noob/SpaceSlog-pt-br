@@ -1,46 +1,47 @@
 {
     "SmallRockAsteroid": {
-        "title": "Rock asteroid",
-        "description": "Contains rock."
+        "title": "Asteróide de pedra",
+        "description": "Contém pedra."
     },
     "LargeRockAsteroid": {
-        "title": "Rock asteroid",
-        "description": "Contains rock."
+        "title": "Asteróide de pedra",
+        "description": "Contém pedra."
     },
     "SmallIceAsteroid": {
-        "title": "Ice asteroid",
-        "description": "Contains ice."
+        "title": "Asteróide de gelo",
+        "description": "Contém gelo."
     },
     "LargeIceAsteroid": {
-        "title": "Ice asteroid",
-        "description": "Contains ice."
+        "title": "Asteróide de gelo",
+        "description": "Contém gelo."
     },
     "SmallSiliconAsteroid": {
-        "title": "Silicon asteroid",
-        "description": "Contains silicon."
+        "title": "Asteróide de silício",
+        "description": "Contém silício."
     },
     "LargeSiliconAsteroid": {
-        "title": "Silicon asteroid",
-        "description": "Contains silicon."
+        "title": "Asteróide de silício",
+        "description": "Contém silício."
     },
     "SmallTitaniumAsteroid": {
-        "title": "Titanium asteroid",
-        "description": "Contains titanium."
+        "title": "Asteróide de titânio",
+        "description": "Contém titânio."
     },
     "LargeTitaniumAsteroid": {
-        "title": "Titanium asteroid",
-        "description": "Contains titanium."
+        "title": "Asteróide de titânio",
+        "description": "Contém titânio."
     },
     "SmallGoldAsteroid": {
-        "title": "Gold asteroid",
-        "description": "Contains gold."
+        "title": "Asteróide de ouro",
+        "description": "Contém ouro."
     },
     "LargeGoldAsteroid": {
-        "title": "Gold asteroid",
-        "description": "Contains gold."
+        "title": "Asteróide de ouro",
+        "description": "Contém ouro."
     },
     "LargeDiamondAsteroid": {
-        "title": "Diamond asteroid",
-        "description": "Contains a rare form of diamond."
+        "title": "Asteróide de diamante",
+        "description": "Contém uma forma rara de diamante."
     }
 }
+

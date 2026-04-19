@@ -1,34 +1,35 @@
 {
     "Dirt": {
-        "title": "Dirt",
-        "description": "General grime and dirt."
+        "title": "Sujeira",
+        "description": "Sujeira e poeira geral."
     },
     "Slime": {
-        "title": "Slime",
-        "description": "Gross and slimy."
+        "title": "Limo",
+        "description": "Nojento e viscoso."
     },
     "Puke": {
-        "title": "Puke",
-        "description": "Chunky bodily fluids."
+        "title": "Vômito",
+        "description": "Fluidos corporais grossos."
     },
     "BodilyFluids": {
-        "title": "Bodily fluids",
-        "description": "Clear and slimy bodily fluids."
+        "title": "Fluidos corporais",
+        "description": "Fluidos corporais claros e viscosos."
     },
     "Ash": {
-        "title": "Ash",
-        "description": "Fine powdery residue left after burning."
+        "title": "Cinzas",
+        "description": "Resíduo pulverulento fino deixado após a queima."
     },
     "Rubble": {
-        "title": "Rubble",
-        "description": "Debris from demolished or damaged structures."
+        "title": "Escombros",
+        "description": "Destroços de estruturas demolidas ou danificadas."
     },
     "RottenFlesh": {
-        "title": "Rotten flesh",
-        "description": "Decaying organic matter."
+        "title": "Carne podre",
+        "description": "Matéria orgânica em decomposição."
     },
     "Blood": {
-        "title": "Blood",
-        "description": "Bodily fluids."
+        "title": "Sangue",
+        "description": "Fluidos corporais."
     }
 }
+

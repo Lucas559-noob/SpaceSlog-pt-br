@@ -1,18 +1,19 @@
 {
 	"Human": {
-		"title": "Bone",
-        "description": "Made of connective tissue and specialised bone cells."
+		"title": "Osso",
+        "description": "Feito de tecido conjuntivo e células ósseas especializadas."
 	},
     "Serpent": {
-		"title": "Bone",
-		"description": "Thin but flexible."
+		"title": "Osso",
+		"description": "Fino mas flexível."
 	},
     "Rodent": {
-		"title": "Bone",
-		"description": "Thin and brittle."
+		"title": "Osso",
+		"description": "Fino e frágil."
 	},
     "Bird": {
-		"title": "Bone",
-		"description": "Thin and brittle."
+		"title": "Osso",
+		"description": "Fino e frágil."
 	}
 }
+

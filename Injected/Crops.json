@@ -1,26 +1,27 @@
 {
     "WheatPlant": {
-        "title": "Wheat grass",
-        "description": "A plant that produces wheat once cultivated."
+        "title": "Grama de trigo",
+        "description": "Uma planta que produz trigo quando cultivada."
     },
     "RicePlant": {
-        "title": "Rice grass",
-        "description": "A plant that produces rice once cultivated."
+        "title": "Grama de arroz",
+        "description": "Uma planta que produz arroz quando cultivada."
     },
     "PotatoPlant": {
-        "title": "Potato plant",
-        "description": "A plant that produces potato's once cultivated."
+        "title": "Planta de batata",
+        "description": "Uma planta que produz batatas quando cultivada."
     },
     "CarrotPlant": {
-        "title": "Carrot plant",
-        "description": "A plant that produces carrots once cultivated."
+        "title": "Planta de cenoura",
+        "description": "Uma planta que produz cenouras quando cultivada."
     },
     "HerbPlant": {
-        "title": "Herb plant",
-        "description": "A plant that produces herbs once cultivated."
+        "title": "Planta de ervas",
+        "description": "Uma planta que produz ervas quando cultivada."
     },
     "HopsPlant": {
-        "title": "Hops plant",
-        "description": "A plant that produces hops once cultivated."
+        "title": "Planta de lúpulo",
+        "description": "Uma planta que produz lúpulo quando cultivada."
     }
 }
+

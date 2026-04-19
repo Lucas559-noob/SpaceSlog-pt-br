@@ -1,56 +1,57 @@
 {
     "Sealed": {
-        "title": "Sealed"
+        "title": "Selado"
     },
     "Leaking": {
-        "title": "Leaking"
+        "title": "Vazando"
     },
     "Breached": {
-        "title": "Breached"
+        "title": "Rompendo"
     },
     "Connected": {
-        "title": "Connected"
+        "title": "Conectado"
     },
     "Disconnected": {
-        "title": "Disconnected"
+        "title": "Desconectado"
     },
     "VeryHot": {
-        "title": "Very Hot"
+        "title": "Muito Quente"
     },
     "Hot": {
-        "title": "Hot"
+        "title": "Quente"
     },
     "Room": {
-        "title": "Room"
+        "title": "Sala"
     },
     "Cold": {
-        "title": "Cold"
+        "title": "Frio"
     },
     "SubZero": {
-        "title": "Sub-Zero"
+        "title": "Abaixo de Zero"
     },
     "ExtremeCold": {
-        "title": "Extreme Cold"
+        "title": "Frio Extremo"
     },
     "Safe": {
-        "title": "Safe"
+        "title": "Seguro"
     },
     "Harmful": {
-        "title": "Harmful"
+        "title": "Prejudicial"
     },
     "Lethal": {
-        "title": "Lethal"
+        "title": "Letal"
     },
     "High": {
-        "title": "High"
+        "title": "Alto"
     },
     "Medium": {
-        "title": "Medium"
+        "title": "Médio"
     },
     "Low": {
-        "title": "Low"
+        "title": "Baixo"
     },
     "None": {
-        "title": "None"
+        "title": "Nenhum"
     }
 }
+

@@ -1,102 +1,103 @@
 {
     "SleepingSpot": {
-        "title": "Sleeping spot",
-        "description": "A simple and uncomfortable rescue or sleeping spot for one humanoid."
+        "title": "Local para dormir",
+        "description": "Um local de resgate ou dormir simples e desconfortável para um humanoide."
     },
     "SleepingBag": {
-        "title": "Sleeping bag",
-        "description": "A warm but relatively uncomfortable place for one humanoid to sleep."
+        "title": "Saco de dormir",
+        "description": "Um lugar quente mas relativamente desconfortável para um humanoide dormir."
     },
     "SingleBed": {
-        "title": "Single bed",
-        "description": "A warm and comfortable place for one humanoid to sleep."
+        "title": "Cama de solteiro",
+        "description": "Um lugar quente e confortável para um humanoide dormir."
     },
     "DoubleBed": {
-        "title": "Double bed",
-        "description": "A warm comfortable place for two humanoids to sleep, side by side."
+        "title": "Cama de casal",
+        "description": "Um lugar quente e confortável para dois humanóides dormirem, lado a lado."
     },
     "SmallAnimalBed": {
-        "title": "Animal bed",
-        "description": "A comfortable place for a small animal to sleep."
+        "title": "Cama de animal",
+        "description": "Um lugar confortável para um pequeno animal dormir."
     },
     "HospitalBed": {
-        "title": "Single hospital bed",
-        "description": "A warm and comfortable place for one humanoid to rest and recover from any injuries/illnesses."
+        "title": "Cama hospitalar simples",
+        "description": "Um lugar quente e confortável para um humanoide descansar e se recuperar de ferimentos/doenças."
     },
     "CryoPod": {
-        "title": "Cryo pod",
-        "description": "Cryonically freezes creatures, preventing ageing for as long as this equipment has power."
+        "title": "Cápsula de criogenia",
+        "description": "Congela criaturas criogenicamente, impedindo o envelhecimento enquanto este equipamento tiver energia."
     },
     "SmallTable": {
-        "title": "Small table",
-        "description": "A small and relatively comfortable table to eat at. A vast improvement from eating off the floor."
+        "title": "Mesa pequena",
+        "description": "Uma mesa pequena e relativamente confortável para comer. Uma grande melhoria em relação a comer no chão."
     },
     "MediumTable": {
-        "title": "Medium table",
-        "description": "A relatively comfortable table to eat at. A vast improvement from eating off the floor."
+        "title": "Mesa média",
+        "description": "Uma mesa relativamente confortável para comer. Uma grande melhoria em relação a comer no chão."
     },
     "LargeTable": {
-        "title": "Large table",
-        "description": "A large and relatively comfortable table to eat at. A vast improvement from eating off the floor."
+        "title": "Mesa grande",
+        "description": "Uma mesa grande e relativamente confortável para comer. Uma grande melhoria em relação a comer no chão."
     },
     "BedSideTable": {
-        "title": "Bedside table",
-        "description": "A small bedside table. Can be placed in crew quarters to improve room quality."
+        "title": "Mesa de cabeceira",
+        "description": "Uma pequena mesa de cabeceira. Pode ser colocada nos quartos da tripulação para melhorar a qualidade do quarto."
     },
     "Dresser": {
-        "title": "Dresser",
-        "description": "A dresser which can be placed in crew quarters to improve room quality."
+        "title": "Cômoda",
+        "description": "Uma cômoda que pode ser colocada nos quartos da tripulação para melhorar a qualidade do quarto."
     },
     "Chair": {
-        "title": "Chair",
-        "description": "A relatively comfortable place to sit."
+        "title": "Cadeira",
+        "description": "Um lugar relativamente confortável para sentar."
     },
     "Stool": {
-        "title": "Stool",
-        "description": "Marginally better than sitting on the floor."
+        "title": "Banquinho",
+        "description": "Marginalmente melhor que sentar no chão."
     },
     "CaptainsChair": {
-        "title": "Captain's chair",
-        "description": "A chair suitable for a Ship's Captain."
+        "title": "Cadeira do capitão",
+        "description": "Uma cadeira adequada para o Capitão da Nave."
     },
     "CommandChair": {
-        "title": "Command chair",
-        "description": "A chair commonly used in a ship's bridge."
+        "title": "Cadeira de comando",
+        "description": "Uma cadeira comumente usada na ponte de uma nave."
     },
     "FloorLight": {
-        "title": "Floor light",
-        "description": "A standard light built in to the floor."
+        "title": "Luz de chão",
+        "description": "Uma luz padrão embutida no chão."
     },
     "StandingLight": {
-        "title": "Standing light",
-        "description": "A standard light that stands on the floor."
+        "title": "Luz em pé",
+        "description": "Uma luz padrão que fica em pé no chão."
     },
     "AlarmFloorLight": {
-        "title": "Alarm floor light",
-        "description": "A red flashing light that is built in to the floor."
+        "title": "Luz de alarme de chão",
+        "description": "Uma luz vermelha piscando embutida no chão."
     },
-	"ConcreteFloor": {
-		"title": "Concrete floor",
-		"description": "An extremely heavy flooring used in large crafts. Must be placed on top of structural flooring."
-	},
-	"CarpetFloor": {
-		"title": "Carpet",
-		"description": "A very comfortable luxury carpet. Must be placed on top of structural flooring."
-	},
-	"WoodFloor": {
-		"title": "Wooden flooring",
-		"description": "A comfortable type of flooring made from wood. Must be placed on top of structural flooring."
-	},
-	"Door": {
-		"title": "Door",
-		"description": "A basic manual door. It will leak atmosphere when in direct contact with external space."
-	},
-	"AutoDoor": {
-		"title": "Automatic Door",
-		"description": "A powered automatic door that can be used unpowered, but will be slower to operate. It will leak atmosphere when in direct contact with external space."
-	},
-	"ArmouredDoor": {
-		"title": "Armoured door",
-		"description": "A powered automatic and reinforced door that can be used unpowered, but will be slower to operate. It will leak atmosphere when in direct contact with external space."
-	}
+    "ConcreteFloor": {
+		"title": "Piso de concreto",
+		"description": "Um piso extremamente pesado usado em naves grandes. Deve ser colocado em cima de piso estrutural."
+    },
+    "CarpetFloor": {
+		"title": "Carpete",
+		"description": "Um carpete de luxo muito confortável. Deve ser colocado em cima de piso estrutural."
+    },
+    "WoodFloor": {
+		"title": "Piso de madeira",
+		"description": "Um tipo de piso confortável feito de madeira. Deve ser colocado em cima de piso estrutural."
+    },
+    "Door": {
+		"title": "Porta",
+		"description": "Uma porta manual básica. Vazará atmosfera quando em contato direto com o espaço externo."
+    },
+    "AutoDoor": {
+		"title": "Porta Automática",
+		"description": "Uma porta automática elétrica que pode ser usada sem energia, mas será mais lenta para operar. Vazará atmosfera quando em contato direto com o espaço externo."
+    },
+    "ArmouredDoor": {
+        "title": "Porta blindada",
+        "description": "Uma porta automática e reforçada elétrica que pode ser usada sem energia, mas será mais lenta para operar. Vazará atmosfera quando em contato direto com o espaço externo."
 }
+}
+

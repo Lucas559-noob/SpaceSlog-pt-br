@@ -1,9 +1,10 @@
 {
 	"BuildVentStep1": {
-		"title": "Build an air ventilator",
-        "description": "Now that your ship has functioning life support, it will need an [color=KHAKI]Air Ventilator[/color] to discharge its gases in to any rooms it is connected to.\n\nSelect the highlighted [color=PURPLE]Air Ventilator[/color] button from the [color=PURPLE]Atmosphere[/color] menu."
+		"title": "Construir um ventilador de ar",
+        "description": "Agora que sua nave tem um suporte de vida funcionando, ela precisará de um [color=KHAKI]Ventilador de Ar[/color] para descarregar seus gases em qualquer sala a que esteja conectado.\n\nSelecione o botão destacado de [color=PURPLE]Ventilador de Ar[/color] no menu [color=PURPLE]Atmosfera[/color]."
 	},
 	"BuildVentStep2": {
-        "description": "Now place this inside your ship on any available [color=KHAKI]Deck Plating[/color].\n\nThis will need to be connected to your [color=KHAKI]Life Support[/color] via [color=KHAKI]Atmospheric Ducting[/color], however if you place them right next to each other, they will automatically connect."
+        "description": "Agora coloque-o dentro de sua nave em qualquer [color=KHAKI]Placa de Convés[/color] disponível.\n\nIsso precisará ser conectado ao seu [color=KHAKI]Suporte de Vida[/color] através de [color=KHAKI]Dutos Atmosféricos[/color], no entanto, se você colocá-los bem próximos um do outro, eles se conectarão automaticamente."
 	}
 }
+

@@ -1,14 +1,15 @@
 {
     "Basic": {
-        "title": "Basic Reasoner"
+        "title": "Raciocinador Básico"
     },
     "Passive": {
-        "title": "Basic Reasoner"
+        "title": "Raciocinador Passivo"
     },
     "Human": {
-        "title": "Human Reasoner"
+        "title": "Raciocinador Humano"
     },
     "HumanMentalBreak": {
-        "title": "Human Mental Break Reasoner"
+        "title": "Raciocinador de Colapso Mental Humano"
     }
 }
+

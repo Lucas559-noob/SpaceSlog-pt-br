@@ -1,14 +1,15 @@
 {
     "Main": {
-        "title": "Info"
+        "title": "Informações"
     },
     "Health": {
-        "title": "Health"
+        "title": "Saúde"
     },
     "Materials": {
-        "title": "Materials"
+        "title": "Materiais"
     },
     "Consumable": {
-        "title": "Consumable"
+        "title": "Consumível"
     }
 }
+

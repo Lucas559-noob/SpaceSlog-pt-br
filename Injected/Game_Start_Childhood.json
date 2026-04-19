@@ -1,10 +1,11 @@
 {
     "Resourceful": {
-        "title": "Resourcefulness",
-		"description": "As a child, your captain was resourceful and extremely frugal. Having poor parents meant {pawn_pronoun} never had a lot when growing up, so had no choice but to learn to make do. Waste would never go to waste and {pawn_pronoun} would always find a use for things others would throw away."
+        "title": "Engenhosidade",
+		"description": "Como criança, seu capitão era engenhoso e extremamente econômico. Ter pais pobres significava {pawn_pronoun} nunca teve muito ao crescer, então não teve escolha a não ser aprender a se virar. O desperdício nunca era desperdiçado e {pawn_pronoun} sempre encontraria um uso para coisas que outros jogariam fora."
 	},
 	"Wasteful": {
-		"title": "Wastefulness",
-		"description": "As a child, your captain was wasteful and careless with whatever {pawn_pronoun} managed to get a hold of. Often squandering what little {pawn_pronoun} had, learning very few lessons about frugality or planning ahead. You cant take it with you, so may as well spend it while you can."
+		"title": "Desperdício",
+		"description": "Como criança, seu capitão era desperdiçador e descuidado com o que quer que {pawn_pronoun} conseguisse obter. Frequentemente esbanjando o pouco que {pawn_pronoun} tinha, aprendendo poucas lições sobre economia ou planejamento. Você não leva nada consigo, então é melhor gastar enquanto pode."
 	}
 }
+

@@ -1,62 +1,63 @@
 {
 	"FireControl": {
-		"title": "Fire control",
-		"description": "Will attempt to fight any fires."
+		"title": "Controle de incêndio",
+		"description": "Tentará combater qualquer incêndio."
 	},
 	"Patient": {
-		"title": "Patient",
-		"description": "Will use beds when injured or sick to heal themselves back to full health."
+		"title": "Paciente",
+		"description": "Usará camas quando estiver ferido ou doente para se curar completamente."
 	},
 	"Medical": {
-		"title": "Medical",
-		"description": "Rescues, looks after and heals the sick or wounded."
+		"title": "Médico",
+		"description": "Resgata, cuida e cura os doentes ou feridos."
 	},
 	"Cook": {
-		"title": "Cook",
-		"description": "Performs all cooking and brewing activities."
+		"title": "Cozinheiro",
+		"description": "Realiza todas as atividades de cozinha e preparação de bebidas."
 	},
 	"Botany": {
-		"title": "Botany",
-		"description": "Tends to any plants including planting seeds and harvesting crops."
+		"title": "Botânica",
+		"description": "Cuida das plantas, incluindo plantar sementes e colher culturas."
 	},
 	"Engineering": {
-		"title": "Engineering",
-		"description": "Performs any maintenance and constructs or deconstructs anything required."
+		"title": "Engenharia",
+		"description": "Realiza qualquer manutenção e constrói ou desconstrói qualquer coisa necessária."
 	},
 	"Janitor": {
-		"title": "Janitor",
-		"description": "Cleans flooring and performs many basic tasks."
+		"title": "Zelador",
+		"description": "Limpa pisos e realiza muitas tarefas básicas."
 	},
 	"Security": {
-		"title": "Security",
-		"description": "Looks after and manages prisoners."
+		"title": "Segurança",
+		"description": "Cuida e gerencia prisioneiros."
 	},
 	"Science": {
-		"title": "Science",
-		"description": "Performs research, development and other scientific activities."
+		"title": "Ciência",
+		"description": "Realiza pesquisa, desenvolvimento e outras atividades científicas."
 	},
 	"AnimalHandler": {
-		"title": "Animal handler",
-		"description": "Trains and performs the daily care of all animals."
+		"title": "Tratador de Animais",
+		"description": "Treina e realiza o cuidado diário de todos os animais."
 	},
 	"Tailor": {
-		"title": "Tailor",
-		"description": "Creates apparel."
+		"title": "Alfaiate",
+		"description": "Cria roupas."
 	},
 	"Machining": {
-		"title": "Machining",
-		"description": "Creates various equipment and ship parts."
+		"title": "Maquinaria",
+		"description": "Cria vários equipamentos e peças para nave."
 	},
 	"Labourer": {
-		"title": "Labourer",
-		"description": "Hauls the dead, equipment and resources where required. Refills designated machinery."
+		"title": "Trabalhador",
+		"description": "Transporta mortos, equipamentos e recursos onde necessário. Reabastece máquinas designadas."
 	},
 	"Mining": {
-		"title": "Mining",
-		"description": "Completes mining tasks."
+		"title": "Mineração",
+		"description": "Completa tarefas de mineração."
 	},
 	"Hunting": {
-		"title": "Hunting",
-		"description": "Will hunt any creatures marked as game."
+		"title": "Caça",
+		"description": "Irá caçar quaisquer criaturas marcadas como presa."
 	}
 }
+

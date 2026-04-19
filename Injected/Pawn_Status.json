@@ -1,35 +1,36 @@
 {
     "Incapacitated": {
-        "title": "This character is unable to move, potentially due to an injury."
+        "title": "Este personagem é incapaz de se mover, possivelmente devido a um ferimento."
     },
     "Death": {
-        "title": "This character has died."
+        "title": "Este personagem faleceu."
     },
     "Collapsed": {
-        "title": "This character has collapsed due to loss of consciousness."
+        "title": "Este personagem colapsou devido à perda de consciência."
     },
     "Idle": {
-        "title": "This character has nothing to do."
+        "title": "Este personagem não tem nada para fazer."
     },
     "Injured": {
-        "title": "This character has a wound or injury."
+        "title": "Este personagem tem um ferimento ou lesão."
     },
     "Ill": {
-        "title": "This character has an illness."
+        "title": "Este personagem tem uma doença."
     },
     "Bleeding": {
-        "title": "This character is bleeding from one or more wounds."
+        "title": "Este personagem está sangrando de um ou mais ferimentos."
     },
     "BleedingWound": {
-        "title": "This wound is bleeding. It may eventually stop on its own, but successfully tending to it now will stop it straight away."
+        "title": "Este ferimento está sangrando. Pode eventualmente parar por conta própria, mas tratá-lo com sucesso agora o interromperá imediatamente."
     },
     "Away": {
-        "title": "This character is away from the ship."
+        "title": "Este personagem está longe da nave."
     },
     "MentalBreak": {
-        "title": "This character is currently experiencing a mental break."
+        "title": "Este personagem está passando por um colapso mental."
     },
     "Tended": {
-        "title": "Some or all of these injuries have been treated and are healing."
+        "title": "Alguns ou todos estes ferimentos foram tratados e estão cicatrizando."
     }
 }
+

@@ -1,15 +1,16 @@
 {
 	"PlaceTempStockpileStep1": {
-		"title": "Stockpile",
-        "description": "Let's get the crew working!\nA [color=KHAKI]Temporary Stockpile[/color] placed outside of your ship will allow your crew to store materials to work with.\n\nBegin by clicking the highlighted [color=PURPLE]Zones[/color] button."
+		"title": "Estoque",
+        "description": "Vamos fazer a tripulação trabalhar!\nUm [color=KHAKI]Estoque Temporário[/color] colocado fora de sua nave permitirá que sua tripulação armazene materiais para trabalhar.\n\nComece clicando no botão [color=PURPLE]Zonas[/color] destacado."
 	},
 	"PlaceTempStockpileStep2": {
-        "description": "Place a [color=KHAKI]Temporary Stockpile[/color] by first selecting the [color=PURPLE]Temporary Stockpile[/color] button.\n\nNext, [color=LIGHT_GREEN]click and drag[/color] on any empty space outside, to the left or right of your ship using the {select}. [color=LIGHT_GREEN]Letting go of the button[/color] will place the [color=KHAKI]Temporary Stockpile[/color].\n\nEnsure your [color=KHAKI]Temporary Stockpile[/color] covers at least 20 cells."
+        "description": "Coloque um [color=KHAKI]Estoque Temporário[/color] primeiro selecionando o botão [color=PURPLE]Estoque Temporário[/color].\n\nEm seguida, [color=LIGHT_GREEN]clique e arraste[/color] em qualquer espaço vazio do lado de fora, à esquerda ou à direita de sua nave, usando {select}. [color=LIGHT_GREEN]Soltar o botão[/color] colocará o [color=KHAKI]Estoque Temporário[/color].\n\nCertifique-se de que seu [color=KHAKI]Estoque Temporário[/color] cubra pelo menos 20 células."
 	},
 	"PlaceTempStockpileStep3": {
-		"description": "Use {action} whilst not over a menu, or {ui_cancel}, to exit from placing a [color=KHAKI]Temporary Stockpile[/color].\nThis also works on most menus and designations/placements."
+		"description": "Use {action} enquanto não estiver sobre um menu, ou {ui_cancel}, para sair do modo de colocação de um [color=KHAKI]Estoque Temporário[/color].\nIsso também funciona na maioria dos menus e designações/colocações."
 	},
 	"PlaceTempStockpileStep4": {
-		"description": "Eventually you will need to build a [color=KHAKI]Stockpile[/color] inside of your ship, as once you leave this sector, all items in a [color=KHAKI]Temporary Stockpile[/color] will be left behind.\n\nYou can also limit what items can be stored in a [color=KHAKI]Stockpile[/color] by forbidding them within the selected stockpiles menu.\n\nYou can now unpause the game by either pressing the [color=PURPLE]play[/color] button in the top right or pressing {speed_paused}. Your crew will then move the resources from inside your ship and into the new [color=KHAKI]Stockpile[/color]."
+		"description": "Eventualmente, você precisará construir um [color=KHAKI]Estoque[/color] dentro de sua nave, pois assim que você deixar este setor, todos os itens em um [color=KHAKI]Estoque Temporário[/color] serão deixados para trás.\n\nVocê também pode limitar quais itens podem ser armazenados em um [color=KHAKI]Estoque[/color], proibindo-os dentro do menu do estoque selecionado.\n\nVocê agora pode tirar o jogo da pausa pressionando o botão [color=PURPLE]Reproduzir[/color] no canto superior direito ou pressionando {speed_paused}. Sua tripulação então moverá os recursos de dentro de sua nave para o novo [color=KHAKI]Estoque[/color]."
 	}
 }
+

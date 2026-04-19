@@ -1,17 +1,18 @@
 {
 	"SpaceWorm": {
-		"title": "Space worm"
+		"title": "Verme espacial"
 	},
 	"WormHeavy": {
 		"title": "Squamidon"
 	},
 	"Rat": {
-		"title": "Rat"
+		"title": "Rato"
 	},
 	"Hen": {
-		"title": "Hen"
+		"title": "Galinha"
 	},
 	"Rooster": {
-		"title": "Rooster"
+		"title": "Galo"
 	}
 }
+

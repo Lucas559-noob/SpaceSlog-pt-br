@@ -1,26 +1,27 @@
 {
     "DeconstructFlooringOverlay": {
-        "title": "Deconstruct flooring overlay",
-        "description": "Assign flooring overlays such as carpets to be deconstructed."
+        "title": "Desconstruir sobreposição de piso",
+        "description": "Designar sobreposições de piso como carpetes para serem desconstruídas."
     },
     "DeconstructCables": {
-        "title": "Deconstruct cables",
-        "description": "Assign any cables to be deconstructed."
+        "title": "Desconstruir cabos",
+        "description": "Designar quaisquer cabos para serem desconstruídos."
     },
     "DeconstructDucting": {
-        "title": "Deconstruct ducting",
-        "description": "Assign any ducting to be deconstructed."
+        "title": "Desconstruir dutos",
+        "description": "Designar quaisquer dutos para serem desconstruídos."
     },
     "CancelFlooringOverlay": {
-        "title": "Cancel flooring overlay",
-        "description": "Cancel any designated flooring overlay work such as carpets."
+        "title": "Cancelar sobreposição de piso",
+        "description": "Cancelar qualquer trabalho de sobreposição de piso designado, como carpetes."
     },
     "CancelCables": {
-        "title": "Cancel cables",
-        "description": "Cancel any designated cables."
+        "title": "Cancelar cabos",
+        "description": "Cancelar quaisquer cabos designados."
     },
     "CancelDucting": {
-        "title": "Cancel ducting",
-        "description": "Cancel any designated ducting."
+        "title": "Cancelar dutos",
+        "description": "Cancelar quaisquer dutos designados."
     }
 }
+

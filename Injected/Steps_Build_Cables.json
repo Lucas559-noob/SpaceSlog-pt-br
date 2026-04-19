@@ -1,9 +1,10 @@
 {
 	"CablesStep1": {
-		"title": "Laying cables",
-        "description": "Go back to the [color=PURPLE]Power[/color] menu within the [color=PURPLE]Building[/color] menu."
+		"title": "Passando cabos",
+        "description": "Volte ao menu [color=PURPLE]Energia[/color] dentro do menu [color=PURPLE]Construção[/color]."
 	},
 	"CablesStep2": {
-        "description": "Select the highlighted [color=PURPLE]Power Cable[/color] button and place this between any [color=RED]red[/color] connecting [color=KHAKI]Power Cables[/color]. You can press [color=PURPLE]Continue[/color] once satisfied."
+        "description": "Selecione o botão destacado de [color=PURPLE]Cabo de Energia[/color] e coloque-o entre quaisquer [color=RED]cabos de energia[/color] [color=KHAKI]vermelhos[/color] que estejam se conectando. Você pode pressionar [color=PURPLE]Continuar[/color] quando estiver satisfeito."
 	}
 }
+

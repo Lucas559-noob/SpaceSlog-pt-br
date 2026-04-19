@@ -1,63 +1,64 @@
 {
     "PowerReceiverSwitch": {
-        "title": "Toggle power."
+        "title": "Alternar energia."
     },
     "PowerSourceSwitch": {
-        "title": "Toggle power."
+        "title": "Alternar energia."
     },
     "AutoRefuel": {
-        "title": "Toggle automatic refuelling."
+        "title": "Alternar reabastecimento automático."
     },
     "Cancel": {
-        "title": "Cancel blueprint.",
-        "description": "Cancels and removes the current blueprint."
+        "title": "Cancelar projeto.",
+        "description": "Cancela e remove o projeto atual."
     },
     "Deconstruct": {
-        "title": "Toggle deconstruct."
+        "title": "Alternar desconstrução."
     },
     "Command": {
-        "title": "Toggle command."
+        "title": "Alternar comando."
     },
     "DeleteZone": {
-        "title": "Remove zone.",
-        "description": "Removes this zone."
+        "title": "Remover zona.",
+        "description": "Remove esta zona."
     },
     "ExpandZone": {
-        "title": "Expand zone.",
-        "description": "Expand the size of this zone."
+        "title": "Expandir zona.",
+        "description": "Expande o tamanho desta zona."
     },
     "ReduceZone": {
-        "title": "Reduce zone.",
-        "description": "Reduce the size of this zone."
+        "title": "Reduzir zona.",
+        "description": "Reduz o tamanho desta zona."
     },  
     "ChangeColour": {
-        "title": "Change colour.",
-        "description": "Change the colour of this zone."
+        "title": "Alterar cor.",
+        "description": "Altera a cor desta zona."
     },
     "ZoneVisibility": {
-        "title": "Zone visibility."
+        "title": "Visibilidade da zona."
     },
     "Forbid": {
-        "title": "Toggle interaction."
+        "title": "Alternar interação."
     },
     "ForcedMine": {
-        "title": "Toggle mining."
+        "title": "Alternar mineração."
     },
     "ForcedHarvest": {
-        "title": "Force harvest."
+        "title": "Forçar colheita."
     },
     "ForceShoot": {
-        "title": "Forced shoot.",
-        "description": "Force shoot target."
+        "title": "Disparo forçado.",
+        "description": "Forçar alvo de disparo."
     },
     "ForceMelee": {
-        "title": "Forced melee.",
-        "description": "Force melee target."
+        "title": "Corpo a corpo forçado.",
+        "description": "Forçar alvo de corpo a corpo."
     },
     "OperateVent": {
-        "title": "Toggle active."
+        "title": "Alternar ativo."
     },
     "Hunt": {
-        "title": "Toggle hunting."
+        "title": "Alternar caça."
     }
 }
+

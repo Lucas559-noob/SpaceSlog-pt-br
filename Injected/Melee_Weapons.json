@@ -1,34 +1,35 @@
 {
 	"Gladius": {
 		"title": "Gladius",
-		"description": "A short sword primarily used for stabbing in close combat. The design is old, yet still effective."
+		"description": "Uma espada curta usada principalmente para esfaquear em combate corpo a corpo. O design é antigo, mas ainda eficaz."
 	},
 	"Sword": {
-		"title": "Sword",
-		"description": "A regular sword used for slashing in close combat. The weight and keen edge make it an excellent choice for severing limbs and slicing your enemies."
+		"title": "Espada",
+		"description": "Uma espada comum usada para cortar em combate corpo a corpo. O peso e o fio afiado a tornam uma excelente escolha para separar membros e fatiar seus inimigos."
 	},
 	"Knife": {
-		"title": "Knife",
-		"description": "A small knife used for personal protection. Still capable of causing a reasonable amount of damage, even for its size."
+		"title": "Faca",
+		"description": "Uma pequena faca usada para proteção pessoal. Ainda é capaz de causar uma quantidade razoável de dano, mesmo pelo seu tamanho."
 	},
 	"Bat": {
-		"title": "Bat",
-		"description": "A bat originally designed for sports, but makes an excellent weapon. Just the right size and weight for swinging which can cause heavy bruising and broken bones."
+		"title": "Taco",
+		"description": "Um taco originalmente projetado para esportes, mas faz uma excelente arma. Do tamanho e peso certos para balançar, o que pode causar grandes contusões e ossos quebrados."
 	},
     "RoundShield": {
-		"title": "Round shield",
-		"description": "A sturdy round shield used to block attacks, but can also be used to bash in to enemies."
+		"title": "Escudo redondo",
+		"description": "Um escudo redondo resistente usado para bloquear ataques, mas também pode ser usado para bater nos inimigos."
 	},
 	"Hatchet": {
-		"title": "Hatchet",
-		"description": "A simple small and light one handed axe. Ideal for quickly hacking at enemies."
+		"title": "Machadinha",
+		"description": "Um machado pequeno, simples e leve de uma mão. Ideal para cortar rapidamente os inimigos."
 	},
 	"Spear": {
-		"title": "Spear",
-		"description": "A long, well balanced two handed pole weapon. Used by thrusting the pointy end into your opponents."
+		"title": "Lança",
+		"description": "Uma longa arma de haste equilibrada de duas mãos. Usada empurrando a ponta afiada contra seus oponentes."
 	},
 	"BattleAxe": {
-		"title": "Battle Axe",
-		"description": "A large and heavy two handed axe, which requires a firm grip to wield. Slow to swing but capable of dealing heavy cutting damage."
+		"title": "Machado de Batalha",
+		"description": "Um machado grande e pesado de duas mãos, que requer um golpe firme para empunhar. Lento para balançar, mas capaz de causar grandes danos cortantes."
 	}
 }
+

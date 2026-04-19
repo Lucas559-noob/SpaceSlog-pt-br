@@ -1,78 +1,79 @@
 {
     "RawMeat": {
-        "title": "Raw meat",
-        "description": "Meat that is raw. Tastes better when cooked."
+        "title": "Carne crua",
+        "description": "Carne que está crua. Tem melhor sabor quando cozida."
     },
     "CookedMeat": {
-        "title": "Cooked meat",
-        "description": "Meat that is cooked. Makes a good meal."
+        "title": "Carne cozida",
+        "description": "Carne que está cozida. Faz uma boa refeição."
     },
     "Berries": {
-        "title": "Berries",
-        "description": "Wild berries, probably very poisonous."
+        "title": "Bagas",
+        "description": "Bagas selvagens, provavelmente muito venenosas."
     },
     "Fungus": {
-        "title": "Fungus",
-        "description": "Wild fungus. Could be poisonous."
+        "title": "Fungo",
+        "description": "Fungo selvagem. Pode ser venenoso."
     },
     "Rice": {
-        "title": "Rice",
-        "description": "Rice, grown from seeds."
+        "title": "Arroz",
+        "description": "Arroz, cultivado a partir de sementes."
     },
     "Potato": {
-        "title": "Potato",
-        "description": "Potato, grown from seeds."
+        "title": "Batata",
+        "description": "Batata, cultivada a partir de sementes."
     },
     "Wheat": {
-        "title": "Wheat",
-        "description": "A staple crop, essential for producing food. Relatively easy to grow and harvest."
+        "title": "Trigo",
+        "description": "Uma cultura básica, essencial para produzir alimentos. Relativamente fácil de cultivar e colher."
     },
     "Herbs": {
-        "title": "Herbs",
-        "description": "Can be grown and used to create various edible products."
+        "title": "Ervas",
+        "description": "Podem ser cultivadas e usadas para criar vários produtos comestíveis."
     },
     "Hops": {
-        "title": "Hops",
-        "description": "A core ingredient to brew ale."
+        "title": "Lúpulo",
+        "description": "Um ingrediente essencial para preparar cerveja."
     },
     "RootVegetables": {
-        "title": "Root vegetables",
-        "description": "Can be grown and used to create various broths."
+        "title": "Vegetais de raiz",
+        "description": "Podem ser cultivados e usados para criar várias sopas."
     },
     "PackagedMeals": {
-        "title": "Packaged meal",
-        "description": "A pre-prepared nutritious meal."
+        "title": "Refeição embalada",
+        "description": "Uma refeição nutritiva pré-preparada."
     },
     "Bread": {
-        "title": "Bread",
-        "description": "A fundamental food item made from wheat."
+        "title": "Pão",
+        "description": "Um item alimentar fundamental feito de trigo."
     },
     "Bone": {
-        "title": "Bone",
-        "description": "Bones from skeletal remains. Can be used to create broths."
+        "title": "Osso",
+        "description": "Ossos de restos esqueléticos. Podem ser usados para criar sopas."
     },
     "VegetableBroth": {
-        "title": "Vegetable broth",
-        "description": "A tasty broth made with herbs and vegetables."
+        "title": "Caldo de vegetais",
+        "description": "Um caldo saboroso feito com ervas e vegetais."
     },
     "BasicMeatBroth": {
-        "title": "Basic meat broth",
-        "description": "A bland meaty broth."
+        "title": "Caldo básico de carne",
+        "description": "Um caldo carnudo sem graça."
     },
     "BoneBroth": {
-        "title": "Bone broth",
-        "description": "A nutritious bone broth."
+        "title": "Caldo de osso",
+        "description": "Um caldo de osso nutritivo."
     },
     "Water": {
-        "title": "Water",
-        "description": "Normal filtered water."
+        "title": "Água",
+        "description": "Água normal filtrada."
     },
     "Ale": {
-        "title": "Ale",
-        "description": "A popular but crudely made alcoholic beverage."
+        "title": "Cerveja",
+        "description": "Uma bebida alcoólica popular mas grosseiramente feita."
     },
     "Wine": {
-        "title": "Berry wine",
-        "description": "A refined, fruity alcoholic beverage."
+        "title": "Vinho de bagas",
+        "description": "Uma bebida alcoólica refinada e frutada."
     }
 }
+

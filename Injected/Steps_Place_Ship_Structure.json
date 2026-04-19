@@ -1,12 +1,13 @@
 {
 	"PlaceShipStructureStep1": {
-		"title": "Building Ship Structure",
-        "description": "Now lets start expanding the ship!\n\n[color=LIGHT_GREEN]Click[/color] the highlighted [color=PURPLE]Building[/color] button or press {building_menu} to open the [color=PURPLE]Building[/color] menu."
+		"title": "Construindo Estrutura da Nave",
+        "description": "Agora vamos começar a expandir a nave!\n\n[color=LIGHT_GREEN]Clique[/color] no botão [color=PURPLE]Construção[/color] destacado ou pressione {building_menu} para abrir o menu [color=PURPLE]Construção[/color]."
 	},
 	"PlaceShipStructureStep2": {
-		"description": "[color=KHAKI]Ship Structure[/color] forms the basic framework for all ships and is required to support other components like [color=KHAKI]Deck Plating[/color].\n\nTo begin with, select the highlighted [color=PURPLE]Ship Structure[/color] button. "
+		"description": "[color=KHAKI]Estrutura da Nave[/color] forma a estrutura básica de todas as naves e é necessária para suportar outros componentes como a [color=KHAKI]Placa de Convés[/color].\n\nPara começar, selecione o botão [color=PURPLE]Estrutura da Nave[/color] destacado."
 	},
 	"PlaceShipStructureStep3": {
-		"description": "Now [color=LIGHT_GREEN]click and drag[/color] using the {select} over the white highlighted area to place down some blueprints, then wait for your crew to finish building them.\n\nIf you are running low on [color=KHAKI]Titanium[/color], designate more [color=KHAKI]Ship Structure[/color] or [color=KHAKI]Asteroids[/color] to be worked on."
+		"description": "Agora [color=LIGHT_GREEN]clique e arraste[/color] usando {select} sobre a área destacada em branco para colocar alguns projetos, depois espere que sua tripulação termine de construí-los.\n\nSe estiver com pouco [color=KHAKI]Titânio[/color], designe mais [color=KHAKI]Estrutura da Nave[/color] ou [color=KHAKI]Asteroides[/color] para serem trabalhados."
 	}
 }
+

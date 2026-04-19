@@ -1,35 +1,36 @@
 {
 	"Meat": {
-        "title": "meat"
+        "title": "carne"
 	},
 	"Fruit": {
-        "title": "fruit"
+        "title": "fruta"
 	},
 	"Grain": {
-        "title": "grain"
+        "title": "grão"
 	},
 	"Vegetable": {
-        "title": "vegetable"
+        "title": "vegetal"
 	},
 	"AnimalProduce": {
-        "title": "Animal produce"
+        "title": "Produto animal"
 	},
 	"Fungus": {
-        "title": "fungus"
+        "title": "fungo"
 	},
 	"Plant": {
-        "title": "plant"
+        "title": "planta"
 	},
 	"Corpse": {
-        "title": "corpse"
+        "title": "cadáver"
 	},
 	"Seed": {
-        "title": "seed"
+        "title": "semente"
 	},
 	"Rock": {
-        "title": "rock"
+        "title": "pedra"
 	},
 	"Fluid": {
-        "title": "fluid"
+        "title": "fluido"
 	}
 }
+

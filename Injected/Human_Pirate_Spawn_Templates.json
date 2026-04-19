@@ -1,11 +1,12 @@
 {
 	"HumanPirate": {
-		"title": "Human pirate"
+		"title": "Pirata humano"
 	},
 	"HumanPirateLeader": {
-		"title": "Human pirate leader"
+		"title": "Líder pirata humano"
 	},
 	"HumanReaverLeader": {
-		"title": "Human reaver leader"
+		"title": "Líder saqueador humano"
 	}
 }
+

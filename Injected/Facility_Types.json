@@ -1,14 +1,15 @@
 {
     "PlayerShip": {
-        "title": "Player ship"
+        "title": "Nave do jogador"
     },
     "TradeShip": {
-        "title": "Trade ship"
+        "title": "Nave comercial"
     },
     "PirateShip": {
-        "title": "Pirate ship"
+        "title": "Nave pirata"
     },
     "SlaveShip": {
-        "title": "Slave ship"
+        "title": "Nave de escravos"
     }
 }
+

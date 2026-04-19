@@ -1,10 +1,10 @@
 {
 	"file_data": {
-		"name": "keybinds"
+		"name": "atalhos de teclado"
 	},
 
 	"keyboard_keys": {
-		"space": "SPACE",
+		"space": "ESPAÇO",
 		"ctrl": "CTRL",
 		"shift": "SHIFT",
 		"alt": "ALT",
@@ -16,12 +16,12 @@
 	},
 
 	"mouse_buttons": {
-		"left": "LEFT MOUSE BUTTON",
-		"right": "RIGHT MOUSE BUTTON",
-		"middle": "MIDDLE MOUSE BUTTON",
-		"wheel_up": "MOUSE WHEEL UP",
-		"wheel_down": "MOUSE WHEEL DOWN",
-		"button": "MOUSE BUTTON"
+		"left": "BOTÃO ESQUERDO DO MOUSE",
+		"right": "BOTÃO DIREITO DO MOUSE",
+		"middle": "BOTÃO DO MEIO DO MOUSE",
+		"wheel_up": "RODA DO MOUSE PARA CIMA",
+		"wheel_down": "RODA DO MOUSE PARA BAIXO",
+		"button": "BOTÃO DO MOUSE"
 	},
 
 	"gamepad_buttons": {
@@ -31,47 +31,47 @@
 		"y": "Y",
 		"lb": "LB",
 		"rb": "RB",
-		"left_stick_press": "LEFT STICK PRESS",
-		"right_stick_press": "RIGHT STICK PRESS",
-		"dpad_up": "D-PAD UP",
-		"dpad_down": "D-PAD DOWN",
-		"dpad_left": "D-PAD LEFT",
-		"dpad_right": "D-PAD RIGHT",
+		"left_stick_press": "PRESSÃO DO ANALÓGICO ESQUERDO",
+		"right_stick_press": "PRESSÃO DO ANALÓGICO DIREITO",
+		"dpad_up": "D-PAD CIMA",
+		"dpad_down": "D-PAD BAIXO",
+		"dpad_left": "D-PAD ESQUERDA",
+		"dpad_right": "D-PAD DIREITA",
 		"select": "SELECT",
 		"start": "START",
-		"button": "BUTTON"
+		"button": "BOTÃO"
 	},
 
 	"gamepad_axes": {
-		"left_stick": "LEFT STICK",
-		"right_stick": "RIGHT STICK",
-		"left_trigger": "LEFT TRIGGER",
-		"right_trigger": "RIGHT TRIGGER",
-		"stick": "STICK"
+		"left_stick": "ANALÓGICO ESQUERDO",
+		"right_stick": "ANALÓGICO DIREITO",
+		"left_trigger": "GATILHO ESQUERDO",
+		"right_trigger": "GATILHO DIREITO",
+		"stick": "ANALÓGICO"
 	},
 
-	"separator_or": " or ",
+	"separator_or": " ou ",
 
 	"keybind_titles": {
-		"pan_up": "Pan Up",
-		"pan_down": "Pan Down",
-		"pan_left": "Pan Left",
-		"pan_right": "Pan Right",
-		"zoom_in": "Zoom In",
-		"zoom_out": "Zoom Out",
-		"scroll_camera": "Scroll Camera",
-		"recenter_camera": "Recenter Camera",
-		"quick_scroll": "Quick Scroll",
-		"pause": "Pause",
-		"1x_speed": "1x Speed",
-		"2x_speed": "2x Speed",
-		"5x_speed": "5x Speed",
-		"cycle_pawns_forward": "Cycle Pawns Forward",
-		"cycle_pawns_backward": "Cycle Pawns Backward",
-		"rotate_building_left": "Rotate Building Left",
-		"rotate_building_right": "Rotate Building Right",
-		"action": "Action",
-		"select": "Select",
-		"cancel": "Cancel"
+		"pan_up": "Mover para Cima",
+		"pan_down": "Mover para Baixo",
+		"pan_left": "Mover para Esquerda",
+		"pan_right": "Mover para Direita",
+		"zoom_in": "Aproximar Zoom",
+		"zoom_out": "Afastar Zoom",
+		"scroll_camera": "Rolar Câmera",
+		"recenter_camera": "Recentralizar Câmera",
+		"quick_scroll": "Rolagem Rápida",
+		"pause": "Pausa",
+		"1x_speed": "Velocidade 1x",
+		"2x_speed": "Velocidade 2x",
+		"5x_speed": "Velocidade 5x",
+		"cycle_pawns_forward": "Selecionar Peões Próximo",
+		"cycle_pawns_backward": "Selecionar Peões Anterior",
+		"rotate_building_left": "Rotacionar Construção Esquerda",
+		"rotate_building_right": "Rotacionar Construção Direita",
+		"action": "Ação",
+		"select": "Selecionar",
+		"cancel": "Cancelar"
 	}
 }

@@ -1,46 +1,47 @@
 {
     "Spotless": {
-        "title": "Spotless",
-        "description": "This room is impeccably clean with no dirt in sight."
+        "title": "Impecável",
+        "description": "Esta sala está impecavelmente limpa, sem sujeira à vista."
     },
     "Clean": {
-        "title": "Clean",
-        "description": "This room is clean and mostly free of dirt."
+        "title": "Limpa",
+        "description": "Esta sala está limpa e quase totalmente livre de sujeira."
     },
     "Dirty": {
-        "title": "Dirty",
-        "description": "This room is dirty and in need of cleaning."
+        "title": "Suja",
+        "description": "Esta sala está suja e precisa de limpeza."
     },
     "Filthy": {
-        "title": "Filthy",
-        "description": "This room is filthy and in serious need of cleaning."
+        "title": "Imunda",
+        "description": "Esta sala está imunda e precisa seriamente de limpeza."
     },
     "Cramped": {
-        "title": "Cramped",
-        "description": "This room is extremely cramped."
+        "title": "Apertada",
+        "description": "Esta sala é extremamente apertada."
     },
     "Tight": {
-        "title": "Tight",
-        "description": "This room is quite tight."
+        "title": "Justa",
+        "description": "Esta sala é bastante justa."
     },
     "Cluttered": {
-        "title": "Cluttered",
-        "description": "This room is fairly cluttered."
+        "title": "Entulhada",
+        "description": "Esta sala está bastante entulhada."
     },
     "Ample": {
-        "title": "Ample",
-        "description": "This room is of an average size."
+        "title": "Ampla",
+        "description": "Esta sala é de tamanho médio."
     },
     "Spacious": {
-        "title": "Spacious",
-        "description": "This room is spacious."
+        "title": "Espaçosa",
+        "description": "Esta sala é espaçosa."
     },
     "VerySpacious": {
-        "title": "Very Spacious",
-        "description": "This room is very spacious."
+        "title": "Muito Espaçosa",
+        "description": "Esta sala é muito espaçosa."
     },
     "Expansive": {
-        "title": "Expansive",
-        "description": "This room has large open spaces."
+        "title": "Expansiva",
+        "description": "Esta sala tem grandes espaços abertos."
     }
 }
+

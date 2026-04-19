@@ -1,110 +1,111 @@
 {
 	"Hypoxaemia": {
-		"title": "Hypoxaemia",
-		"description": "A condition that occurs due to insufficient oxygen in the blood.",
+		"title": "Hipoxemia",
+		"description": "Uma condição que ocorre devido à insuficiência de oxigênio no sangue.",
 		"stages": {
 			"Minor": {
-				"title": "Minor"
+				"title": "Leve"
 			},
 			"Moderate":{
-				"title": "Moderate"
+				"title": "Moderado"
 			},
 			"Major": {
-				"title": "Major"
+				"title": "Grave"
 			},
 			"Severe": {
-				"title": "Severe"
+				"title": "Severo"
 			}
 		}
 	},
 	"Asphyxiation": {
-		"title": "Asphyxiation",
-		"description": "Death will happen very quickly if suffocating due to no oxygen in the blood."
+		"title": "Asfixia",
+		"description": "A morte ocorrerá muito rapidamente se houver sufocamento devido à falta de oxigênio no sangue."
 	},
 	"Malnutrition": {
-		"title": "Malnutrition",
-		"description": "Consuming no food for too long will lead to malnutrition. Prolonged malnutrition will cause an increase of severe pain and eventually death.",
+		"title": "Desnutrição",
+		"description": "Não consumir alimentos por muito tempo levará à desnutrição. A desnutrição prolongada causará um aumento de dor severa e, eventualmente, a morte.",
 		"stages": {
 			"Minor": {
-				"title": "Minor"
+				"title": "Leve"
 			},
 			"Moderate":{
-				"title": "Moderate"
+				"title": "Moderado"
 			},
 			"Major": {
-				"title": "Major"
+				"title": "Grave"
 			},
 			"Severe": {
-				"title": "Severe"
+				"title": "Severo"
 			}
 		}
 	},
 	"SpaceVirus": {
-		"title": "SpaceVirus",
+		"title": "Vírus Espacial",
 		"stages": {
 			"Minor": {
-				"title": "Minor"
+				"title": "Leve"
 			},
 			"Moderate":{
-				"title": "Moderate"
+				"title": "Moderado"
 			},
 			"Major": {
-				"title": "Major"
+				"title": "Grave"
 			},
 			"Severe": {
-				"title": "Severe"
+				"title": "Severo"
 			}
 		}
 	},
 	"Hypovolaemia": {
-		"title": "Hypovolaemia",
-		"description": "This condition results from significant fluid loss. If fluids are not replenished soon, expect a heavy loss of consciousness and eventually death.",
+		"title": "Hipovolemia",
+		"description": "Esta condição resulta de uma perda significativa de fluidos. Se os fluidos não forem repostos em breve, espere uma perda acentuada de consciência e, eventualmente, a morte.",
 		"stages": {
 			"Minor": {
-				"title": "Minor"
+				"title": "Leve"
 			},
 			"Moderate":{
-				"title": "Moderate"
+				"title": "Moderado"
 			},
 			"Major": {
-				"title": "Major"
+				"title": "Grave"
 			},
 			"Severe": {
-				"title": "Severe"
+				"title": "Severo"
 			}
 		}
 	},
 	"Dementia": {
-		"title": "Dementia",
-		"description" : "Showing the loss of mental faculties.",
+		"title": "Demência",
+		"description" : "Manifestação de perda das faculdades mentais.",
 		"stages": {
 			"Mild": {
-				"title": "Mild"
+				"title": "Leve"
 			},
 			"Moderate":{
-				"title": "Moderate"
+				"title": "Moderado"
 			},
 			"Severe": {
-				"title": "Severe"
+				"title": "Severo"
 			}
 		}
 	},
 	"Exhaustion": {
-		"title": "Exhaustion",
-		"description": "Although initially mild, exhaustion will worsen without rest, leading to a heightened risk of loss of consciousness.",
+		"title": "Exaustão",
+		"description": "Embora inicialmente leve, a exaustão piorará sem descanso, levando a um risco maior de perda de consciência.",
 		"stages": {
 			"Minor": {
-				"title": "Minor"
+				"title": "Leve"
 			},
 			"Moderate":{
-				"title": "Moderate"
+				"title": "Moderado"
 			},
 			"Major": {
-				"title": "Major"
+				"title": "Grave"
 			},
 			"Severe": {
-				"title": "Severe"
+				"title": "Severo"
 			}
 		}
 	}
 }
+

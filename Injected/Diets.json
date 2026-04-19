@@ -1,22 +1,23 @@
 {
 	"None": {
-		"title": "Doesn't eat or drink",
-		"description": "Does not consume any food or drink."
+		"title": "Não come nem bebe",
+		"description": "Não consome nenhum alimento ou bebida."
 	},
 	"Herbivore": {
-		"title": "herbivore",
-		"description": "Consumes plants."
+		"title": "herbívoro",
+		"description": "Consome plantas."
 	},
 	"Carnivore": {
-		"title": "carnivore",
-		"description": "Consumes meat."
+		"title": "carnívoro",
+		"description": "Consome carne."
 	},
 	"Omnivore": {
-		"title": "omnivore",
-		"description": "Consumes both plants and meat."
+		"title": "onívoro",
+		"description": "Consome tanto plantas quanto carne."
 	},
 	"Lithophagy": {
-		"title": "lithophagy",
-		"description": "Consumes rocks."
+		"title": "litofagia",
+		"description": "Consome pedras."
 	}
 }
+

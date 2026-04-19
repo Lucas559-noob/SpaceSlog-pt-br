@@ -1,26 +1,27 @@
 {
     "LevelUp": {
-        "title": "Level Up!"
+        "title": "Subiu de Nível!"
     },
     "LevelDown": {
-        "title": "Level Down!"
+        "title": "Desceu de Nível!"
     },
     "Miss": {
-        "title": "Miss"
+        "title": "Errou"
     },
     "CriticalHit": {
-        "title": "Critical Hit!"
+        "title": "Acerto Crítico!"
     },
     "Headshot": {
-        "title": "Headshot!"
+        "title": "Tiro na Cabeça!"
     },
     "Reloading": {
-        "title": "Reloading"
+        "title": "Recarregando"
     },
     "Blocked": {
-        "title": "Blocked"
+        "title": "Bloqueado"
     },
     "Healed": {
-        "title": "Wounds healed"
+        "title": "Ferimentos curados"
     }
 }
+

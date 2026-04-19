@@ -1,6 +1,7 @@
 {
 	"TimeControlsStep1": {
-		"title": "Time controls",
-		"description": "If your crew are taking too long, you can speed up the game.\n\nDo that now by [color=LIGHT_GREEN]clicking[/color] on the highlighted [color=PURPLE]5x speed[/color] button or pressing the {speed_fastest} key.\n\nPressing {speed_normal} or {speed_fast} will also change speeds."
+		"title": "Controles de tempo",
+		"description": "Se sua tripulação estiver demorando muito, você pode acelerar o jogo.\n\nFaça isso agora [color=LIGHT_GREEN]clicando[/color] no botão [color=PURPLE]velocidade 5x[/color] destacado ou pressionando a tecla {speed_fastest}.\n\nPressionar {speed_normal} ou {speed_fast} também alterará as velocidades."
 	}
 }
+

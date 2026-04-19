@@ -1,22 +1,23 @@
 {
 	"Water": {
-		"title": "Water",
-        "description": "Melt ice into water."
+		"title": "Água",
+        "description": "Derreta gelo em água."
 	},
     "Wine": {
-		"title": "Wine",
-        "description": "Ferment water and berries together to create wine."
+		"title": "Vinho",
+        "description": "Fermente água e bagas juntas para criar vinho."
 	},
     "VegetableBroth": {
-		"title": "Vegetable broth",
-        "description": "Make a tasty herb and vegetable broth."
+		"title": "Caldo de vegetais",
+        "description": "Faça um delicioso caldo de ervas e vegetais."
 	},
     "BasicMeatBroth": {
-		"title": "Bland meat broth",
-        "description": "Make a bland meat broth."
+		"title": "Caldo de carne sem sabor",
+        "description": "Faça um caldo de carne sem sabor."
 	},
     "BoneBroth": {
-		"title": "Bone broth",
-        "description": "Make a nutritious bone broth."
+		"title": "Caldo de ossos",
+        "description": "Faça um nutritivo caldo de ossos."
 	}
 }
+

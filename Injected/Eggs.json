@@ -1,14 +1,15 @@
 {
     "FertilisedSpacewormEggs": {
-        "title": "Space worm eggs (fertilised)",
-        "description": "Space Worm eggs are now a staple diet for humans, gross but nutritional. May hatch if left long enough."
+        "title": "Ovos de verme espacial (fertilizados)",
+        "description": "Os ovos de Verme Espacial agora são uma dieta básica para humanos, nojentos mas nutritivos. Podem eclodir se deixados por tempo suficiente."
     },
     "UnfertilisedChickenEggs": {
-        "title": "Chicken eggs (unfertilised)",
-        "description": "Chicken eggs can be eaten as a source of nutrition. This egg is unfertilised and will not hatch."
+        "title": "Ovos de galinha (não fertilizados)",
+        "description": "Ovos de galinha podem ser comidos como fonte de nutrição. Este ovo não está fertilizado e não eclodirá."
     },
     "FertilisedChickenEggs": {
-        "title": "Chicken eggs (fertilised)",
-        "description": "Chicken eggs can be eaten as a source of nutrition. This egg is fertilised and may hatch if left long enough."
+        "title": "Ovos de galinha (fertilizados)",
+        "description": "Ovos de galinha podem ser comidos como fonte de nutrição. Este ovo está fertilizado e pode eclodir se deixado por tempo suficiente."
     }
 }
+

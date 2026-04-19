@@ -1,98 +1,99 @@
 {
 	"Coins": {
-		"title": "Coins",
-		"description": "The standard currency known to be used throughout the slog."
+		"title": "Moedas",
+		"description": "A moeda padrão conhecida por ser usada em todo o slog."
 	},
 	"Diamond": {
-		"title": "Space diamond",
-		"description": "An extremely rare industrial commodity. Preferably used as a building material rather than jewellery due to its superior hardness."
+		"title": "Diamante espacial",
+		"description": "Uma mercadoria industrial extremamente rara. Preferencialmente usada como material de construção em vez de joias devido à sua dureza superior."
 	},
 	"FuelCell": {
-		"title": "Fuel cell",
-		"description": "Contains Plutonium. Ensures the Plutonium stays stable until it is needed to be used."
+		"title": "Célula de combustível",
+		"description": "Contém Plutônio. Garante que o Plutônio permaneça estável até que seja necessário usá-lo."
 	},
 	"Uranium": {
-		"title": "Uranium",
-		"description": "An extremely dense material which can be refined into Plutonium and then stored in Fuel Cells."
+		"title": "Urânio",
+		"description": "Um material extremamente denso que pode ser refinado em Plutônio e depois armazenado em Células de Combustível."
 	},
 	"Titanium": {
-		"title": "Titanium",
-		"description": "A relatively lightweight yet durable metal alloy. Can be used to construct a large variety of structures, weapons and other machinery."
+		"title": "Titânio",
+		"description": "Uma liga metálica relativamente leve, mas durável. Pode ser usada para construir uma grande variedade de estruturas, armas e outras máquinas."
 	},
 	"Glass": {
-		"title": "Glass",
-		"description": "A transparent material commonly used for windows. It is brittle and can break easily."
+		"title": "Vidro",
+		"description": "Um material transparente comumente usado para janelas. É frágil e pode quebrar facilmente."
 	},
 	"Silver": {
-		"title": "Silver",
-		"description": "A type of white metal often used for construction but not as strong as other metals."
+		"title": "Prata",
+		"description": "Um tipo de metal branco frequentemente usado para construção, mas não tão forte quanto outros metais."
 	},
 	"Alloys": {
-		"title": "Alloys",
-		"description": "These alloys are exceptionally light and durable, yet extremely rare and expensive."
+		"title": "Ligas",
+		"description": "Essas ligas são excepcionalmente leves e duráveis, mas extremamente raras e caras."
 	},
 	"Gold": {
-		"title": "Gold",
-		"description": "A highly valuable shiny metal. Not quite as strong as other metals but it looks pretty."
+		"title": "Ouro",
+		"description": "Um metal brilhante e altamente valioso. Não é tão forte quanto outros metais, mas tem boa aparência."
 	},
 	"Silicon": {
-		"title": "Silicon",
-		"description": "A versatile element essential for electronics and computer components."
+		"title": "Silício",
+		"description": "Um elemento versátil essencial para eletrônicos e componentes de computador."
 	},
 	"Ruby": {
-		"title": "Ruby",
-		"description": "A rare and vibrant gemstone."
+		"title": "Rubi",
+		"description": "Uma pedra preciosa rara e vibrante."
 	},
 	"Emerald": {
-		"title": "Emerald",
-		"description": "A rare green gemstone."
+		"title": "Esmeralda",
+		"description": "Uma rara pedra preciosa verde."
 	},
 	"Logs": {
-		"title": "Hardwood logs",
-		"description": "Gathered from certain types of trees from some planets. Can be used for building structures and weapons."
+		"title": "Troncos de madeira dura",
+		"description": "Coletados de certos tipos de árvores de alguns planetas. Podem ser usados para construir estruturas e armas."
 	},
 	"Cloth": {
-		"title": "Cloth",
-		"description": "A soft and comfortable fabric created from cotton fibers."
+		"title": "Tecido",
+		"description": "Um tecido macio e confortável criado a partir de fibras de algodão."
 	},
 	"Linen": {
-		"title": "Linen",
-		"description": "A strong and durable fabric created from flax fibers."
+		"title": "Linho",
+		"description": "Um tecido forte e durável criado a partir de fibras de linho."
 	},
 	"Leather": {
-		"title": "Leather",
-		"description": "A strong, flexible and durable material created from animal skins."
+		"title": "Couro",
+		"description": "Um material forte, flexível e durável criado a partir de peles de animais."
 	},
 	"Wool": {
-		"title": "Wool",
-		"description": "A natural breathable fibre. Great for insulation."
+		"title": "Lã",
+		"description": "Uma fibra natural respirável. Ótima para isolamento."
 	},
 	"CarbonFibre": {
-		"title": "Carbon fibre cloth",
-		"description": "A strong, flexible and durable material created from carbon."
+		"title": "Tecido de fibra de carbono",
+		"description": "Um material forte, flexível e durável criado a partir de carbono."
 	},
 	"Concrete": {
-		"title": "Concrete",
-		"description": "An extremely heavy but strong man-made material. It's probably not the best choice for use in spaceships."
+		"title": "Concreto",
+		"description": "Um material artificial extremamente pesado, mas forte. Provavelmente não é a melhor escolha para uso em naves espaciais."
 	},
 	"Sandstone": {
-		"title": "Sandstone",
-		"description": "A relatively soft type of rock that can break easily."
+		"title": "Arenito",
+		"description": "Um tipo relativamente macio de rocha que pode quebrar facilmente."
 	},
 	"Rock": {
-		"title": "Rock",
-		"description": "A piece of natural material composed of minerals."
+		"title": "Rocha",
+		"description": "Um pedaço de material natural composto de minerais."
 	},
 	"Carbon": {
-		"title": "Carbon",
-		"description": "Carbon can be used to create carbon fibre."
+		"title": "Carbono",
+		"description": "Carbono pode ser usado para criar fibra de carbono."
 	},
 	"Granite": {
-		"title": "Granite",
-		"description": "An extremely hard type of rock."
+		"title": "Granito",
+		"description": "Um tipo extremamente duro de rocha."
 	},
 	"Ice": {
-		"title": "Ice",
-		"description": "Can be used to produce oxygen or melted down for water."
+		"title": "Gelo",
+		"description": "Pode ser usado para produzir oxigênio ou derretido para obter água."
 	}
 }
+

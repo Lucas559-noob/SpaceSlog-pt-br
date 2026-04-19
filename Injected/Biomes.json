@@ -1,14 +1,15 @@
 {
     "AridDesert": {
-        "title": "Arid Desert",
-        "description": "A dry and arid environment with sparse vegetation."
+        "title": "Deserto Árido",
+        "description": "Um ambiente seco e árido com vegetação esparsa."
     },
     "RockyDesert": {
-        "title": "Rocky Desert",
-        "description": "A dry and rocky environment with sparse vegetation."
+        "title": "Deserto Rochoso",
+        "description": "Um ambiente seco e rochoso com vegetação esparsa."
     },
     "DesertPlains": {
-        "title": "Desert Plains",
-        "description": "A dry and arid environment with next to no vegetation."
+        "title": "Planícies Desérticas",
+        "description": "Um ambiente seco e árido com quase nenhuma vegetação."
     }
 }
+

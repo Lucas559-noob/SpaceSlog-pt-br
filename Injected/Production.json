@@ -1,26 +1,27 @@
 {
 	"Transponder": {
 		"title": "Transponder",
-		"description": "Required to enable the construction of most structures and to be detected by other ships and facilities. Contains a backup battery, limited to 90w of connected power that automatically activates whenever its primary circuit loses power."
+		"description": "Necessário para permitir a construção da maioria das estruturas e para ser detectado por outras naves e instalações. Contém uma bateria de backup, limitada a 90w de energia conectada que é ativada automaticamente sempre que seu circuito primário perde energia."
 	},
 	"CommConsole": {
-		"title": "Comms console",
-		"description": "Required for communication with other ships and facilities."
+		"title": "Console de comunicação",
+		"description": "Necessário para comunicação com outras naves e instalações."
 	},
 	"SmallThruster": {
-		"title": "Small thruster",
-		"description": "Provides a small amount of thrust when activated."
+		"title": "Propulsor pequeno",
+		"description": "Fornece uma pequena quantidade de empuxo quando ativado."
 	},
 	"MediumThruster": {
-		"title": "Medium thruster",
-		"description": "Provides a moderate amount of thrust when activated."
+		"title": "Propulsor médio",
+		"description": "Fornece uma quantidade moderada de empuxo quando ativado."
 	},
 	"LargeThruster": {
-		"title": "Large thruster",
-		"description": "Provides a large amount of thrust when activated."
+		"title": "Propulsor grande",
+		"description": "Fornece uma grande quantidade de empuxo quando ativado."
 	},
 	"Aeroponics": {
-		"title": "Aeroponics",
-		"description": "A place to grow plants and vegetables. Anything growing here will start to rot if this is not powered."
+		"title": "Aeroponia",
+		"description": "Um lugar para cultivar plantas e vegetais. Qualquer coisa crescendo aqui começará a apodrecer se isso não estiver energizado."
 	}
 }
+

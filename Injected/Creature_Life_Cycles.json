@@ -1,20 +1,21 @@
 {
     "AdultRat": {
-		"title": "Rat"
+		"title": "Rato"
 	},
 	"Chick": {
-		"title": "Chick"
+		"title": "Pintinho"
 	},
     "Pullet": {
-        "title": "Pullet"
+        "title": "Galinha jovem"
     },
 	"Hen": {
-		"title": "Hen"
+		"title": "Galinha"
 	},
 	"Cockerel": {
-		"title": "Cockerel"
+		"title": "Galo jovem"
 	},
 	"Rooster": {
-		"title": "Rooster"
+		"title": "Galo"
 	}
 }
+

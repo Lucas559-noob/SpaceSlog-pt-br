@@ -1,18 +1,19 @@
 {
 	"Human": {
-		"title": "Skin",
-        "description": "Waterproof but weak."
+		"title": "Pele",
+        "description": "À prova d'água, mas fraca."
 	},
     "Serpent": {
-		"title": "Skin",
-		"description": "Relatively strong."
+		"title": "Pele",
+		"description": "Relativamente forte."
 	},
     "ScaledSerpent": {
-		"title": "Skin",
-		"description": "Relatively strong."
+		"title": "Pele",
+		"description": "Relativamente forte."
 	},
     "SmallAnimal": {
-		"title": "Skin",
-		"description": "Relatively strong."
+		"title": "Pele",
+		"description": "Relativamente forte."
 	}
 }
+

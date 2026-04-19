@@ -1,10 +1,11 @@
 {
 	"PowerUpStep1": {
-		"title": "Powering up",
-        "description": "Hopefully by now your [color=KHAKI]Power Generator[/color] and your [color=KHAKI]Life Support[/color] should have been completed.\n\nIf not, you can click on the prefabs within your ship to see what materials are required and if they are available, otherwise designate more [color=KHAKI]Ship Debris[/color] to be deconstructed.\n\nYou can press [color=PURPLE]Continue[/color] once satisfied."
+		"title": "Ligando a energia",
+        "description": "Esperançosamente, agora seu [color=KHAKI]Gerador de Energia[/color] e seu [color=KHAKI]Suporte de Vida[/color] devem ter sido concluídos.\n\nSe não, você pode clicar nas predefinições dentro de sua nave para ver quais materiais são necessários e se eles estão disponíveis; caso contrário, designe mais [color=KHAKI]Destroços de Nave[/color] para serem desconstruídos.\n\nVocê pode pressionar [color=PURPLE]Continuar[/color] quando estiver satisfeito."
 	},
 	"PowerUpStep2": {
-		"title": "Powering up",
-        "description": "If completed your [color=KHAKI]Power Generator[/color] and [color=KHAKI]Life Support[/color] should be operational.\n\nIf they have not powered on, check your connections and ensure they have enough [color=KHAKI]Fuel[/color].\n\nYou can press [color=PURPLE]Continue[/color] once satisfied."
+		"title": "Ligando a energia",
+        "description": "Se concluídos, seu [color=KHAKI]Gerador de Energia[/color] e [color=KHAKI]Suporte de Vida[/color] devem estar operacionais.\n\nSe eles não ligaram, verifique suas conexões e certifique-se de que tenham [color=KHAKI]Combustível[/color] suficiente.\n\nVocê pode pressionar [color=PURPLE]Continuar[/color] quando estiver satisfeito."
 	}
 }
+

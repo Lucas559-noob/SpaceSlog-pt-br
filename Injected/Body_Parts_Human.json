@@ -1,92 +1,93 @@
 {
 	"Jaw": {
-		"title": "Jaw"
+		"title": "Mandíbula"
 	},
 	"LeftFoot": {
-		"title": "Left foot"
+		"title": "Pé esquerdo"
 	},
 	"RightFoot": {
-		"title": "Right foot"
+		"title": "Pé direito"
 	},
 	"LeftArm": {
-		"title": "Left arm"
+		"title": "Braço esquerdo"
 	},
 	"RightArm": {
-		"title": "Right arm"
+		"title": "Braço direito"
 	},
 	"LeftHand": {
-		"title": "Left hand"
+		"title": "Mão esquerda"
 	},
 	"RightHand": {
-		"title": "Right hand"
+		"title": "Mão direita"
 	},
 	"Groin": {
-		"title": "Groin"
+		"title": "Virilha"
 	},
 	"LeftLittleFinger": {
-		"title": "Left little finger"
+		"title": "Dedinho esquerdo"
 	},
 	"LeftFourthFinger": {
-		"title": "Left fourth finger"
+		"title": "Quarto dedo esquerdo"
 	},
 	"LeftMiddleFinger": {
-		"title": "Left middle finger"
+		"title": "Dedo médio esquerdo"
 	},
 	"LeftForeFinger": {
-		"title": "Left fore finger"
+		"title": "Indicador esquerdo"
 	},
 	"RightLittleFinger": {
-		"title": "Right little finger"
+		"title": "Dedinho direito"
 	},
 	"RightFourthFinger": {
-		"title": "Right fourth finger"
+		"title": "Quarto dedo direito"
 	},
 	"RightMiddleFinger": {
-		"title": "Right middle finger"
+		"title": "Dedo médio direito"
 	},
 	"RightForeFinger": {
-		"title": "Right fore finger"
+		"title": "Indicador direito"
 	},
 	"LeftThumb": {
-		"title": "Left thumb"
+		"title": "Polegar esquerdo"
 	},
 	"RightThumb": {
-		"title": "Right thumb"
+		"title": "Polegar direito"
 	},
 	"LeftBigToe": {
-		"title": "Left big toe"
+		"title": "Dedo grande do pé esquerdo"
 	},
 	"LeftSecondToe": {
-		"title": "Left second toe"
+		"title": "Segundo dedo do pé esquerdo"
 	},
 	"LeftThirdToe": {
-		"title": "Left third toe"
+		"title": "Terceiro dedo do pé esquerdo"
 	},
 	"LeftFourthToe": {
-		"title": "Left fourth toe"
+		"title": "Quarto dedo do pé esquerdo"
 	},
 	"LeftLittleToe": {
-		"title": "Left little toe"
+		"title": "Dedinho do pé esquerdo"
 	},
 	"RightBigToe": {
-		"title": "Right big toe"
+		"title": "Dedo grande do pé direito"
 	},
 	"RightSecondToe": {
-		"title": "Right second toe"
+		"title": "Segundo dedo do pé direito"
 	},
 	"RightThirdToe": {
-		"title": "Right third toe"
+		"title": "Terceiro dedo do pé direito"
 	},
 	"RightFourthToe": {
-		"title": "Right fourth toe"
+		"title": "Quarto dedo do pé direito"
 	},
 	"RightLittleToe": {
-		"title": "Right little toe"
+		"title": "Dedinho do pé direito"
 	},
 	"Neck": {
-		"title": "Neck"
+		"title": "Pescoço"
 	},
 	"Nose": {
-		"title": "Nose"
+		"title": "Nariz"
 	}
 }
+

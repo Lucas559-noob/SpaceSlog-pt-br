@@ -1,10 +1,11 @@
 {
 	"Human": {
-		"title": "Blood.",
-        "description": "Thick and red."
+		"title": "Sangue",
+        "description": "Grosso e vermelho."
 	},
     "Worm": {
-		"title": "Blood.",
-		"description": "Green and gooey."
+		"title": "Sangue",
+		"description": "Verde e viscoso."
 	}
 }
+

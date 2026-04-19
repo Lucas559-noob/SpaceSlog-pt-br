@@ -1,35 +1,36 @@
 {
     "MainMenu": {
-        "title": "Last Grasp For Humanity"
+        "title": "Último Suspiro da Humanidade"
     },
     "Track1": {
-        "title": "Andromeda's Way"
+        "title": "Caminho de Andrômeda"
     },
     "Track2": {
-        "title": "Dancing Flares"
+        "title": "Chamas Dançantes"
     },
     "Track3": {
-        "title": "Dark Origins"
+        "title": "Origens Sombrias"
     },
     "Track4": {
-        "title": "Drifting On"
+        "title": "Derivando"
     },
     "Track5": {
-        "title": "Exploring The Void"
+        "title": "Explorando o Vazio"
     },
     "Track6": {
-        "title": "Five Moons"
+        "title": "Cinco Luas"
     },
     "Track7": {
-        "title": "Just A Light Year Away"
+        "title": "Apenas a Um Ano-Luz de Distância"
     },
     "Track8": {
-        "title": "Lunar Shadow"
+        "title": "Sombra Lunar"
     },
     "Track9": {
-        "title": "Shifting Matter"
+        "title": "Matéria em Transformação"
     },
     "Track10": {
-        "title": "Violet Sun"
+        "title": "Sol Violeta"
     }
 }
+

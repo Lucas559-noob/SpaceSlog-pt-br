@@ -1,10 +1,11 @@
 {
 	"Human": {
-    	"title": "Human",
-		"description": "Humans are a type of humanoid. Due to having a large complex brain, they are fairly intelligent and have mastered the use of tools. Commonly known to have predominantly come from Earth, they mostly speak the Earthen mother tongue. Earthers have spent generations on Earth."
+    	"title": "Humano",
+		"description": "Humanos são um tipo de humanoide. Por terem um cérebro grande e complexo, são bastante inteligentes e dominaram o uso de ferramentas. Comumente conhecidos por terem vindo predominantemente da Terra, eles falam principalmente a língua materna terrestre. Os terráqueos passaram gerações na Terra."
 	},
 	"HumanSpacer": {
-    	"title": "Human",
-		"description": "Humans are a type of humanoid. Due to having a large complex brain, they are fairly intelligent and have mastered the use of tools. Commonly known to have predominantly come from Earth, they mostly speak the Earthen mother tongue. Spacers however have spent generations in space."
+    	"title": "Humano",
+		"description": "Humanos são um tipo de humanoide. Por terem um cérebro grande e complexo, são bastante inteligentes e dominaram o uso de ferramentas. Comumente conhecidos por terem vindo predominantemente da Terra, eles falam principalmente a língua materna terrestre. Os espaciais, no entanto, passaram gerações no espaço."
 	}
 }
+

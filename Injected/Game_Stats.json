@@ -1,18 +1,19 @@
 {
     "Wealth": {
-        "title": "Total wealth",
-        "description": "Your total combined wealth."
+        "title": "Riqueza total",
+        "description": "Sua riqueza total combinada."
     },
     "DistanceTravelled": {
-        "title": "Distance travelled",
-        "description": "How many miles you have travelled through the slog."
+        "title": "Distância percorrida",
+        "description": "Quantas milhas você percorreu através do slog."
     },
     "TravelPoints": {
-        "title": "Travel points",
-        "description": "The amount of travel points you have. This is calculated from the total distance travelled."
+        "title": "Pontos de viagem",
+        "description": "A quantidade de pontos de viagem que você tem. Isso é calculado a partir da distância total percorrida."
     },
     "DaysPassed": {
-        "title": "Days passed",
-        "description": "The total amount of days that has passed since the start of the game."
+        "title": "Dias passados",
+        "description": "A quantidade total de dias que passaram desde o início do jogo."
     }
 }
+

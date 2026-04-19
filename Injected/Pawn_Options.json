@@ -1,140 +1,141 @@
 {
     "Build": {
-        "title": "Construct buildings"
+        "title": "Construir edifícios"
     },
     "Deconstruct": {
-        "title": "Deconstruct buildings"
+        "title": "Desconstruir edifícios"
     },
     "Repair": {
-        "title": "Repair buildings"
+        "title": "Reparar edifícios"
     },
     "Mine": {
-        "title": "Mine asteroids"
+        "title": "Minerar asteroides"
     },
     "Refuel": {
-        "title": "Refuel buildings"
+        "title": "Reabastecer edifícios"
     },
     "Eat": {
-        "title": "Eat"
+        "title": "Comer"
     },
     "Drink": {
-        "title": "Drink"
+        "title": "Beber"
     },
     "Sleep": {
-        "title": "Sleep"
+        "title": "Dormir"
     },
     "Roam": {
-        "title": "Roam"
+        "title": "Vagar"
     },
     "Idle": {
-        "title": "Idle"
+        "title": "Ocioso"
     },
     "StampFire": {
-        "title": "Stamp out fires"
+        "title": "Apagar incêndios"
     },
     "Clean": {
-        "title": "Clean dirt"
+        "title": "Limpar sujeira"
     },
     "SelfTend": {
-        "title": "Self tend"
+        "title": "Autocuidado"
     },
     "RestUntilHealed": {
-        "title": "Rest as patient"
+        "title": "Descansar como paciente"
     },
     "Rescue": {
-        "title": "Rescue collapsed allied creature"
+        "title": "Resgatar criatura aliada caída"
     },
     "Haul": {
-        "title": "Haul to stockpile"
+        "title": "Transportar para o estoque"
     },
     "Combine": {
-        "title": "Combine items"
+        "title": "Combinar itens"
     },
     "HaulObstruction": {
-        "title": "Move obstruction"
+        "title": "Remover obstrução"
     },
     "HaulToPrefab": {
-        "title": "Haul to construction"
+        "title": "Transportar para construção"
     },
     "HaulToRecipe": {
-        "title": "Haul to recipe"
+        "title": "Transportar para receita"
     },
     "Research": {
-        "title": "Conduct research"
+        "title": "Conduzir pesquisa"
     },
     "FindAtmosphere": {
-        "title": "Find safe atmosphere"
+        "title": "Encontrar atmosfera segura"
     },
     "FindSafeTemperature": {
-        "title": "Find safe temperature"
+        "title": "Encontrar temperatura segura"
     },
     "DoGoodMood": {
-        "title": "Do good mood"
+        "title": "Melhorar o humor"
     },
     "DoSocial": {
-        "title": "Do social"
+        "title": "Fazer interação social"
     },
     "MoveDead": {
-        "title": "Dispose of dead creatures"
+        "title": "Dispor de criaturas mortas"
     },
     "EquipSpacesuit": {
-        "title": "Equip spacesuit"
+        "title": "Equipar traje espacial"
     },
     "ForceMove": {
-        "title": "Force move"
+        "title": "Forçar movimento"
     },
     "Equip": {
-        "title": "Equip"
+        "title": "Equipar"
     },
     "UnEquip": {
-        "title": "Drop"
+        "title": "Soltar"
     },
     "Strip": {
-        "title": "Strip creature"
+        "title": "Despir criatura"
     },
     "DestroyAsset": {
-        "title": "Destroy item"
+        "title": "Destruir item"
     },
     "UseEntertainment": {
-        "title": "Use entertainment"
+        "title": "Usar entretenimento"
     },
     "SitAtChair": {
-        "title": "Sit at chair"
+        "title": "Sentar na cadeira"
     },
     "HealPawn": {
-        "title": "Heal patient or animal"
+        "title": "Curar paciente ou animal"
     },
     "FeedPatient": {
-        "title": "Feed patient"
+        "title": "Alimentar paciente"
     },
     "HydratePatient": {
-        "title": "Hydrate patient"
+        "title": "Hidratar paciente"
     },
     "FeedAnimal": {
-        "title": "Feed animal"
+        "title": "Alimentar animal"
     },
     "HydrateAnimal": {
-        "title": "Hydrate animal"
+        "title": "Hidratar animal"
     },
     "Butcher": {
-        "title": "Butcher creature"
+        "title": "Abater criatura"
     },
     "Flee": {
-        "title": "Flee"
+        "title": "Fugir"
     },
     "SowPlant": {
-        "title": "Sow plant"
+        "title": "Semear planta"
     },
     "HarvestPlant": {
-        "title": "Harvest plant"
+        "title": "Colher planta"
     },
     "HarvestBrew": {
-        "title": "Harvest brew"
+        "title": "Colher bebida fermentada"
     },
     "SitOnCaptainsChair": {
-        "title": "Sit on captains chair."
+        "title": "Sentar na cadeira do capitão."
     },
     "Breed": {
-        "title": "Breed"
+        "title": "Procriar"
     }
 }
+

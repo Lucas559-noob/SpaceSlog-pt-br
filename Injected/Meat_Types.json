@@ -1,14 +1,15 @@
 {
 	"Human": {
-		"title": "Meat",
-        "description": "Thick and red."
+		"title": "Carne",
+        "description": "Grossa e vermelha."
 	},
     "Worm": {
-		"title": "Meat",
-		"description": "Green and gooey."
+		"title": "Carne",
+		"description": "Verde e viscosa."
 	},
 	"SmallAnimal": {
-		"title": "Meat",
-		"description": "Thick and red."
+		"title": "Carne",
+		"description": "Grossa e vermelha."
 	}
 }
+

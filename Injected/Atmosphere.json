@@ -1,42 +1,43 @@
 {
     "Ducting": {
-        "title": "Atmospheric ducting",
-        "description": "A conduit designed to direct the movement of air to/from other atmospheric components, such as an air ventilator and Life Support."
+        "title": "Dutos atmosféricos",
+        "description": "Um conduíte projetado para direcionar o movimento de ar de/para outros componentes atmosféricos, como um ventilador de ar e Suporte de Vida."
     },
     "AirVent": {
-        "title": "Air ventilator",
-        "description": "Outputs gasses into a room from a connected air supply. Must be connected to an air supply via ducting."
+        "title": "Ventilador de ar",
+        "description": "Fornece gases para uma sala a partir de um suprimento de ar conectado. Deve ser conectado a um suprimento de ar através de dutos."
     },
     "HeatVent": {
-        "title": "Radiator vent",
-        "description": "Discharges a small amount of heat from any rooms connected via ducting and air ventilators as infrared energy."
+        "title": "Ventilação radiador",
+        "description": "Descarrega uma pequena quantidade de calor de qualquer sala conectada através de dutos e ventiladores de ar como energia infravermelha."
     },
     "LargeHeatVent": {
-        "title": "Large radiator vent",
-        "description": "Discharges a large amount of heat from any rooms connected via ducting and air ventilators as infrared energy."
+        "title": "Ventilação radiador grande",
+        "description": "Descarrega uma grande quantidade de calor de qualquer sala conectada através de dutos e ventiladores de ar como energia infravermelha."
     },
     "TransferVent": {
-        "title": "Transfer ventilator",
-        "description": "Allows air to flow between two adjacent rooms, equalising the temperatures and gasses. Must be placed on top of Ship Structure."
+        "title": "Ventilador de transferência",
+        "description": "Permite que o ar flua entre duas salas adjacentes, igualizando as temperaturas e gases. Deve ser colocado no topo da Estrutura da Nave."
     },
     "LifeSupport": {
-        "title": "Life support",
-        "description": "Supplies a small amount of oxygen, as well as filtering and cleaning hazardous gasses and CO2 from the air. Must have an air ventilator connected via ducting to work."
+        "title": "Suporte de vida",
+        "description": "Fornece uma pequena quantidade de oxigênio, além de filtrar e limpar gases perigosos e CO2 do ar. Deve ter um ventilador de ar conectado através de dutos para funcionar."
     },
     "OxygenGenerator": {
-        "title": "Oxygen generator",
-        "description": "Generates a small amount of oxygen. Must have an air ventilator connected via ducting to work."
+        "title": "Gerador de oxigênio",
+        "description": "Gera uma pequena quantidade de oxigênio. Deve ter um ventilador de ar conectado através de dutos para funcionar."
     },
     "LargeOxygenGenerator": {
-        "title": "Large oxygen generator",
-        "description": "Generates a large amount of oxygen. Must have an air ventilator connected via ducting to work."
+        "title": "Gerador de oxigênio grande",
+        "description": "Gera uma grande quantidade de oxigênio. Deve ter um ventilador de ar conectado através de dutos para funcionar."
     },
     "GasScrubber": {
-        "title": "Gas scrubber",
-        "description": "Filters and cleans hazardous gasses and CO2 from the atmosphere. Must have an air ventilator connected via ducting to work."
+        "title": "Lavador de gases",
+        "description": "Filtra e limpa gases perigosos e CO2 da atmosfera. Deve ter um ventilador de ar conectado através de dutos para funcionar."
     },
     "OxygenTank": {
-        "title": "Oxygen tank",
-        "description": "Stores a small amount of oxygen from any connected oxygen supplier. Must be connected via ducting to work."
+        "title": "Tanque de oxigênio",
+        "description": "Armazena uma pequena quantidade de oxigênio de qualquer fornecedor de oxigênio conectado. Deve ser conectado através de dutos para funcionar."
     }
 }
+

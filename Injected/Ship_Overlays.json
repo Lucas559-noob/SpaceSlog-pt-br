@@ -1,22 +1,23 @@
 {
     "AirTightness": {
-        "title": "Airtightness",
-        "description": "The ships overall airtightness."
+        "title": "Hermeticidade",
+        "description": "A hermeticidade geral da nave."
     },
     "Oxygen": {
-        "title": "Oxygen",
-        "description": "The ship's oxygen levels."
+        "title": "Oxigênio",
+        "description": "Os níveis de oxigênio da nave."
     },
     "CarbonDioxide": {
-        "title": "Carbon Dioxide",
-        "description": "The ship's carbon dioxide levels."
+        "title": "Dióxido de Carbono",
+        "description": "Os níveis de dióxido de carbono da nave."
     },
     "Temperature": {
-        "title": "Temperature",
-        "description": "The ship's internal temperatures."
+        "title": "Temperatura",
+        "description": "As temperaturas internas da nave."
     },
     "ConnectedStructures": {
-        "title": "Connections",
-        "description": "The ship's connected structures. Anything disconnected from the ship will be left behind when entering high burn."
+        "title": "Conexões",
+        "description": "As estruturas conectadas da nave. Qualquer coisa desconectada da nave será deixada para trás ao entrar em modo de alta velocidade."
     }
 }
+

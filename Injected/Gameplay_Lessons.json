@@ -1,38 +1,39 @@
 {
     "HighBurn": {
-        "title": "Exploring the Universe",
-        "description": "To explore, you will need to enter [color=KHAKI]high burn[/color]. This is a high G-force manoeuvre that will propel your ship forwards.\n\nYou can achieve this by powering up your [color=KHAKI]thrusters[/color] and waiting for the [color=PURPLE]BURN METER[/color] (located on the [color=PURPLE]Ship Systems[/color] menu) to fill.\n\nOnce the meter is full, you can press the [color=PURPLE]Burn[/color] button located next to the [color=PURPLE]BURN METER[/color].\n\nKeep in mind, the more your ship weighs, the longer it will take to fill the [color=PURPLE]BURN METER[/color], necessitating the need to install more [color=KHAKI]thrusters[/color]."
+        "title": "Explorando o Universo",
+        "description": "Para explorar, você precisará entrar em [color=KHAKI]alta velocidade[/color]. Esta é uma manobra de alta força G que impulsionará sua nave para frente.\n\nVocê pode conseguir isso ligando seus [color=KHAKI]propulsores[/color] e esperando que o [color=PURPLE]MEDIDOR DE VELOCIDADE[/color] (localizado no menu [color=PURPLE]Sistemas da Nave[/color]) se encha.\n\nUma vez que o medidor esteja cheio, você pode pressionar o botão [color=PURPLE]Acelerar[/color] localizado próximo ao [color=PURPLE]MEDIDOR DE VELOCIDADE[/color].\n\nTenha em mente que quanto mais pesar sua nave, mais tempo levará para encher o [color=PURPLE]MEDIDOR DE VELOCIDADE[/color], necessitando instalar mais [color=KHAKI]propulsores[/color]."
     },
     "Rooms": {
-        "title": "Rooms",
-        "description": "Select a room by [color=LIGHT_GREEN]double clicking[/color] or {alternate_select} + {select} on any floor tile within it.\n\nOnce selected, a menu will appear where you can change the room's name and view various details about it.\n\nIt is in this menu that you can also designate the room's type. This will be needed to set specific rooms for your crew to sleep in, plus various other functions."
+        "title": "Salas",
+        "description": "Selecione uma sala [color=LIGHT_GREEN]clicando duas vezes[/color] ou {alternate_select} + {select} em qualquer ladrilho do piso dentro dela.\n\nUma vez selecionada, um menu aparecerá onde você pode mudar o nome da sala e ver vários detalhes sobre ela.\n\nÉ neste menu que você também pode designar o tipo da sala. Isso será necessário para definir salas específicas para sua tripulação dormir, além de várias outras funções."
     },
     "BrewingAtABarrelStep1": {
-		"title": "Brewing Food and Drinks",
-        "description": "[color=KHAKI]Barrels[/color] can be used to brew a variety of drinks and foods.\n\nTo use a [color=KHAKI]Barrel[/color], press the [img=0] button on the menu, then select [color=PURPLE]Prepare Orders[/color]. This will open a new menu where you can select from the available recipes, increasing or decreasing the amount you require.\n\nOnce you're satisfied with your selection, press [color=PURPLE]Send orders[/color] to begin production.\n\nEnsure your [color=KHAKI]Barrel[/color] is not forbidden so your crew can interact with it."
+		"title": "Preparando Comidas e Bebidas",
+        "description": "[color=KHAKI]Barris[/color] podem ser usados para preparar uma variedade de bebidas e comidas.\n\nPara usar um [color=KHAKI]Barril[/color], pressione o botão [img=0] no menu, então selecione [color=PURPLE]Preparar Ordens[/color]. Isso abrirá um novo menu onde você pode selecionar das receitas disponíveis, aumentando ou diminuindo a quantidade que você precisa.\n\nUma vez satisfeito com sua seleção, pressione [color=PURPLE]Enviar ordens[/color] para começar a produção.\n\nCertifique-se de que seu [color=KHAKI]Barril[/color] não esteja proibido para que sua tripulação possa interagir com ele."
 	},
    "TransponderStep1":{
         "title": "Transponder",
-        "description": "The [color=KHAKI]Transponder[/color] is the heart of every ship, and in most sectors you are required to keep this powered and fully operational. Without an active [color=KHAKI]Transponder[/color] signal, other ships will be unable to detect or locate you.\n\nEvery [color=KHAKI]Transponder[/color] contains a backup battery that automatically activates whenever its primary circuit loses power. Keep in mind this is limited to only [color=YELLOW]90w[/color] of connected power. Normally enough to power itself and a [color=KHAKI]Comms Console[/color].\n\nThe building of anything other than [color=KHAKI]Ship Structure[/color] or [color=KHAKI]Deck Plating[/color] is prohibited until a [color=KHAKI]Transponder[/color] has been installed."
+        "description": "O [color=KHAKI]Transponder[/color] é o coração de toda nave, e na maioria dos setores você é obrigado a mantê-lo energizado e totalmente operacional. Sem um sinal de [color=KHAKI]Transponder[/color] ativo, outras naves não conseguirão detectar ou localizar você.\n\nCada [color=KHAKI]Transponder[/color] contém uma bateria de reserva que se ativa automaticamente sempre que seu circuito primário perde energia. Tenha em mente que isso é limitado a apenas [color=YELLOW]90w[/color] de energia conectada. Normalmente suficiente para energizar a si mesmo e um [color=KHAKI]Console de Comunicação[/color].\n\nA construção de qualquer coisa além de [color=KHAKI]Estrutura de Nave[/color] ou [color=KHAKI]Revestimento de Piso[/color] é proibida até que um [color=KHAKI]Transponder[/color] tenha sido instalado."
     },
     "PawnsStep1":{
-        "title": "Crew",
-        "description": "To issue a forced command to a [color=KHAKI]crew[/color] member, they must first be toggled to accept commands by pressing {select} on the [color=PURPLE]command[/color] icon [img=0] on the [color=PURPLE]character[/color] menu. You can then use the [color=PURPLE]context[/color] menus (accessed via {action}) to issue orders. [color=KHAKI]Crew[/color] members will no longer carry out normal daily tasks whilst the command toggle is active.\n\nYou can cycle through your [color=KHAKI]crew[/color] by using {cycle_pawns_forward} and {cycle_pawns_backward}."
+        "title": "Tripulação",
+        "description": "Para emitir um comando forçado a um membro da [color=KHAKI]tripulação[/color], ele deve primeiro ser alternado para aceitar comandos pressionando {select} no ícone [color=PURPLE]comando[/color] [img=0] no menu [color=PURPLE]personagem[/color]. Você pode então usar os menus [color=PURPLE]contexto[/color] (acessados via {action}) para emitir ordens. Membros da [color=KHAKI]tripulação[/color] não realizarão mais tarefas diárias normais enquanto a alternância de comando estiver ativa.\n\nVocê pode percorrer sua [color=KHAKI]tripulação[/color] usando {cycle_pawns_forward} e {cycle_pawns_backward}."
     },
     "HuntingStep1":{
-        "title": "Hunting",
-        "description": "You can gain food and other resources by hunting creatures.\n\nTo do this, select the [color=PURPLE]Hunting[/color] icon [img=0] in the [color=PURPLE]Orders[/color] menu. Then [color=LIGHT_GREEN]click and drag[/color] over a [color=KHAKI]creature[/color] to designate it for hunting.\n\nYou will need to have a [color=KHAKI]crew[/color] member with a ranged weapon and the [color=PURPLE]Hunting[/color] work type enabled in order for them to carry out the task."
+        "title": "Caça",
+        "description": "Você pode obter comida e outros recursos caçando criaturas.\n\nPara fazer isso, selecione o ícone [color=PURPLE]Caça[/color] [img=0] no menu [color=PURPLE]Ordens[/color]. Então [color=LIGHT_GREEN]clique e arraste[/color] sobre uma [color=KHAKI]criatura[/color] para designá-la para caça.\n\nVocê precisará ter um membro da [color=KHAKI]tripulação[/color] com uma arma de longo alcance e o tipo de trabalho [color=PURPLE]Caça[/color] habilitado para que eles possam realizar a tarefa."
     },
     "GrowingFoodStep1":{
-        "title": "Growing Food",
-        "description": "If you have the correct [color=KHAKI]Seeds[/color] (purchasable from a ship), you can grow food in an [color=KHAKI]Aeroponics[/color]. You need to ensure you have enough oxygen in the room you are growing in, and the [color=KHAKI]Aeroponics[/color] needs to be powered and not forbidden.\n\nOnce grown, one of your [color=KHAKI]crew[/color] will harvest the crop.\n\nThe more health the crop has, the higher the yield will be, including any seeds regained."
+        "title": "Cultivando Comida",
+        "description": "Se você tiver as [color=KHAKI]Sementes[/color] corretas (compráveis de uma nave), você pode cultivar comida em uma [color=KHAKI]Aeroponia[/color]. Você precisa garantir que tenha oxigênio suficiente na sala onde está cultivando, e a [color=KHAKI]Aeroponia[/color] precisa estar energizada e não proibida.\n\nUma vez cultivada, um de seus [color=KHAKI]membros da tripulação[/color] colherá a plantação.\n\nQuanto mais saúde a plantação tiver, maior será o rendimento, incluindo quaisquer sementes recuperadas."
     },
     "CombatStep1":{
-        "title": "Combat",
-        "description": "Your crew may find themselves in a lot of combat sitations. Most of the time you will have to ensure your crew are commanded in order to issue them combat commands."
+        "title": "Combate",
+        "description": "Sua tripulação pode se encontrar em muitas situações de combate. Na maioria das vezes você terá que garantir que sua tripulação seja comandada para emitir comandos de combate."
     },
     "SpaceSuits":{
-        "title": "EVA Suits",
-        "description": "An EVA suit is required for some creatures to exit the ship. A full EVA suit consists of a [color=KHAKI]Helmet[/color] and [color=KHAKI]Space suit[/color].\n\nAll EVA suits contain an air tank that will automatically refill with any oxygen from the room they are currently in."
+        "title": "Trajes EVA",
+        "description": "Um traje EVA é necessário para algumas criaturas saírem da nave. Um traje EVA completo consiste em um [color=KHAKI]Capacete[/color] e [color=KHAKI]Traje espacial[/color].\n\nTodos os trajes EVA contêm um tanque de ar que será automaticamente reabastecido com qualquer oxigênio da sala onde estão atualmente."
     }
 }
+

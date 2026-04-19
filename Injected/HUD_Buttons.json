@@ -1,25 +1,26 @@
 {
     "Building": {
-        "title": "Building",
+        "title": "Construção",
         "description": "F1"
     },
     "Orders": {
-        "title": "Orders",
+        "title": "Ordens",
         "description": "F2"
     },
     "Crew": {
-        "title": "Crew",
+        "title": "Tripulação",
         "description": "F3"
     },
     "Factions": {
-        "title": "Factions",
+        "title": "Facções",
         "description": "F4"
     },
     "Zones": {
-        "title": "Zones",
+        "title": "Zonas",
         "description": "F5"
     },
     "DevMenu": {
-        "title": "DevMenu"
+        "title": "MenuDev"
     }
 }
+

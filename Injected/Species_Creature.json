@@ -1,12 +1,15 @@
 {
 	"Rat": {
-    	"title": "Rat",
-		"description": "A small adaptable rodent. Can sometimes be found as stowaways on ships."
+    	"title": "Rato",
+		"description": "Um roedor pequeno e adaptável. Às vezes pode ser encontrado como clandestino em naves."
 	},
 	"Hen": {
-		"description": "A female chicken. Can lay eggs if it has a rooster to mate with, or can be butchered for meat."
+    	"title": "Galinha",
+		"description": "Uma galinha fêmea. Pode botar ovos se tiver um galo para acasalar, ou pode ser abatida para obter carne."
 	},
 	"Rooster": {
-		"description": "A male chicken. Can mate with hens to fertilize their eggs, or can be butchered for meat."
+    	"title": "Galo",
+		"description": "Um galo macho. Pode acasalar com galinhas para fertilizar seus ovos, ou pode ser abatido para obter carne."
 	}
 }
+

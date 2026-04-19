@@ -1,42 +1,43 @@
 {
     "GeneralRoom": {
-        "title": "General Room",
-        "description": "A generic or multifunctional room."
+        "title": "Sala Geral",
+        "description": "Uma sala genérica ou multifuncional."
     },
     "Quarters": {
-        "title": "Crew Quarters",
-        "description": "A private living space for assigned crew members.\n\nCapacity is dictated by the amount of sleeping spots."
+        "title": "Alojamentos da Tripulação",
+        "description": "Um espaço privado de vida para membros da tripulação designados.\n\nA capacidade é ditada pela quantidade de lugares para dormir."
     },
     "GrowRoom": {
-        "title": "Grow Room",
-        "description": "A designated space to grow plants, fruit, and vegetables."
+        "title": "Sala de Cultivo",
+        "description": "Um espaço designado para cultivar plantas, frutas e vegetais."
     },
     "Brig": {
-        "title": "Brig",
-        "description": "A designated space to hold prisoners."
+        "title": "Cela",
+        "description": "Um espaço designado para manter prisioneiros."
     },
     "MessHall": {
-        "title": "Mess Hall",
-        "description": "A designated space for dining and cooking."
+        "title": "Refeitório",
+        "description": "Um espaço designado para refeições e cozinha."
     },
     "Bridge": {
-        "title": "Bridge",
-        "description": "The room containing the ship's navigation and command centres."
+        "title": "Ponte",
+        "description": "A sala contendo os centros de navegação e comando da nave."
     },
     "SickBay": {
-        "title": "Sick Bay",
-        "description": "A designated space to keep sick or injured crew members."
+        "title": "Enfermaria",
+        "description": "Um espaço designado para manter membros da tripulação doentes ou feridos."
     },
     "CargoBay": {
-        "title": "Cargo Bay",
-        "description": "A designated space to store cargo and supplies."
+        "title": "Porão de Carga",
+        "description": "Um espaço designado para armazenar carga e suprimentos."
     },
     "EngineRoom": {
-        "title": "Engine Room",
-        "description": "The room containing the ship's engines and related machinery."
+        "title": "Sala de Máquinas",
+        "description": "A sala contendo os motores da nave e maquinaria relacionada."
     },
     "LifeSupport": {
-        "title": "Life Support",
-        "description": "The room containing the ship's atmospheric and environmental systems."
+        "title": "Suporte de Vida",
+        "description": "A sala contendo os sistemas atmosféricos e ambientais da nave."
     }
 }
+

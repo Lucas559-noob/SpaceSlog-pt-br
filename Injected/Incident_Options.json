@@ -1,44 +1,45 @@
 {
     "PassingShip": {
-        "title": "Passing ship"
+        "title": "Nave passando"
     },
     "PassingShipPhysical": {
-        "title": "Passing ship physical"
+        "title": "Nave passando física"
     },
     "AsteroidField": {
-        "title": "Asteroid field"
+        "title": "Campo de asteroides"
     },
     "BattleDebris": {
-        "title": "Battle debris"
+        "title": "Destroços de batalha"
     },
     "CryoChamber": {
-        "title": "Cryo chamber spotted"
+        "title": "Câmara de criogenia avistada"
     },
     "HostileCreatureAssault": {
-        "title": "Hostile creature assault"
+        "title": "Ataque de criatura hostil"
     },
     "PassingShipRescue": {
-        "title": "Passing ship rescue"
+        "title": "Resgate de nave passando"
     },
     "PassingPlanet": {
-        "title": "Passing planet"
+        "title": "Planeta passando"
     },
     "PassingStar": {
-        "title": "Passing star"
+        "title": "Estrela passando"
     },
     "Infestation": {
-        "title": "Infestation"
+        "title": "Infestação"
     },
     "MayDayPawn": {
-        "title": "Mayday pawn"
+        "title": "Peão de Mayday"
     },
     "AbandonedFacility": {
-        "title": "Abandoned facility"
+        "title": "Instalação abandonada"
     },
     "HostileSwarm": {
-        "title": "Hostile swarm"
+        "title": "Enxame hostil"
     },
     "TransportShipAssault": {
-        "title": "Assault"
+        "title": "Ataque"
     }
 }
+

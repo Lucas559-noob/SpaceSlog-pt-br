@@ -1,56 +1,57 @@
 {
     "FrontLeftWing": {
-		"title": "Front left wing"
+		"title": "Asa frontal esquerda"
 	},
     "FrontRightWing": {
-		"title": "Front right wing"
+		"title": "Asa frontal direita"
 	},
     "FrontLeftPaw": {
-		"title": "Front left paw"
+		"title": "Pata frontal esquerda"
 	},
     "FrontRightPaw": {
-		"title": "Front right paw"
+		"title": "Pata frontal direita"
 	},
     "RearLeftPaw": {
-		"title": "Rear left paw"
+		"title": "Pata traseira esquerda"
 	},
     "RearRightPaw": {
-		"title": "Rear right paw"
+		"title": "Pata traseira direita"
 	},
 	"Tail": {
-		"title": "Tail"
+		"title": "Cauda"
 	},
     "FrontLeftClaws": {
-		"title": "Front left claws"
+		"title": "Garras frontais esquerdas"
 	},
 	"FrontRightClaws": {
-		"title": "Front right claws"
+		"title": "Garras frontais direitas"
 	},
 	"RearLeftClaws": {
-		"title": "Rear left claws"
+		"title": "Garras traseiras esquerdas"
 	},
 	"RearRightClaws": {
-		"title": "Rear right claws"
+		"title": "Garras traseiras direitas"
 	},
 	"FrontLeftLeg": {
-		"title": "Front left leg"
+		"title": "Perna frontal esquerda"
 	},
 	"MiddleLeftLeg": {
-		"title": "Middle left leg"
+		"title": "Perna média esquerda"
 	},
 	"RearLeftLeg": {
-		"title": "Rear left leg"
+		"title": "Perna traseira esquerda"
 	},
 	"FrontRightLeg": {
-		"title": "Front right leg"
+		"title": "Perna frontal direita"
 	},
 	"MiddleRightLeg": {
-		"title": "Middle right leg"
+		"title": "Perna média direita"
 	},
 	"RearRightLeg": {
-		"title": "Rear right leg"
+		"title": "Perna traseira direita"
 	},
 	"Beak": {
-		"title": "Beak"
+		"title": "Bico"
 	}
 }
+

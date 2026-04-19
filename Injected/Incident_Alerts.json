@@ -1,22 +1,23 @@
 {
     "PassingShipDroppedOffCrewman": {
-        "title": "A crew member has been left behind.",
-        "description": "{ship_name} of {faction_name} has left behind crew member {subject_name} to help you."
+        "title": "Um tripulante foi deixado para trás.",
+        "description": "{ship_name} da {faction_name} deixou o tripulante {subject_name} para ajudar você."
     },
     "HostileCreaturesEnteredSector": {
-        "title": "Hostile creatures have entered this sector.",
-        "description": "Hostile {pawn} have been detected entering this sector. Be prepared for imminent attack!"
+        "title": "Criaturas hostis entraram neste setor.",
+        "description": "{pawn} hostis foram detectados entrando neste setor. Esteja preparado para um ataque iminente!"
     },
     "Infestation": {
-        "title": "Infestation.",
-        "description": "{pawn} have been spotted! These could have been hiding in any cargo that has come aboard recently. Fortunately they are not aggressive unless provoked, though if left alone they may start making their way through your provisions."
+        "title": "Infestação.",
+        "description": "{pawn} foram avistados! Eles poderiam ter se escondido em qualquer carga que subiu a bordo recentemente. Felizmente eles não são agressivos a menos que provocados, embora, se deixados sozinhos, possam começar a consumir seus suprimentos."
     },
     "MayDayPawn": {
         "title": "Mayday!",
-        "description": "A distress signal has been received through your comms console. The sender, introducing themselves as {pawn}, reports having been left behind and abandoned by their crew. They are requesting immediate rescue.\n\nYou may choose to drop out of high burn and assist them, or ignore the signal, though doing so will almost certainly result in their death."
+        "description": "Um sinal de socorro foi recebido através do seu console de comunicações. O remetente, apresentando-se como {pawn}, relata ter sido deixado para trás e abandonado por sua tripulação. Eles estão solicitando resgate imediato.\n\nVocê pode escolher sair do modo de alta velocidade e ajudá-los, ou ignorar o sinal, embora fazer isso quase certamente resultará em sua morte."
     },
     "HostileSwarm": {
-        "title": "Hostile swarm",
-        "description": "A hostile swarm of {amount} {pawn}s has been detected nearby and will be here within approximately {time} hours. We should either leave immediately or prepare for combat."
+        "title": "Enxame hostil",
+        "description": "Um enxame hostil de {amount} {pawn}s foi detectado nas proximidades e estará aqui dentro de aproximadamente {time} horas. Devemos partir imediatamente ou nos preparar para o combate."
     }
 }
+

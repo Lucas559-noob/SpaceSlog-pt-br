@@ -1,38 +1,39 @@
 {
     "Gaseous": {
-        "title": "Gas giant",
-        "description": "A planet composed mainly of gases with a molten rocky core. These planets are inhospitable to most life forms and have no surface to land on."
+        "title": "Gigante gasoso",
+        "description": "Um planeta composto principalmente de gases com um núcleo rochoso derretido. Esses planetas são inóspitos para a maioria das formas de vida e não têm superfície para pousar."
     },
     "Desert": {
-        "title": "Desert planet",
-        "description": "A very dry and sandy planet with an atmosphere that can range from extremely inhospitable to fairly mild. Most desert type planets have little to no vegetation but can still be capable of supporting life."
+        "title": "Planeta deserto",
+        "description": "Um planeta muito seco e arenoso com uma atmosfera que pode variar de extremamente inóspita a bastante moderada. A maioria dos planetas do tipo deserto tem pouca ou nenhuma vegetação, mas ainda pode ser capaz de sustentar vida."
     },
     "Water": {
-        "title": "Water planet",
-        "description": "This planet is composed of mostly water. These planets can sometimes have small landmasses or islands which may be safe to land on. However, due to their varying chemical compositions, most water on these worlds is not suitable for drinking."
+        "title": "Planeta aquático",
+        "description": "Este planeta é composto principalmente de água. Esses planetas às vezes podem ter pequenas massas de terra ou ilhas que podem ser seguras para pousar. No entanto, devido às suas composições químicas variadas, a maioria das águas desses mundos não é adequada para beber."
     },
     "Magma": {
-        "title": "Magma planet",
-        "description": "A molten rock and lava covered planet. Extremely hot and inhospitable to most life forms. Special equipment is typically required to travel here."
+        "title": "Planeta de magma",
+        "description": "Um planeta coberto de rocha derretida e lava. Extremamente quente e inóspito para a maioria das formas de vida. Equipamento especial é geralmente necessário para viajar aqui."
     },
     "YellowDwarf": {
-        "title": "Yellow dwarf",
-        "description": "A small, warm and stable star that emits a lot of light for it's humble size."
+        "title": "Anã amarela",
+        "description": "Uma estrela pequena, quente e estável que emite muita luz para seu tamanho modesto."
     },
     "WhiteDwarf": {
-        "title": "White dwarf",
-        "description": "A very small, but dense star that has exhausted most of its nuclear fuel. These start out very hot and gradually cool down."
+        "title": "Anã branca",
+        "description": "Uma estrela muito pequena, mas densa que esgotou a maior parte de seu combustível nuclear. Essas estrelas começam muito quentes e gradualmente esfriam."
     },
     "RedDwarf": {
-        "title": "Red dwarf",
-        "description": "A small, cool and very stable star. These properties mean they are statistically the most numerous stars in The Slog."
+        "title": "Anã vermelha",
+        "description": "Uma estrela pequena, fria e muito estável. Essas propriedades significam que estatisticamente são as estrelas mais numerosas no Slog."
     },
     "RedGiant": {
-        "title": "Red giant",
-        "description": "A giant, relatively cool star of low mass, that emits a lot of light. The most common birthing ground for planetary nebula. "
+        "title": "Gigante vermelha",
+        "description": "Uma estrela gigante, relativamente fria, de baixa massa, que emite muita luz. O berçário mais comum para nebulosas planetárias."
     },
     "BlueGiant": {
-        "title": "Blue giant",
-        "description": "A large, short lived, extremely hot star. Blue giants emit huge amounts of heat and radiation, making them very dangerous to travel near. However, extremely rare and valuable resources can sometimes be found orbiting these stars."
+        "title": "Gigante azul",
+        "description": "Uma estrela grande, de curta duração, extremamente quente. Gigantes azuis emitem enormes quantidades de calor e radiação, tornando-as muito perigosas para viajar por perto. No entanto, recursos extremamente raros e valiosos às vezes podem ser encontrados orbitando essas estrelas."
     }
 }
+

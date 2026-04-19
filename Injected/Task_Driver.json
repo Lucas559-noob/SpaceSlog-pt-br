@@ -1,154 +1,155 @@
 {
     "Roam": {
-        "title": "Roam",
-        "description": "Roaming around."
+        "title": "Vagar",
+        "description": "Vagando por aí."
     },
     "Idle": {
-        "title": "Idling",
-        "description": "Standing around."
+        "title": "Ocioso",
+        "description": "Parado por aí."
     },
     "Eat": {
-        "title": "Eat",
-        "description": "Eating {object_a}."
+        "title": "Comer",
+        "description": "Comendo {object_a}."
     },
     "Drink": {
-        "title": "Drink",
-        "description": "Drinking {object_a}."
+        "title": "Beber",
+        "description": "Bebendo {object_a}."
     },
     "Clean": {
-        "title": "Clean",
-        "description": "Cleaning {object_a}."
+        "title": "Limpar",
+        "description": "Limpando {object_a}."
     },
     "Sleep": {
-        "title": "Sleep",
-        "description": "Sleeping."
+        "title": "Dormir",
+        "description": "Dormindo."
     },
     "InvoluntarySleep": {
-        "title": "Sleep",
-        "description": "Resting."
+        "title": "Dormir",
+        "description": "Descansando."
     },
     "ForceMove": {
-        "title": "Force Move",
-        "description": "Moving."
+        "title": "Forçar movimento",
+        "description": "Movendo-se."
     },
     "Pickup": {
-        "title": "Pickup",
-        "description": "Picking up {object_a}."
+        "title": "Pegar",
+        "description": "Pegando {object_a}."
     },
     "Haul": {
-        "title": "Haul",
-        "description": "Hauling {object_a}."
+        "title": "Transportar",
+        "description": "Transportando {object_a}."
     },
     "Combine": {
-        "title": "Combine",
-        "description": "Combining {object_a}."
+        "title": "Combinar",
+        "description": "Combinando {object_a}."
     },
     "Refuel": {
-        "title": "Refuel",
-        "description": "Refuelling {object_b} with {object_a}."
+        "title": "Reabastecer",
+        "description": "Reabastecendo {object_b} com {object_a}."
     },
     "MoveDeadPawn": {
-        "title": "Move dead pawn",
-        "description": "Disposing of {object_a}."
+        "title": "Mover peão morto",
+        "description": "Descartando {object_a}."
     },
     "Equip": {
-        "title": "Equip",
-        "description": "Equipping {object_a}."
+        "title": "Equipar",
+        "description": "Equipando {object_a}."
     },
     "UnEquip": {
-        "title": "Removing",
-        "description": "Removing {object_a}."
+        "title": "Remover",
+        "description": "Removendo {object_a}."
     },
     "CollectMaterials": {
-        "title": "Collect materials",
-        "description": "Collecting {object_a}."
+        "title": "Coletar materiais",
+        "description": "Coletando {object_a}."
     },
     "Strip": {
-        "title": "Strip",
-        "description": "Removing all items from {object_a} inventory."
+        "title": "Despir",
+        "description": "Removendo todos os itens do inventário de {object_a}."
     },
     "Deconstruct": {
-        "title": "Deconstruct",
-        "description": "Deconstructing {object_a}."
+        "title": "Desconstruir",
+        "description": "Desconstruindo {object_a}."
     },
     "Repair": {
-        "title": "Repair",
-        "description": "Repairing {object_a}."
+        "title": "Reparar",
+        "description": "Reparando {object_a}."
     },
     "Mine": {
-        "title": "Mine",
-        "description": "Mining {object_a}."
+        "title": "Minerar",
+        "description": "Minerando {object_a}."
     },
     "DestroyAsset": {
-        "title": "Destroy asset",
-        "description": "Destroying {object_a}."
+        "title": "Destruir item",
+        "description": "Destruindo {object_a}."
     },
     "HaulToPrefab": {
-        "title": "Haul to prefab",
-        "description": "Hauling {object_a} to {object_b}."
+        "title": "Transportar para construção",
+        "description": "Transportando {object_a} para {object_b}."
     },
     "Build": {
-        "title": "Build",
-        "description": "Building {object_a}."
+        "title": "Construir",
+        "description": "Construindo {object_a}."
     },
     "Rescue": {
-        "title": "Rescue",
-        "description": "Rescuing {object_b}."
+        "title": "Resgatar",
+        "description": "Resgatando {object_b}."
     },
     "RestUntilHealed": {
-        "title": "Resting",
-        "description": "Resting."
+        "title": "Descansar",
+        "description": "Descansando."
     },
     "UseEntertainment": {
-        "title": "Play arcade machine.",
-        "description": "Playing {object_a}."
+        "title": "Jogar na máquina de arcade.",
+        "description": "Jogando {object_a}."
     },
     "SitAtChair": {
-        "title": "Sitting.",
-        "description": "Sitting."
+        "title": "Sentado.",
+        "description": "Sentado."
     },
     "TendHeal": {
-        "title": "Heal pawn",
-        "description": "Healing {object_b} with {object_a}."
+        "title": "Curar peão",
+        "description": "Curando {object_b} com {object_a}."
     },
     "TendFeed": {
-        "title": "Heal pawn",
-        "description": "Feeding {object_a} to {object_b}."
+        "title": "Curar peão",
+        "description": "Alimentando {object_b} com {object_a}."
     },
     "TendHydrate": {
-        "title": "Heal pawn",
-        "description": "Rehydrating {object_b} with {object_a}."
+        "title": "Curar peão",
+        "description": "Reidratando {object_b} com {object_a}."
     },
     "GetBackToShip": {
-        "title": "Get back to the ship",
-        "description": "Making my way back to the ship."
+        "title": "Voltar para a nave",
+        "description": "Fazendo meu caminho de volta para a nave."
     },
     "Butcher": {
-        "title": "Butcher",
-        "description": "Butchering {object_a}."
+        "title": "Abater",
+        "description": "Abatendo {object_a}."
     },
     "SowPlant": {
-        "title": "Sow plant",
-        "description": "Sowing {object_a}."
+        "title": "Semear planta",
+        "description": "Semeando {object_a}."
     },
     "HarvestPlant": {
-        "title": "Harvest plant",
-        "description": "Harvesting {object_a}."
+        "title": "Colher planta",
+        "description": "Colhendo {object_a}."
     },
     "HarvestBrew": {
-        "title": "Harvest brew",
-        "description": "Harvesting {object_a}."
+        "title": "Colher bebida",
+        "description": "Colhendo {object_a}."
     },
     "SitOnCaptainsChair": {
-        "title": "Sit on captain's chair",
-        "description": "Sitting on my chair."
+        "title": "Sentar na cadeira do capitão",
+        "description": "Sentado na minha cadeira."
     },
     "Breed": {
-        "title": "Mating.",
-        "description": "Mating with {object_a}."
+        "title": "Acasalar.",
+        "description": "Acasalando com {object_a}."
     },
     "SelfTend": {
-        "title": "Self Tend",
-        "description": "Tending to self with {object_a}."
+        "title": "Autocuidado",
+        "description": "Cuidando de si mesmo com {object_a}."
     }
 }
+
